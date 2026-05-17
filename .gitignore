@@ -14,12 +14,14 @@ env/
 .venv/
 .env
 
-# --- Data sensible (NE PAS COMMITER les données brutes médicales) ---
+# --- Data sensible ---
+# On ignore les CSV par défaut pour éviter les leaks accidentels
 data/raw/*.csv
 data/raw/*.xlsx
 data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/raw/bat_dataset_latest.csv
 
 # --- Notebooks ---
 .ipynb_checkpoints/
