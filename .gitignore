@@ -1,0 +1,48 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Environnements ---
+venv/
+env/
+.venv/
+.env
+
+# --- Data sensible (NE PAS COMMITER les données brutes médicales) ---
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & temp ---
+*.log
+*.tmp
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Modèles entraînés (si gros) ---
+*.pkl
+*.joblib
+*.h5

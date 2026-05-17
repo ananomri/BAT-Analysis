@@ -1,0 +1,16 @@
+variable,VIF
+cancer_grp_reduced_Hématologique,2.55
+cancer_grp_reduced_Sein,1.72
+cancer_grp_reduced_Gynécologique,1.67
+cancer_grp_reduced_Thoracique,1.64
+cancer_grp_reduced_Digestif,1.53
+sexe_H,1.45
+age,1.38
+cancer_grp_reduced_ORL/Cavum,1.31
+cancer_grp_reduced_Cutané/Sarcome,1.31
+imc,1.14
+diabete_Oui,1.14
+chimio_recente_Oui,1.11
+glycemie,1.1
+temp_ext,1.06
+heure_injection_h,1.04

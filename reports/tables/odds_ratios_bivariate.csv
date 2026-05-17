@@ -1,0 +1,5 @@
+variable,OR,IC95_low,IC95_high,interpret
+sexe_f,1.69,1.04,2.74,Risque ↑
+diabete_bin,0.27,0.08,0.92,Protecteur
+chimio_recente_bin,1.5,0.77,2.94,Risque ↑
+insuffisance_renale_bin,0.44,0.05,3.82,Protecteur
