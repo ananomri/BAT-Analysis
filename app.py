@@ -16,7 +16,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from src import config as C
 from src.preprocessing import run_pipeline
 from src.modeling import build_design_matrix, evaluate_model
-from src.causal_analysis import prepare_causal_data, run_causal_inference
+try:
+    from src.causal_analysis import prepare_causal_data, run_causal_inference
+    HAS_CAUSAL = True
+except ImportError:
+    HAS_CAUSAL = False
 import src.viz_utils as V
 
 # --- STYLE CONFIGURATION (PREMIUM CSS) ---
@@ -268,7 +272,10 @@ elif page == "BAT Predictor":
 
 # --- PAGE: CAUSAL INFERENCE ---
 elif page == "Causal Inference":
-    st.title("Causal Intelligence")
+    if not HAS_CAUSAL:
+        st.error("Causal Inference is not available in the browser-lite version (dowhy dependency issue). Use a full Python environment for this feature.")
+    else:
+        st.title("Causal Intelligence")
     st.markdown("Quantifying direct clinical impacts by isolating confounding variables.")
     
     col1, col2 = st.columns(2)
