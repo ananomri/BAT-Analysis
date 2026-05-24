@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>BAT Analysis Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.39.0/build/stlite.css" />
+</head>
+
+<body>
+    <div id="root"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.39.0/build/stlite.js"></script>
+    <script>
+        stlite.mount({
+            requirements: [
+                "pandas", "numpy", "matplotlib", "seaborn", "scikit-learn", "statsmodels", "dowhy", "scipy"
+            ],
+            entrypoint: "app.py",
+            files: {
+                "app.py": {
+                    url: "./app.py",
+                },
+                "src/__init__.py": {
+                    url: "./src/__init__.py",
+                },
+                "src/config.py": {
+                    url: "./src/config.py",
+                },
+                "src/preprocessing.py": {
+                    url: "./src/preprocessing.py"
+                },
+                "src/modeling.py": {
+                    url: "./src/modeling.py"
+                },
+                "src/causal_analysis.py": {
+                    url: "./src/causal_analysis.py"
+                },
+                "src/viz_utils.py": {
+                    url: "./src/viz_utils.py"
+                },
+                "src/stats_utils.py": {
+                    url: "./src/stats_utils.py"
+                },
+                "data/processed/bat_dataset_clean.csv": {
+                    url: "./data/processed/bat_dataset_clean.csv"
+                },
+                "data/raw/bat_dataset_latest.csv": {
+                    url: "./data/raw/bat_dataset_latest.csv"
+                }
+            },
+        },
+            document.getElementById("root"));
+    </script>
+</body>
+
+</html>
