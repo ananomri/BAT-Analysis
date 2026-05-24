@@ -19,7 +19,7 @@ REPORT_MD = ROOT / "reports" / "final_report.md"
 # ============================================================
 # ENCODING
 # ============================================================
-RAW_ENCODING = "latin-1"   # CSV exporté depuis Excel FR
+RAW_ENCODING = "utf-8-sig"   # CSV exporté avec BOM (UTF-8)
 
 # ============================================================
 # COLONNES À SUPPRIMER (anonymisation RGPD/éthique médicale)
@@ -53,11 +53,15 @@ RENAME_MAP = {
     "Indication": "indication",
     "état throidien": "etat_thyroidien",
     "tat throidien": "etat_thyroidien",
+    "etat throidien": "etat_thyroidien",
     "Insuffisance rénale": "insuffisance_renale",
     "Insuffisance rnale": "insuffisance_renale",
+    "Heure de l’injection": "heure_injection",
     "Heure de linjection": "heure_injection",
-    "Numro de tlphone": "numero_telephone",
+    "Heure de l'injection": "heure_injection",
+    "Temps d’acquisition": "temps_acquisition",
     "Temps dacquisition": "temps_acquisition",
+    "Temps d'acquisition": "temps_acquisition",
 }
 
 # ============================================================

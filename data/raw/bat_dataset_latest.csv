@@ -1,334 +1,325 @@
-ID,Date,Nom,Prénom,Âge,Sexe,Poids (kg),Taille (m),IMC,Glycémie,Diabète,Chimio récente,BAT activée,T(°C),classe température,Saison,Cancer,Indication,état throidien,Heure de l’injection,Numéro de téléphone,Insuffisance rénale,Temps d’acquisition
-5048/2025,17/01/2025,ABBASSI,OLFA,49,F,62,1.6,24.22,0.89,Non,Oui,Oui,17,froid,Hiver,Cancer du sein,"Douleur MSG, antécédent cancer sein",Normal,13:20:00,,Non,14:20:00
-5292/2025,18/03/2025,ABDELLAOUI,MERIEM,8,F,30,1.3,17.75,0.94,Non,Oui,Non,16,froid,Printemps,Cancer ovaire,Tératome immature ovaire,Normal,12:00:00,,Non,13:00:00
-5069/2023,02/02/2023,ABDELLAOUI,WAEL,30,H,52,1.71,17.78,0.97,Non,Non,Non,17,froid,Hiver,Lymphome,Bilan extension lymphome Hodgkin scléronodulaire,Normal,10:32:00,,Non,11:32:00
-5518/2022,14/10/2022,ABDELLI,OURIDA,66,F,64,1.57,25.96,1.41,Non,Non,Non,29,chaud,Automne,Cancer du col,Bilan extension carcinome épidermoïde col utérin,Normal,11:15:00,,Non,12:15:00
-5189/2022,01/12/2023,ABDELWAHED,SARRA,19,F,95,1.57,38.54,1.2,Non,Oui,Non,19,moyen,Hiver,Lymphome,Évaluation post chimiothérapie rattrapage,Normal,08:15:00,,Non,09:15:00
-5689/2024,08/01/2025,ABDESSALEM,AMINE,37,H,84,1.71,28.73,1.1,Non,Oui,Non,17,froid,Hiver,Lymphome,Lymphome anaplasique,Normal,09:20:00,,Non,10:20:00
-5358/2022,20/01/2024,ABDESSALEM,ILHEM,41,F,50,1.57,20.28,0.8,Non,Non,Oui,17,froid,Hiver,Cancer du sein,Bilan rechute osseuse cancer sein,Normal,11:40:00,,Non,12:40:00
-5482/2023,15/03/2024,ABDOULI,CHAIMA,22,F,86,1.67,30.84,1.5,Non,Oui,Oui,16,froid,Printemps,Lymphome Hodgkin,Bilan fin traitement,Normal,10:15:00,,Non,11:15:00
-5589/2024,13/09/2024,ABID,LATIFA,58,F,85,1.57,34.48,1.01,Non,Oui,Non,30,chaud,Automne,Autre,Suspicion maladie Horton,Normal,10:40:00,,Non,11:40:00
-5368/2022,29/11/2022,ABIDI,LOTFI,29,H,56,1.71,19.15,1.05,Non,Oui,Non,22,moyen,Automne,Lymphome,TEP intermédiaire LH post 2 cures BEACOPP,Normal,10:32:00,,Non,11:32:00
-2712/2023,18/01/2024,ABKI,ROMANA,40,F,77,1.57,31.24,1,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Caractérisation lésions hépatiques et osseuses,Normal,09:10:00,,Non,10:10:00
-2575/2023,17/01/2024,ACHOUR,BESMA,51,F,61,1.57,24.75,1.09,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Suspicion récidive CCI sein,Normal,11:10:00,,Non,12:10:00
-5637/2022,13/12/2022,ACHOUR,FREDJ,41,H,60,1.71,20.52,1.06,Non,Non,Non,19,moyen,Hiver,Cancer ORL,Bilan extension initial UCNT cavum T3N1Mx,Normal,10:32:00,,Non,11:32:00
-5245/2023,18/01/2024,ACHOURI,MOHAMED AMINE,20,H,50,1.71,17.1,0.9,Non,Non,Non,17,froid,Hiver,Lymphome,Bilan fin traitement lymphome Hodgkin,Normal,10:20:00,,Non,11:20:00
-5303/2025,25/03/2025,AFLI,ZAIRA,46,F,62,1.57,25.15,0.99,Non,Oui,Non,16,froid,Printemps,Autre,Recherche primitif,Normal,10:30:00,,Oui,11:30:00
-5299/2023,06/05/2023,AGUIR,BOURAOUI,71,H,116,1.6,45.31,1,Non,Non,Non,23,moyen,Printemps,Autre,Caractérisation nodules pulmonaires,Normal,10:20:00,,Oui,11:20:00
-5664/2022,30/12/2022,AINI,MONGIA,66,F,96,1.57,38.95,1.4,Non,Non,Non,19,moyen,Hiver,Cancer du sein,Bilan extension carcinome mammaire gauche T2N0Mx,Normal,10:30:00,,Non,11:30:00
-5005/2024,12/01/2024,AJLANI,AHMED,75,H,60,1.71,20.52,1.24,Non,Oui,Non,17,froid,Hiver,Cancer colorectal,Suspicion récidive ADK colique,Normal,07:40:00,,Non,08:40:00
-5532/2022,12/11/2025,AKHMITOVA,AISYLU,31,F,60,1.6,23.44,0.77,Non,Non,Oui,22,moyen,Automne,Lymphome Hodgkin,Suspicion rechute,Normal,10:20:00,,Non,11:20:00
-5046/2025,07/03/2025,ALOUI,ANIS,39,H,64,1.8,19.75,3.2,Non,Oui,Non,16,froid,Printemps,Lymphome,LH intermédiaire,Normal,09:45:00,,Non,10:45:00
-5590/2024,13/09/2024,ALOUI,HADDI,55,H,60,1.71,20.52,1.43,Non,Oui,Non,30,chaud,Automne,Lymphome,Lymphome zone marginale splénique,Normal,08:30:00,,Non,09:30:00
-5117/2021,23/02/2022,AMARI,RAHMA,19,F,42,1.58,16.82,5,Non,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade IV,Normal,09:05:00,,Non,10:05:00
-5050/2023,26/01/2023,AMMAR,AARFA,73,F,91,1.57,36.92,1.13,Non,Non,Non,17,froid,Hiver,Autre,Caractérisation nodule pulmonaire,Normal,10:45:00,,Non,11:45:00
-5078/2022,26/02/2022,AMMAR,NAOUAEM,36,H,71,1.71,24.28,6.33,Non,Oui,Oui,17,froid,Hiver,Cancer colorectal,Adénocarcinome côlon métastatique,Normal,10:15:00,,Non,11:15:00
-5024/2024,12/01/2024,AMRI,HOURIA,41,F,120,1.57,48.68,1.06,Non,Oui,Oui,17,froid,Hiver,Cancer du col,ADK endométrioïde col,Normal,10:10:00,,Non,11:10:00
-5881/2024,27/05/2025,AMRI,IKRAM,45,F,63,1.69,22.06,0.78,Non,Oui,Oui,23,moyen,Printemps,Lymphome Hodgkin,Évaluation intermédiaire post 2 cures ABVD,Normal,10:30:00,,Non,11:30:00
-5015/2025,10/01/2025,AMRI,REBEH,71,F,63,1.57,25.56,1.05,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Carcinome lobulaire sein,Normal,08:25:00,,Non,09:25:00
-1839/2022,01/12/2023,ARBIA,FETHIA,67,F,50,1.57,20.28,0.98,Non,Oui,Non,19,moyen,Hiver,Cancer estomac,Évaluation post-traitement ADK gastrique,Normal,08:20:00,,Non,09:20:00
-5056/2023,01/02/2023,ARFAOUI,AICHA,72,F,89,1.57,36.11,1.08,Oui,Oui,Oui,17,froid,Hiver,Cancer utérus,Sarcome endométrioïde,Normal,09:15:00,,Non,10:15:00
-5298/2025,19/03/2025,ARIBI,NAJIA,49,F,80,1.57,32.46,0.9,Non,Oui,Non,16,froid,Printemps,Cancer estomac,Carcinome peu différencié,Normal,08:15:00,,Non,09:15:00
-5131/2023,03/01/2023,ASSILI,LAKHDAR,34,H,70,1.7,24.22,1.04,Non,Oui,Oui,17,froid,Hiver,Cancer testicules,Évaluation post-chimiothérapie,Normal,10:25:00,,Non,11:25:00
-5569/2024,12/10/2024,ASSOUDI,ZINA,26,F,66,1.58,26.44,0.94,Non,Oui,Oui,29,chaud,Automne,Lymphome Hodgkin,Bilan intermédiaire post 2 ABVD,Normal,10:15:00,,Non,11:15:00
-5273/2021,08/01/2025,ATHEMNIA,FETHI,62,H,91,1.71,31.12,1.14,Non,Oui,Non,17,froid,Hiver,Lymphome,LH suspicion récidive,Normal,08:30:00,,Non,09:30:00
-5722/2023,01/12/2023,ATIA,KAMEL,68,H,90,1.71,30.78,1.9,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,Caractérisation nodule pulmonaire,Normal,09:20:00,,Non,10:20:00
-5341/2025,16/04/2025,ATTI,NADIA,61,F,74,1.67,26.53,1.06,Non,Oui,Non,20,moyen,Printemps,Cancer du sein,Cancer sein rechute hépatique,Normal,08:15:00,54542696,Non,09:15:00
-5014/2025,10/01/2025,AWASSA,RIDHA,48,H,62,1.71,21.2,0.97,Non,Oui,Non,17,froid,Hiver,Sarcomes,Léiomyosarcome récidive,Normal,10:55:00,90323227,Non,11:55:00
-5009/2023,15/01/2023,AYACHI,LATIFA,67,F,69,1.57,27.99,1.95,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Bilan progression cancer mammaire bilatéral,Normal,13:20:00,,Non,14:20:00
-5279/2021,14/01/2022,AYED,AMANI,16,F,72,1.68,25.51,6.38,Non,Oui,Oui,17,froid,Hiver,Cancer du sein,Rhabdomyosarcome alvéolaire,Normal,08:15:00,,Non,09:15:00
-8585/2024,24/12/2024,AYOUNI,FAOUZI,64,H,94,1.71,32.15,0.98,Oui,Oui,Non,19,moyen,Hiver,Cancer oesophage,ADK oesophage,Normal,09:30:00,,Non,10:30:00
-5031/2023,19/01/2023,BABBA,OUMAIMA,22,F,95,1.57,38.54,1.13,Non,Non,Non,17,froid,Hiver,Autre,Suspicion récidive sarcome grêle,Normal,07:45:00,,Non,08:45:00
-5551/2023,19/04/2024,BACCOUCHI,RACHID,58,H,53,1.7,18.34,0.94,Non,Oui,Oui,20,moyen,Printemps,Lymphome,Évaluation fin traitement 6 RCHOP,Normal,11:00:00,,Non,12:00:00
-5074/2020,04/11/2024,BADRI,FAOUZI,35,H,78,1.71,26.67,0.9,Non,Oui,Non,22,moyen,Automne,Lymphome,LH réfractaire,Normal,09:20:00,,Non,10:20:00
-5326/2025,10/04/2025,BAGHDADI,AHMED,20,H,57,1.75,18.61,0.93,Non,Oui,Non,20,moyen,Printemps,Sarcomes,Rhabdomyosarcome cuisse,Normal,12:20:00,92391235,Non,13:20:00
-5262/2025,07/03/2025,BALLOUM,AICHA,33,F,50,1.62,19.05,1.08,Non,Oui,Non,16,froid,Printemps,Cancer ORL,UCNT cavum,Normal,09:50:00,,Non,10:50:00
-5684/2023,15/11/2023,BARANI,SALOUA,58,F,79,1.69,27.66,1.1,Non,Oui,Non,22,moyen,Automne,Cancer ovaire,Recherche lésions secondaires sur rechute hépatique,Normal,07:45:00,,Non,08:45:00
-5034/2024,18/01/2024,BARGOUGUI,HAITHEM,18,H,71,1.71,24.28,1.01,Non,Non,Non,17,froid,Hiver,Cancer ORL,Bilan extension initial UCNT cavum,Normal,10:10:00,,Non,11:10:00
-5103/2023,24/02/2023,BARKA,NABIL,38,H,91,1.73,30.4,0.91,Non,Oui,Oui,17,froid,Hiver,Cancer colorectal,ADK sigmoïde,Normal,10:50:00,,Non,11:50:00
-5622/2022,09/12/2022,BAYOUDH,MAHMOUD,80,H,78,1.71,26.67,1.47,Non,Non,Non,19,moyen,Hiver,Autre,Suspicion infection pacemaker,Normal,10:32:00,,Non,11:32:00
-5053/2024,19/01/2024,BECHRAOUI,LAILA,69,F,77,1.57,31.24,1.2,Oui,Oui,Oui,17,froid,Hiver,Cancer du sein,Carcinome mammaire gauche,Normal,07:40:00,,Non,08:40:00
-5683/2024,12/12/2024,BELAABI,ALI,58,H,50,1.71,17.1,1.86,Oui,Oui,Non,19,moyen,Hiver,Lymphome,LBDGC gastrique,Normal,12:00:00,,Non,13:00:00
-5327/2021,28/11/2021,BELGACEM,HABIBA,46,F,61,1.63,22.96,5.55,Non,Oui,Oui,22,moyen,Automne,Cancer ovaire,Cystadénocarcinome séreux ovaire,Normal,10:30:00,,Non,11:30:00
-5030/2021,12/04/2023,BELKHAOUI,IMENE,34,F,67,1.57,27.18,1.07,Non,Oui,Oui,20,moyen,Printemps,Cancer utérus,Leiomyosarcome utérin métastatique,Normal,12:20:00,,Non,13:20:00
-5377/2024,07/03/2025,BEN ABDALLAH,ABDELKARIM,64,H,92,1.71,31.46,2,Oui,Oui,Non,16,froid,Printemps,Cancer colorectal,ADK rectum,Normal,10:40:00,,Non,11:40:00
-5536/2022,27/10/2022,BEN AIFA,MABROUK,66,H,80,1.71,27.36,1.2,Non,Non,Non,29,chaud,Automne,Autre,Suspicion myélome multiple,Normal,09:30:00,,Non,10:30:00
-5295/2025,19/03/2025,BEN ALI,LOUJAIN,11,F,50,1.6,19.53,0.94,Non,Oui,Non,16,froid,Printemps,Sarcomes,Sarcome d'Ewing,Normal,10:32:00,,Non,11:32:00
-5309/2025,26/03/2025,BEN AVDALLAH,FAOUZI,56,H,61,1.71,20.86,0.94,Non,Oui,Non,16,froid,Printemps,Lymphome,Lymphome B zone marginale,Normal,11:25:00,,Non,12:25:00
-5578/2024,11/09/2024,BEN CHATTI,JAMEL,50,H,60,1.71,20.52,1.22,Non,Oui,Non,30,chaud,Automne,Lymphome,LBDGC gastrique récidive,Normal,10:30:00,,Non,11:30:00
-5131/2022,16/12/2022,BEN DARMOUN,SEIFEDDINE,31,H,70,1.71,23.94,0.9,Non,Oui,Oui,19,moyen,Hiver,Lymphome,LH stade IV osseux,Normal,10:50:00,,Non,11:50:00
-5170/2021,31/12/2021,BEN HADDA,NOUR,17,F,61,1.55,25.39,4.88,Non,Oui,Oui,19,moyen,Hiver,Lymphome,Lymphome Hodgkin stade II,Normal,10:30:00,,Non,11:30:00
-5016/2019,17/09/2020,BEN HADJ BECHIR,INES,34,H,75,1.71,25.65,3.85,Non,Non,Non,30,chaud,Automne,Lymphome,Lymphome Hodgkin stade IIEAb,Normal,09:10:00,,Non,10:10:00
-5835/2023,21/12/2023,BEN HADJ SLAMA,MONDHER,61,H,60,1.71,20.52,1,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,Carcinome épidermoïde poumon,Normal,10:50:00,,Non,11:50:00
-5080/2023,08/02/2023,BEN HAJ ALI,FREJ,61,H,79,1.71,27.02,0.95,Non,Non,Non,17,froid,Hiver,Mélanome,Bilan extension initial mélanome choroïdien,Normal,09:50:00,,Non,10:50:00
-5146/2022,21/12/2023,BEN HALIMA,SELMA,69,F,66,1.57,26.78,1,Non,Oui,Non,19,moyen,Hiver,Autre,Maladie de Castelman,Normal,10:25:00,,Non,11:25:00
-5050/2024,18/01/2024,BEN HASSEN,MOHAMED,58,H,86,1.71,29.41,1.36,Non,Non,Non,17,froid,Hiver,Cancer ORL,Recherche primitif avec ADP cervicales,Normal,09:20:00,,Non,10:20:00
-5327/2025,11/04/2025,BEN HASSINE,MOHAMED JAMEL,75,H,74,1.76,23.89,1.47,Oui,Oui,Non,20,moyen,Printemps,Cancer du poumon,ADK bronchique métastatique,Normal,07:30:00,,Non,08:30:00
-5193/2025,05/12/2025,BEN HASSINE,NADIA,38,F,95,1.72,32.11,1.05,Non,Oui,Oui,19,moyen,Automne,Cancer endomètre,Sarcome stroma endomètre,Normal,08:15:00,,Non,09:15:00
-5049/2024,18/01/2024,BEN HENI,HAMDI,24,H,63,1.71,21.55,1,Non,Non,Oui,17,froid,Hiver,Lymphome,Bilan extension lymphome Hodgkin,Normal,11:15:00,,Non,12:15:00
-5049/2024,19/03/2024,BEN HENI,HAMDI,24,H,63,1.71,21.55,1,Non,Oui,Oui,16,froid,Printemps,Lymphome,LH stade IV osseux post C2,Normal,12:00:00,,Non,13:00:00
-5380/2022,18/11/2022,BEN MOHD,BOULBABA,49,H,82,1.71,28.04,1,Non,Oui,Non,22,moyen,Automne,Lymphome,Évaluation pré autogreffe LH récidivant,Normal,11:15:00,,Non,12:15:00
-5241/2025,04/03/2025,BEN NECIB,TASNIM,15,F,61,1.64,22.68,0.84,Non,Oui,Non,16,froid,Printemps,Autre,Epilepsie focale,Normal,11:42:00,,Non,12:42:00
-5192/2024,05/02/2025,BEN NEJMA,MAHA,28,F,70,1.57,28.4,1.62,Non,Oui,Oui,17,froid,Hiver,Lymphome,Suspicion récidive LH,Normal,10:30:00,,Non,11:30:00
-5230/2022,13/12/2022,BEN SAAD,AICHA,84,F,86,1.57,34.89,1.35,Non,Oui,Non,19,moyen,Hiver,Mélanome,Réévaluation mélanome rectal métastatique sous immunothérapie,Normal,11:05:00,,Non,12:05:00
-2615/2022,10/09/2024,BEN SALAH,HABIBA,70,F,77,1.57,31.24,1.4,Non,Oui,Non,30,chaud,Automne,Cancer thyroïde,Cancer papillaire thyroïde,dysthyroidie,08:20:00,,Non,09:20:00
-5051/2024,18/01/2024,BEN SALEM,NAWEL,41,F,87,1.57,35.3,1.02,Non,Oui,Non,17,froid,Hiver,Autre,Évaluation post autogreffe pour plasmocytome,Normal,10:55:00,,Non,11:55:00
-5884/2025,12/02/2025,BEN SALEM,WAHID,37,H,66,1.78,20.83,0.81,Non,Oui,Oui,17,froid,Hiver,Cancer testicules,Bilan lésionnel séminome testiculaire post-opératoire,Normal,11:15:00,,Non,12:15:00
-5007/2021,31/01/2023,BEN SALEM,YOSRA,20,F,34,1.57,13.79,0.97,Non,Oui,Non,17,froid,Hiver,Lymphome,TEP fin traitement 2ème ligne LH rechute médullaire,Normal,08:25:00,,Non,09:25:00
-5010/2025,13/01/2025,BEN SIDHOM,ASSIL,1,F,11,0.74,20.09,0.98,Non,Oui,Oui,17,froid,Hiver,Neuroblastome,Neuroblastome,Normal,10:45:00,29019766,Non,11:45:00
-5065/2021,19/01/2023,BEN TKAYA,AHMED,30,H,68,1.71,23.26,0.99,Non,Oui,Non,17,froid,Hiver,Lymphome,TEP pré-greffe lymphome Hodgkin stade IIIB,Normal,10:55:00,,Non,11:55:00
-5243/2025,04/03/2025,BERIOUL,MALEK,10,H,26,1.27,16.12,1,Non,Oui,Non,16,froid,Printemps,Autre,Epilepsie,Normal,09:30:00,,Non,10:30:00
-5307/2025,26/03/2025,BIBI,KAMEL,62,H,68,1.71,23.26,1.03,Non,Oui,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,09:20:00,,Non,10:20:00
-5814/2024,04/12/2024,BLEL,HEDI,69,H,105,1.71,35.91,0.93,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,ADK poumon,Normal,07:45:00,,Non,08:45:00
-5097/2023,18/12/2024,BOU ALLOUCHA,IMENE,31,F,60,1.57,24.34,1.38,Non,Oui,Oui,19,moyen,Hiver,Lymphome,LH en rechute,Normal,10:45:00,,Non,11:45:00
-5460/2024,25/03/2025,BOUALI,RADHIA,68,F,78,1.57,31.64,1.52,Oui,Oui,Non,16,froid,Printemps,Lymphome,LBDGC pancréatique,Normal,12:00:00,,Non,13:00:00
-5068/2025,18/12/2025,BOUATTAY,ZAKARIA,13,H,45,1.55,18.73,0.71,Non,Oui,Oui,19,moyen,Hiver,Lymphome,LH stade III,Normal,10:45:00,50583457,Non,11:45:00
-5081/2024,10/01/2025,BOUAZIZ,OLFA,54,F,78,1.57,31.64,1.17,Non,Oui,Non,17,froid,Hiver,Cancer du sein,CCI sein triple négatif,Normal,11:15:00,,Non,12:15:00
-5313/2024,07/03/2025,BOUCHNAK,AMEL,33,F,73,1.57,29.62,0.9,Non,Oui,Non,16,froid,Printemps,Lymphome,LH fin traitement,Normal,07:40:00,,Non,08:40:00
-5332/2025,11/04/2025,BOUDAGGA,AYA,3,F,16,1.02,15.38,0.9,Non,Oui,Non,20,moyen,Printemps,Neuroblastome,Ganglioneuroblastome,Normal,10:50:00,29225428,Non,11:50:00
-5328/2025,11/04/2025,BOUDRENNA,HAYET,54,F,77,1.6,30.08,0.9,Oui,Oui,Non,20,moyen,Printemps,Lymphome,Lymphome B vésical,Normal,08:40:00,52359572,Non,09:40:00
-5903/2025,12/05/2025,BOUGHZELA,MAROUA,31,F,73,1.63,27.48,0.79,Non,Oui,Oui,23,moyen,Printemps,Cancer du sein,Évaluation lésions osseuses CINS sein gauche métastatique,Normal,10:40:00,,Non,11:40:00
-5427/2022,19/11/2022,BOUGUERRA,ADEM,16,H,61,1.63,22.96,1,Non,Oui,Non,22,moyen,Automne,Lymphome,TEP intermédiaire LH stade II,Normal,12:00:00,,Non,13:00:00
-1041/2024,10/09/2024,BOUHAOUEL,ADEL,55,H,84,1.71,28.73,1,Non,Oui,Non,30,chaud,Automne,Autre,Recherche primitif,Normal,08:20:00,,Non,09:20:00
-5065/2022,11/01/2023,BOUHOULA,MOHAMED BOULBABA,66,H,,1.71,,,Non,Oui,Non,17,froid,Hiver,Cancer du poumon,Bilan extension osseuse cancer poumon (scintigraphie),Normal,10:25:00,,Non,11:25:00
-5506/2022,12/10/2022,BOUSAID,MANSOUR,58,H,54,1.71,18.47,0.97,Non,Oui,Non,29,chaud,Automne,Cancer du poumon,Évolution carcinome épidermoïde poumon,Normal,10:50:00,,Non,11:50:00
-5063/2025,19/12/2025,BOUSETTA,EYA,20,F,68,1.67,24.38,0.85,Non,Oui,Oui,19,moyen,Hiver,Lymphome,Contrôle LH,Normal,09:15:00,,Non,10:15:00
-5247/2025,04/03/2025,BOUZGARROU,OUMAYMA,33,F,51,1.7,17.65,1.03,Non,Oui,Non,16,froid,Printemps,Mélanome,Mélanome conjonctive,Normal,11:05:00,,Non,12:05:00
-5776/2024,19/11/2024,BOUZGUANDA,RAYHANE,24,F,85,1.7,29.41,1.01,Non,Oui,Non,22,moyen,Automne,Cancer thyroïde,Suspicion récidive ganglionnaire cervicale,dysthyroidie,12:20:00,,Non,13:20:00
-5452/2024,14/03/2025,BRAHEM,ZAKIA,70,F,77,1.57,31.24,0.92,Non,Oui,Non,16,froid,Printemps,Lymphome,LBDGC gastrique,Normal,14:10:00,,Non,15:10:00
-5163/2024,10/01/2025,BRAHIM,RIHANE,5,F,15,1.09,12.63,0.9,Non,Oui,Non,17,froid,Hiver,Neuroblastome,Neuroblastome,Normal,10:15:00,,Non,11:15:00
-5545/2024,18/03/2025,BRIKI,AMEUR,53,H,80,1.71,27.36,1.16,Non,Oui,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,08:20:00,,Non,09:20:00
-5028/2024,12/01/2024,BRINI,GHOFRANE,8,F,29,1.24,18.86,1.04,Non,Oui,Oui,17,froid,Hiver,Cancer ovaire,Dysgerminome ovaire,Normal,10:30:00,,Non,11:30:00
-5701/2025,12/03/2025,CHAABANE,ABIR,23,F,79,1.72,26.7,0.89,Non,Oui,Oui,16,froid,Printemps,Lymphome Hodgkin,Évaluation intermédiaire post 2 cures BEACOPP,Normal,08:30:00,,Non,09:30:00
-5737/2023,04/03/2025,CHAABANE,SLAH,52,H,53,1.71,18.13,0.78,Non,Oui,Non,16,froid,Printemps,Cancer pancréas,ADK pancréatique récidive,Normal,10:55:00,,Non,11:55:00
-5861/2024,18/12/2024,CHAABANI,KHELIFA,54,H,72,1.71,24.62,1.08,Non,Oui,Non,19,moyen,Hiver,Cancer ORL,Carcinome épidermoïde lèvre,Normal,07:45:00,,Non,08:45:00
-5300/2025,25/03/2025,CHAABENI,ARFA,56,F,70,1.57,28.4,1.03,Non,Oui,Non,16,froid,Printemps,Cancer ovaire,ADK séreux ovaire,Normal,11:10:00,,Non,12:10:00
-5297/2023,06/05/2023,CHAIEB,HADDA,67,F,92,1.57,37.32,1.68,Non,Non,Non,23,moyen,Printemps,Cancer du col,Bilan extension adénocarcinome endométrioïde,Normal,09:15:00,,Non,10:15:00
-5170/2022,19/01/2023,CHALLOUF,ZEINEB,48,F,65,1.57,26.37,1,Non,Oui,Non,17,froid,Hiver,Cancer du col,Évaluation post thérapeutique cancer col stade IVA,Normal,11:14:00,,Non,12:14:00
-5813/2023,03/11/2024,CHARFEDDINE,ISMAIL,13,H,42,1.45,19.98,0.7,Non,Oui,Oui,22,moyen,Automne,Lymphome Hodgkin,Bilan intermédiaire post 2 cures OEPA,Normal,08:30:00,,Non,09:30:00
-5837/2024,12/12/2024,CHATTI,SAOUSSEN,45,F,88,1.57,35.7,1.07,Non,Oui,Non,19,moyen,Hiver,Cancer du col,Carcinome épidermoïde col,Normal,10:45:00,,Non,11:45:00
-5020/2024,05/01/2024,CHEBBI,KHEDIJA,64,F,59,1.57,23.94,0.99,Non,Oui,Oui,17,froid,Hiver,Autre,"Hypercalcémie, recherche primitif",Normal,10:30:00,,Non,11:30:00
-5086/2022,03/03/2022,CHEBIL,RIADH,52,H,55,1.71,18.81,4.72,Non,Non,Non,16,froid,Printemps,Cancer estomac,Adénocarcinome gastrique,Normal,10:55:00,,Non,11:55:00
-5039/2020,02/02/2023,CHEMLI,KARIM,41,H,79,1.71,27.02,0.71,Non,Oui,Oui,17,froid,Hiver,Cancer ORL,Évaluation récidive UCNT cavum,Normal,14:10:00,,Non,15:10:00
-5291/2021,12/12/2022,CHETIOUI,FREDJ,59,H,70,1.71,23.94,0.97,Non,Oui,Non,19,moyen,Hiver,Lymphome,"Suspicion récidive LH, contrôle post-TTT",Normal,10:50:00,,Non,11:50:00
-5406/2023,23/02/2024,CHETIOUI,INES,41,F,60,1.56,24.65,1.26,Non,Oui,Oui,17,froid,Hiver,Lymphome,Évaluation fin traitement,Normal,08:15:00,,Non,09:15:00
-5186/2021,19/01/2022,CHIBOUB,HAJER,30,F,63,1.57,25.56,5.88,Non,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade III,Normal,12:00:00,,Non,13:00:00
-5832/2023,21/12/2023,CHIKH ALI,HOUDA,77,F,83,1.57,33.67,1.3,Non,Oui,Non,19,moyen,Hiver,Cancer colorectal,ADK rectum,Normal,10:40:00,,Non,11:40:00
-5008/2022,26/01/2023,CHIKHAOUI,INES,35,F,63,1.57,25.56,0.8,Non,Non,Oui,17,froid,Hiver,Mélanome,Mélanome nodulaire,Normal,08:55:00,,Non,09:55:00
-5388/2023,15/06/2023,CHOUIKH,RAFIKA,58,F,72,1.57,29.21,1.04,Non,Oui,Non,33,chaud,Été,Cancer ovaire,Évaluation post chimiothérapie ADK ovaire,Normal,11:40:00,,Non,12:40:00
-5085/2023,08/02/2023,CHOURABI,HABIB,61,H,73,1.71,24.96,1.1,Non,Non,Non,17,froid,Hiver,Autre,Recherche primitif carcinome peu différencié,Normal,10:45:00,,Non,11:45:00
-5325/2025,10/04/2025,DAHMOUL,AMEL,55,F,65,1.68,23.03,1,Non,Oui,Non,20,moyen,Printemps,Lymphome,Néoplasie médiastinale,Normal,11:25:00,96307296,Non,12:25:00
-5041/2020,27/10/2022,DEBBABI,KHADHRA,27,F,65,1.57,26.37,0.96,Non,Oui,Non,29,chaud,Automne,Lymphome,Bilan pré traitement de rattrapage LBDGC récidivant,Normal,10:10:00,,Non,11:10:00
-5123/2022,18/03/2022,DEROUICHE,BESMA,31,F,52,1.6,20.31,6.11,Non,Non,Oui,16,froid,Printemps,Lymphome,Lymphome Hodgkin stade II,Normal,10:50:00,,Non,11:50:00
-5517/2022,14/10/2022,DHAHBI,ABDELWAHEB,85,H,77,1.71,26.33,1.68,Non,Non,Non,29,chaud,Automne,Cancer colorectal,ADK colon gauche post-opératoire,Normal,10:30:00,,Non,11:30:00
-608/2021,16/12/2024,DHAHRI,,40,F,54,1.57,21.91,0.9,Non,Oui,Non,19,moyen,Automne,Cancer thyroïde,CPT rechute biochimique,Normal,09:10:00,,Non,10:10:00
-5133/2021,07/01/2022,DHAYA,HELA,24,F,67,1.57,27.18,5.94,Non,Non,Oui,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade III,Normal,07:30:00,,Non,08:30:00
-5169/2022,13/04/2022,DKHILI,KHAOULA,19,F,65,1.65,23.88,6.16,Non,Oui,Oui,20,moyen,Printemps,Lymphome,Lymphome Hodgkin stade I,Normal,09:24:00,,Non,10:24:00
-5028/2025,14/01/2025,DLLEL,SALIM,24,H,63,1.77,20.11,0.7,Non,Oui,Oui,17,froid,Hiver,Autre,Syndrome néphrotique,Normal,10:20:00,,Non,11:20:00
-5758/2023,12/12/2023,DOUSS,ESSIA,58,F,100,1.57,40.57,1.05,Non,Oui,Non,19,moyen,Hiver,Autre,Vascularite,Normal,09:45:00,,Non,10:45:00
-5521/2022,14/10/2022,DRIDI,MAROUA,31,F,94,1.57,38.14,1,Non,Oui,Non,29,chaud,Automne,Autre,Suspicion récidive tumeur trophoblastique,Normal,12:20:00,,Non,13:20:00
-5075/2020,22/10/2020,EBDELLI,HANENE,37,F,42,1.57,17.04,5.38,Non,Non,Non,29,chaud,Automne,Lymphome,Lymphome Hodgkin stade IV,Normal,10:10:00,,Non,11:10:00
-5181/2021,24/12/2024,EL AIEBA,LINA,27,F,63,1.57,25.56,1.06,Non,Oui,Non,19,moyen,Hiver,Lymphome,Suspicion récidive LH,Normal,11:40:00,,Non,12:40:00
-5661/2023,29/11/2024,EL AJMI,IMEN,44,F,88,1.68,31.18,1,Non,Oui,Oui,22,moyen,Automne,Lymphome Hodgkin,Bilan fin de traitement,Normal,09:20:00,,Non,10:20:00
-2125/2020,13/07/2023,EL HENI,AWATEF,48,F,91,1.57,36.92,1.07,Non,Non,Non,35,chaud,Été,Cancer thyroïde,Bilan cancer thyroïde avec thyroglobuline élevée,Normal,10:15:00,,Non,11:15:00
-5286/2024,25/11/2025,ELALLOUCHE,HENDA,44,F,68,1.61,26.23,0.9,Non,Oui,Oui,22,moyen,Automne,Autre,Évaluation thérapeutique,Normal,10:30:00,,Non,11:30:00
-5820/2024,06/12/2024,EZZINE,HABIB,67,H,60,1.71,20.52,1.3,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,Carcinome épidermoïde poumon,Normal,08:51:00,,Non,09:51:00
-5296/2021,20/01/2022,FADHEL,GHAITH SALAH,18,H,59,1.7,20.42,6.88,Non,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome B à grandes cellules,Normal,10:50:00,,Non,11:50:00
-5214/2022,12/12/2022,FAJJARI,JIHENE,40,F,107,1.57,43.41,0.97,Non,Oui,Non,19,moyen,Hiver,Lymphome,Contrôle LNH B médiastinal,Normal,13:15:00,,Non,14:15:00
-5035/2025,15/01/2025,FANTAR,AHLAM,56,F,70,1.59,27.69,1.37,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Carcinome épidermoïde mammaire,Normal,11:40:00,,Non,12:40:00
-5261/2025,10/04/2025,FARHAT,JAMILA,61,F,70,1.68,24.8,1,Non,Oui,Non,20,moyen,Printemps,Lymphome,LBDGC humérus,Normal,08:15:00,,Non,09:15:00
-5705/2024,25/03/2025,FATHALLAH,WEJDI,46,H,100,1.71,34.2,1.45,Oui,Oui,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,09:40:00,,Non,10:40:00
-5301/2023,06/05/2023,FERJANI,HAYTHEM,29,H,65,1.71,22.23,1,Non,Oui,Non,23,moyen,Printemps,Cancer ORL,Bilan récidive UCNT cavum,Normal,10:20:00,,Non,11:20:00
-5755/2023,12/12/2023,FERJANI,SOUI,69,H,61,1.71,20.86,1.57,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,ADK poumon,Normal,11:15:00,,Non,12:15:00
-5493/2022,17/01/2024,FITOURI,RAJA,58,F,78,1.57,31.64,1.06,Non,Oui,Non,17,froid,Hiver,Cancer endomètre,ADK endomètre,Normal,10:30:00,,Non,11:30:00
-5747/2023,12/08/2023,GAAIEB,INTISSAR,48,F,96,1.69,33.61,1.4,Non,Oui,Non,19.5,moyen,Été,Cancer du col,Bilan extension initial,Normal,11:15:00,,Non,12:15:00
-5613/2022,02/12/2022,GAAYECH,SALHA,67,F,90,1.57,36.51,1.76,Non,Non,Non,19,moyen,Hiver,Cancer du col,Bilan extension initial carcinome épidermoïde col stade IV,Normal,09:30:00,,Non,10:30:00
-5636/2024,02/10/2024,GASSOUMI,MOHAMED MOULDI,68,H,48,1.71,16.42,1.05,Non,Oui,Non,29,chaud,Automne,Cancer du poumon,ADK poumon,Normal,10:10:00,,Non,11:10:00
-5848/2024,12/12/2024,GAUARRIDI,BECHIR,77,H,60,1.71,20.52,0.87,Non,Oui,Non,19,moyen,Hiver,Lymphome,LH stade IV,Normal,11:05:00,,Non,12:05:00
-5843/2023,29/12/2023,GHAFFARI,MOHAMED MONCEF,17,H,69,1.73,23.05,0.93,Non,Oui,Non,19,moyen,Hiver,Syndrome néphrotique,Recherche cause néoplasique,Normal,07:40:00,,Non,08:40:00
-5715/2023,01/12/2023,GHARBI,TIJANI,54,H,71,1.71,24.28,1.06,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,Masse pulmonaire,Normal,11:00:00,,Non,12:00:00
-5715/2023,01/12/2023,GHARBI,TIJANI,54,H,71,1.71,24.28,1.06,Non,Non,Non,19,moyen,Hiver,Cancer du poumon,Caractérisation masse pulmonaire,Normal,13:20:00,,Non,14:20:00
-5334/2025,11/04/2025,GHARSALLAH,FETHI,61,H,80,1.71,27.36,1.16,Non,Oui,Non,20,moyen,Printemps,Cancer du poumon,Nodule pulmonaire,Normal,11:25:00,98503955,Non,12:25:00
-5246/2025,04/03/2025,GHERIBI,MOHAMED,63,H,62,1.76,20.02,1,Non,Oui,Non,16,froid,Printemps,Cancer colorectal,ADK sigmoïde récidive,Normal,09:40:00,,Non,10:40:00
-5847/2024,12/12/2024,GLOUAYA,MONIA,52,F,76,1.57,30.83,1,Non,Oui,Non,19,moyen,Hiver,Cancer du sein,Cancer papillaire sein,Normal,07:45:00,,Non,08:45:00
-5127/2022,22/03/2022,GMAR,OLFA,25,F,80,1.57,32.46,5.55,Non,Oui,Oui,16,froid,Printemps,Lymphome,Lymphome lymphoblastique T,Normal,08:30:00,,Non,09:30:00
-5329/2025,11/04/2025,GUADOUR,ALGIA,67,F,55,1.55,22.89,1,Non,Oui,Non,20,moyen,Printemps,Cancer du sein,Cancer mammaire récidive,Normal,10:50:00,96609285,Non,11:50:00
-5316/2025,27/03/2025,GUEIIB,ANIS,48,H,88,1.76,28.41,1.13,Non,Oui,Non,16,froid,Printemps,Cancer ORL,UCNT cavum,Normal,09:45:00,,Non,10:45:00
-5284/2021,16/02/2022,HACHFI,OUAFA,40,F,84,1.66,30.48,5.55,Non,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade I,Normal,10:00:00,,Non,11:00:00
-5721/2023,01/12/2023,HADDAD,MONGI,55,H,73,1.71,24.96,2.07,Oui,Non,Non,19,moyen,Hiver,Lymphome,Bilan extension initial lymphome Hodgkin,Normal,11:15:00,,Non,12:15:00
-5638/2022,14/02/2025,HAGGI,WAHIDA,28,F,93,1.7,32.18,0.87,Non,Oui,Non,17,froid,Hiver,Lymphome Hodgkin,Suspicion récidive,dysthyroidie,10:10:00,,Non,11:10:00
-5016/2025,10/01/2025,HAMDI,MAROUA,34,F,60,1.57,24.34,0.9,Non,Oui,Non,17,froid,Hiver,Cancer du col,Carcinome épidermoïde col,Normal,14:10:00,,Non,15:10:00
-5454/2022,14/10/2022,HAMDI,MBARKA,76,F,86,1.57,34.89,1.94,Oui,Non,Non,29,chaud,Automne,Cancer du col,Bilan extension carcinome épidermoïde col utérin,Normal,10:50:00,,Non,11:50:00
-5054/2024,20/01/2024,HAMDI,MONGIA,58,F,55,1.57,22.31,0.7,Non,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome folliculaire grade I,Normal,10:55:00,,Non,11:55:00
-5303/2022,27/03/2025,HAMMADI,,58,F,70,1.57,28.4,1.4,Non,Oui,Non,16,froid,Printemps,Cancer ovaire,Cancer ovaire rechute,Normal,10:20:00,,Non,11:20:00
-5073/2023,13/07/2023,HAMMAMI,CHAOUKI,42,H,79,1.71,27.02,1.09,Non,Oui,Non,35,chaud,Été,Lymphome,Bilan fin traitement maladie Hodgkin,Normal,11:25:00,,Non,12:25:00
-5028/2020,26/11/2022,HAMMOUDA,JIHENE,26,F,101,1.57,40.98,1.05,Non,Oui,Oui,22,moyen,Automne,Lymphome,Suspicion récidive LH,Normal,11:15:00,,Non,12:15:00
-5616/2024,12/12/2024,HAMRI,YOSRA,29,F,67,1.57,27.18,0.95,Non,Oui,Non,19,moyen,Hiver,Lymphome,LH,Normal,07:40:00,,Non,08:40:00
-1169/2022,02/12/2024,HAMROUNI,NASSIMA,49,F,50,1.57,20.28,0.85,Non,Oui,Oui,19,moyen,Hiver,Cancer ORL,Suspicion récidive UCNT,Normal,11:14:00,,Non,12:14:00
-5632/2024,02/10/2024,HARROUCHI,SARRA,67,F,54,1.57,21.91,1,Oui,Oui,Non,29,chaud,Automne,Lymphome,LBDGC musculaire,Normal,09:05:00,,Non,10:05:00
-5834/2023,21/12/2023,HASSANI,JAMILA,65,F,82,1.57,33.27,1,Oui,Oui,Non,19,moyen,Hiver,Cancer ORL,Carcinome épidermoïde laryngé,Normal,12:00:00,,Non,13:00:00
-5763/2024,13/11/2024,HASSAYOUN,MONGIA,72,F,85,1.57,34.48,1,Non,Oui,Non,22,moyen,Automne,Cancer ovaire,Cancer ovaire,Normal,08:15:00,,Non,09:15:00
-5014/2019,17/09/2020,HATTAB,ALAEDDINE,21,H,73,1.71,24.96,5,Non,Non,Non,30,chaud,Automne,Lymphome,Lymphome Hodgkin stade II,Normal,09:30:00,,Non,10:30:00
-5849/2025,20/11/2025,HBARI,MOUFIDA,46,F,61,1.59,24.13,0.7,Non,Oui,Oui,22,moyen,Automne,Cancer endomètre,Évaluation thérapeutique post-chimiothérapie,Normal,10:20:00,,Non,11:20:00
-5430/2023,29/12/2023,HELALI,AMINA,39,F,61,1.6,23.83,1.18,Non,Oui,Oui,19,moyen,Hiver,Lymphome Hodgkin,Évaluation intermédiaire post 4 BEACOPP,Normal,07:40:00,,Non,08:40:00
-5055/2024,20/01/2024,HICHRI,JAMILA,53,F,95,1.57,38.54,1.2,Oui,Non,Non,17,froid,Hiver,Cancer du col,Bilan extension carcinome épidermoïde col,Normal,10:20:00,,Non,11:20:00
-5629/2022,22/12/2022,HICHRI,LOTFI,40,H,78,1.71,26.67,,Non,Non,Non,19,moyen,Hiver,Cancer estomac,Bilan extension ADK cardia (scintigraphie osseuse),Normal,11:42:00,,Non,12:42:00
-5916/2025,12/12/2025,HMIDI,KHAOULA,38,F,85,1.6,33.2,0.85,Non,Oui,Oui,19,moyen,Hiver,Cancer du sein,Évaluation pré radiothérapie carcinome canalaire infiltrant sein gauche,Normal,10:50:00,,Non,11:50:00
-5310/2025,26/03/2025,HMILA,MOHAMED ALI,75,H,50,1.68,17.72,1.01,Oui,Oui,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,07:42:00,54700690,Non,08:42:00
-5852/2024,12/12/2024,HORCHANI,SOUJOUD,10,F,40,1.35,21.95,0.83,Non,Oui,Non,19,moyen,Hiver,Cancer ovaire,Dysgerminome ovaire,Normal,09:20:00,,Non,10:20:00
-5048/2024,17/01/2024,HOSNI,DHOUHA,35,F,66,1.57,26.78,0.77,Non,Oui,Non,17,froid,Hiver,Lymphome,Suspicion récidive lymphome,Normal,10:40:00,,Non,11:40:00
-5333/2025,11/04/2025,HSSAN,RIDHA,59,H,60,1.71,20.52,0.98,Non,Oui,Non,20,moyen,Printemps,Cancer du poumon,Carcinome pulmonaire petites cellules,Normal,12:10:00,26164716,Non,13:10:00
-5188/2024,12/12/2024,ILAHI,SARRA,56,F,53,1.57,21.5,1.36,Non,Oui,Non,19,moyen,Hiver,Lymphome,LBDGC progression,Normal,08:15:00,,Non,09:15:00
-5188/2024,18/03/2025,ILAHI,SARRA,57,F,50,1.57,20.28,1.2,Non,Oui,Non,16,froid,Printemps,Lymphome,LBDGC réponse partielle,Normal,10:55:00,,Non,11:55:00
-5315/2025,27/03/2025,ISSAOUI,ABDELHAMID,61,H,70,1.72,23.66,1.1,Non,Oui,Non,16,froid,Printemps,Cancer ORL,Carcinome épidermoïde hypopharynx + poumon,Normal,10:50:00,,Oui,11:50:00
-5577/2024,10/09/2024,ISSAOUI,MBAREK,79,H,52,1.71,17.78,1.1,Non,Oui,Non,30,chaud,Automne,Cancer du poumon,Carcinome épidermoïde poumon,Normal,10:30:00,,Non,11:30:00
-5754/2023,20/01/2024,JABALLAH,AMIN,28,H,84,1.71,28.73,0.9,Non,Oui,Non,17,froid,Hiver,Lymphome,LH stade IV pulmonaire,Normal,12:00:00,,Non,13:00:00
-5754/2023,20/01/2024,JABALLAH,AMIN,29,H,84,1.71,28.73,0.9,Non,Oui,Non,17,froid,Hiver,Lymphome,Évaluation intermédiaire lymphome Hodgkin,Normal,10:30:00,,Non,11:30:00
-5844/2023,28/12/2023,JALLALI,FATIMA,52,F,73,1.57,29.62,1.17,Non,Oui,Non,19,moyen,Hiver,Cancer du sein,Cancer mammaire métastatique,Normal,12:20:00,,Non,13:20:00
-1841/2022,06/05/2023,JAOUADI,MERIEM,35,F,38,1.57,15.42,1.02,Non,Oui,Non,23,moyen,Printemps,Cancer ORL,Bilan fin traitement UCNT cavum,Normal,07:50:00,,Non,08:50:00
-5313/2025,27/03/2025,JARRAY,MOHSSEN,54,H,90,1.78,28.41,1.11,Non,Oui,Non,16,froid,Printemps,Cancer ORL,UCNT cavum,Normal,08:20:00,,Non,09:20:00
-24711/2017,23/01/2026,JEMAI,AMANALLAH,8,H,41,1.29,24.64,0.97,Non,Oui,Oui,17,froid,Hiver,Neuroblastome,Neuroblastome,Normal,10:30:00,,Non,11:30:00
-5244/2025,04/03/2025,JLALI,ALAA,3,F,15,1,15,0.8,Non,Oui,Non,16,froid,Printemps,Neuroblastome,Neuroblastome,Normal,10:35:00,,Non,11:35:00
-5663/2022,31/12/2022,JLASSI,MOHAMED BECHIR,29,H,50,1.71,17.1,1,Non,Non,Non,19,moyen,Hiver,Autre,Recherche localisations secondaires endocardite tricuspidienne,Normal,12:00:00,,Non,13:00:00
-5541/2022,05/05/2023,JOMAA,MOHD WAJIH,19,H,68,1.71,23.26,1,Non,Oui,Non,23,moyen,Printemps,Lymphome,Évaluation fin traitement LH stade IV,Normal,07:40:00,,Non,08:40:00
-5153/2021,11/03/2022,JOUINI,HICHEM,49,H,69,1.71,23.6,5.55,Non,Non,Oui,16,froid,Printemps,Lymphome,Rechute lymphome,Normal,10:32:00,,Non,11:32:00
-5788/2024,20/11/2024,KACEM,ACHREF,22,H,48,1.65,17.63,0.9,Non,Oui,Oui,22,moyen,Automne,Autre,Caractérisation masse rétropéritonéale résiduelle,Normal,10:30:00,,Non,11:30:00
-5528/2022,01/12/2024,KACEM,HELA,43,F,75,0.63,188.96,0.99,Non,Non,Oui,19,moyen,Hiver,Autre,Contrôle post-chirurgie métastases hépatiques,Normal,12:00:00,,Non,13:00:00
-2333/2022,07/03/2025,KANTAOUI,ADEL,57,H,66,1.71,22.57,1.3,Non,Oui,Non,16,froid,Printemps,Autre,Fibrose rétro-péritonéale,Normal,07:45:00,,Non,08:45:00
-5428/2022,19/01/2023,KARIM,CHAFIA,45,F,69,1.57,27.99,1.07,Non,Oui,Non,17,froid,Hiver,Lymphome,Évaluation fin traitement LH stade II,Normal,10:50:00,,Non,11:50:00
-5806/2024,12/02/2024,KECHICHE,IBRAHIM,12,H,67,1.6,26.17,1.17,Non,Oui,Non,17,froid,Hiver,Lymphome,Bilan extension initial LBDGC,Normal,10:20:00,,Non,11:20:00
-5403/2023,12/04/2023,KHADHRAOUI,YASSINE,33,H,68,1.73,22.72,0.92,Non,Oui,Oui,20,moyen,Printemps,Lymphome Hodgkin,TEP post 4 BEACOPP,Normal,08:55:00,,Non,09:55:00
-5171/2022,18/02/2024,KHALDI,AKRAM,20,H,51,1.71,17.44,1.02,Non,Oui,Non,17,froid,Hiver,Lymphome,LH réfractaire,Normal,13:35:00,,Non,14:35:00
-5724/2023,01/12/2023,KHAMARI,ZOHRA,66,F,64,1.57,25.96,1.14,Non,Non,Non,19,moyen,Hiver,Lymphome,Bilan extension LBDGC base crâne,Normal,08:15:00,,Non,09:15:00
-5306/2025,26/03/2025,KHAMMARI,MOULDI,48,H,73,1.71,24.96,1.03,Non,Oui,Non,16,froid,Printemps,Cancer du poumon,Masse pulmonaire,Normal,08:51:00,99749053,Non,09:51:00
-5632/2022,05/05/2023,KHAYAT,KAMEL,55,H,77,1.71,26.33,1.6,Non,Oui,Non,23,moyen,Printemps,Lymphome,Évaluation post 4 cures BEACOPP,Normal,11:40:00,,Non,12:40:00
-5632/2022,01/12/2023,KHAYAT,KAMEL,56,H,85,1.71,29.07,1.72,Oui,Oui,Non,19,moyen,Hiver,Lymphome,LH stade III,Normal,12:10:00,,Non,13:10:00
-5323/2025,10/04/2025,KHECHINI,ISLAM,36,F,57,1.67,20.44,0.89,Non,Oui,Non,20,moyen,Printemps,Cancer du sein,Cancer sein HER2+,Normal,09:45:00,53352110,Non,10:45:00
-5089/2024,18/02/2024,KHEDHER,NAJOUA,59,F,64,1.57,25.96,1.2,Non,Oui,Non,17,froid,Hiver,Mélanome,Mélanome fosse nasale,Normal,10:25:00,,Non,11:25:00
-5018/2025,10/01/2025,KHEDMI,MNA,34,F,86,1.7,29.76,1.1,Non,Oui,Non,17,froid,Hiver,Mélanome,Mélanome récidive inguinale,Normal,13:20:00,,Non,14:20:00
-5816/2023,19/12/2023,KHEMIR,NACEUR,59,H,59,1.71,20.18,1,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,Nodules pulmonaires,Normal,11:25:00,,Non,12:25:00
-5384/2022,08/02/2023,KHORCHANI,ABDELBASET,33,H,61,1.71,20.86,1.16,Non,Oui,Non,17,froid,Hiver,Lymphome,Évaluation fin traitement LBDGC médiastinal,Normal,11:25:00,,Non,12:25:00
-5299/2025,25/03/2025,KNAIN,RAFIKA,49,F,86,1.64,31.98,1.02,Non,Oui,Non,16,froid,Printemps,Lymphome,LH,Normal,10:50:00,,Non,11:50:00
-5581/2024,11/09/2024,KORBI,CHAHD,10,F,25,1.35,13.72,0.8,Non,Oui,Non,30,chaud,Automne,Sarcomes,Sarcome d'Ewing,Normal,13:20:00,,Non,14:20:00
-5041/2021,26/02/2021,KORBI,FARIDA,58,F,78,1.57,31.64,6.33,Non,Oui,Oui,17,froid,Hiver,Mélanome,Mélanome nodulaire,Normal,10:55:00,,Non,11:55:00
-5002/2022,15/12/2022,LAABIDI,OUSSEMA,26,H,97,1.71,33.17,1.1,Non,Oui,Non,19,moyen,Hiver,Lymphome,Contrôle post-traitement lymphome Hodgkin,Normal,10:30:00,,Non,11:30:00
-5263/2025,07/03/2025,LAADHARI,SADOK,66,H,84,1.71,28.73,1.09,Non,Oui,Oui,16,froid,Printemps,Cancer rein,Carcinome rénal papillaire,Normal,10:25:00,,Oui,11:25:00
-5374/2023,21/06/2023,LACHAAL,MONGIA,51,F,54,1.57,21.91,0.9,Non,Oui,Non,33,chaud,Été,Autre,Évaluation post radio-chimiothérapie cancer jugal,Normal,08:15:00,,Non,09:15:00
-2519/2022,30/01/2025,LAGHA AISSA,MALIKA,52,F,68,1.57,27.59,0.9,Non,Oui,Oui,17,froid,Hiver,Cancer du sein,Cancer mammaire métastatique os,Normal,09:24:00,,Non,10:24:00
-5555/2025,12/10/2025,LAHRECH,MOHAMED OMAR,22,H,82,1.8,25.31,0.97,Non,Oui,Oui,29,chaud,Automne,Lymphome,Évaluation post 2 cures RDHOX,Normal,10:40:00,,Non,11:40:00
-5002/2025,08/01/2025,LAKHDHER,EL AMRI,68,H,57,1.71,19.49,0.85,Non,Oui,Non,17,froid,Hiver,Lymphome,Lymphome Hodgkin,Normal,09:30:00,,Non,10:30:00
-1027/2024,26/12/2024,LAMINE,AFEF,44,F,80,1.57,32.46,0.93,Non,Oui,Oui,19,moyen,Hiver,Cancer du sein,Bilan pré RT cancer mammaire,Normal,12:20:00,,Non,13:20:00
-5071/2023,06/02/2023,LEFI,DHOUHA,28,F,54,1.57,21.91,0.93,Non,Non,Non,17,froid,Hiver,Lymphome,Suspicion récidive lymphome Hodgkin,Normal,11:25:00,,Non,12:25:00
-5034/2023,19/01/2023,LEHAYEL,FATMA,30,F,63,1.57,25.56,0.96,Non,Non,Oui,17,froid,Hiver,Cancer du sein,Suspicion récidive CCI sein,Normal,07:40:00,,Non,08:40:00
-5839/2023,28/12/2023,MAATALLI,OMEZZINE,84,F,57,1.57,23.12,0.95,Non,Oui,Non,19,moyen,Hiver,Autre,Suspicion endocardite,Normal,09:40:00,,Non,10:40:00
-5134/2021,24/10/2022,MABROUKI,RIADH,55,H,64,1.71,21.89,1.18,Non,Oui,Non,29,chaud,Automne,Lymphome,Évaluation progression lymphome Hodgkin,Normal,11:40:00,,Non,12:40:00
-5611/2022,02/12/2022,MAHJOUB,ABDELFATAH,71,H,78,1.71,26.67,1.5,Non,Non,Non,19,moyen,Hiver,Lymphome,Suspicion récidive lymphome Burkitt,Normal,10:50:00,,Non,11:50:00
-5571/2022,28/11/2022,MAHJOUB,MOUNIR,50,H,77,1.71,26.33,1,Non,Oui,Non,22,moyen,Hiver,Lymphome,Suspicion syndrome de Richter sur LLC,Normal,10:45:00,,Non,11:45:00
-5483/2022,27/03/2025,MAJBRI,LATIFA,61,F,100,1.57,40.57,1.46,Oui,Oui,Non,16,froid,Printemps,Lymphome,LBDGC amygdalien récidive,Normal,07:40:00,,Non,08:40:00
-5006/2022,19/01/2023,MAJBRI,RACHIDA,58,F,94,1.57,38.14,1.25,Oui,Oui,Non,17,froid,Hiver,Cancer endomètre,Évaluation rechute ganglionnaire ADK endomètre,Normal,09:05:00,,Non,10:05:00
-653/2023,07/03/2025,MAKINA,NEJIA,47,F,72,1.57,29.21,1.08,Non,Oui,Non,16,froid,Printemps,Cancer du sein,Récidive cancer sein,Normal,08:30:00,,Non,09:30:00
-5033/2023,19/01/2023,MANAI,LEILA,51,F,103,1.57,41.79,1.08,Non,Non,Non,17,froid,Hiver,Cancer du sein,Suspicion récidive CCI sein gauche,Normal,10:55:00,,Non,11:55:00
-5416/2023,13/07/2023,MANSOUR,MOHAMED,73,H,78,1.71,26.67,1.17,Non,Non,Non,35,chaud,Été,Cancer colorectal,Caractérisation nodules hépatiques,Normal,10:50:00,,Non,11:50:00
-5259/2025,06/03/2025,MANSOUR,NAJEH,72,H,53,1.6,20.7,0.97,Non,Oui,Non,16,froid,Printemps,Cancer colorectal,ADK rectum récidive,Normal,11:40:00,,Oui,12:40:00
-5047/2020,03/11/2021,MAOUI,RAOUF,44,H,49,1.71,16.76,0.87,Non,Oui,Oui,22,moyen,Automne,Lymphome,LH stade III fin traitement,Normal,13:20:00,,Non,14:20:00
-5669/2024,24/12/2024,MARDASSI,AHMED,21,H,64,1.7,22.15,0.54,Non,Oui,Oui,19,moyen,Hiver,Lymphome Hodgkin,Évaluation intermédiaire,Normal,11:00:00,,Non,12:00:00
-5744/2024,11/04/2025,MARZOUK,RADHIA,23,F,73,1.57,29.62,1.2,Non,Oui,Non,20,moyen,Printemps,Lymphome,LBDGC médiastinal,Normal,13:20:00,,Non,14:20:00
-5157/2024,06/03/2024,MASSOUD,SELMA,24,F,63,1.57,25.56,0.98,Non,Oui,Oui,16,froid,Printemps,Lymphome,LH bilan initial,Normal,10:50:00,,Non,11:50:00
-5157/2024,10/01/2025,MASSOUD,SELMA,25,F,60,1.57,24.34,1,Non,Oui,Oui,17,froid,Hiver,Lymphome,LH fin traitement,Normal,09:20:00,,Non,10:20:00
-2321/2021,10/09/2024,MBARKI,AZIZA,46,F,84,1.57,34.08,1.4,Non,Oui,Non,30,chaud,Automne,Cancer du sein,Suspicion récidive cancer sein,Normal,10:00:00,,Non,11:00:00
-5833/2023,21/12/2023,MBARKI,KHALIFA,58,H,57,1.71,19.49,0.88,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,Nodule pulmonaire,Normal,10:50:00,,Non,11:50:00
-5849/2024,12/12/2024,MEAOUI,RIM,52,F,104,1.57,42.19,1.19,Non,Oui,Non,19,moyen,Hiver,Lymphome,Lymphome manteau,Normal,07:42:00,,Non,08:42:00
-5118/2024,21/02/2024,MEMNI,SELMA,47,F,85,1.57,34.48,1.08,Non,Oui,Oui,17,froid,Hiver,Cancer du sein,Contrôle cancer mammaire,Normal,09:45:00,,Non,10:45:00
-5225/2021,17/02/2022,MHAMDI,ACHRAF,19,H,80,1.69,28.01,5,Non,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome Hodgkin,Normal,10:32:00,,Non,11:32:00
-5029/2025,14/01/2025,MHAMDI,SALLAM,63,F,80,1.63,30.11,0.85,Non,Oui,Non,17,froid,Hiver,Cancer colorectal,ADK colon sigmoïde,Normal,09:20:00,,Non,10:20:00
-5729/2024,07/03/2025,MIGHRI,HABIB,57,H,79,1.71,27.02,1.4,Oui,Oui,Non,16,froid,Printemps,Lymphome,Lymphome Burkitt,Normal,11:15:00,,Non,12:15:00
-5289/2025,18/03/2025,MILADI,MERIEM,60,F,63,1.57,25.56,1,Non,Oui,Non,16,froid,Printemps,Cancer du sein,Carcinome mammaire,Normal,10:10:00,,Non,11:10:00
-5004/2022,12/12/2024,MILED,FADHILA,58,F,69,1.57,27.99,0.95,Non,Oui,Non,19,moyen,Hiver,Cancer ovaire,ADK séreux ovaire,Normal,07:40:00,,Non,08:40:00
-1902/2023,14/01/2025,MISAOUI,ZINA,45,F,70,1.57,28.4,0.95,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Cancer mammaire,Normal,09:10:00,,Non,10:10:00
-5047/2021,03/11/2021,MISSAOUI,KAWTHER,21,F,71,1.57,28.8,5.61,Non,Oui,Oui,22,moyen,Automne,Lymphome,Lymphome B à grande cellule,Normal,11:14:00,,Non,12:14:00
-453/2024,10/04/2025,MOSBAH,MAHBOUBA,51,F,93,1.57,37.73,1.08,Non,Oui,Non,20,moyen,Printemps,Cancer ORL,UCNT cavum,Normal,07:40:00,,Non,08:40:00
-5584/2024,11/12/2024,MRAD,SAHBI,64,H,65,1.71,22.23,0.9,Non,Oui,Non,19,moyen,Hiver,Cancer colorectal,ADK rectal métastatique,Normal,10:45:00,,Non,11:45:00
-5728/2024,04/11/2024,MTAR,MALIKA,61,F,93,1.57,37.73,1,Non,Oui,Non,22,moyen,Automne,Cancer ovaire,Cancer ovaire,Normal,13:15:00,,Non,14:15:00
-5074/2023,07/02/2023,MTIRI,MAHBOUBA,47,F,65,1.57,26.37,1.23,Non,Non,Non,17,froid,Hiver,Autre,Recherche foyer pour biopsie (uvéite),Normal,08:25:00,,Non,09:25:00
-5297/2025,19/03/2025,NAJJAR,LATIFA,60,F,85,1.56,34.93,1.17,Non,Oui,Non,16,froid,Printemps,Cancer du sein,Cancer mammaire bilatéral,Normal,11:14:00,,Non,12:14:00
-5559/2022,22/12/2023,NAOUAR,AMANI,38,F,83,1.65,30.49,0.9,Non,Oui,Oui,19,moyen,Hiver,Autre,Caractérisation adénopathies résiduelles,Normal,10:30:00,,Non,11:30:00
-6685/2026,20/02/2026,NASR,MOHD YASSINE,14,H,54,1.58,21.63,1.15,Non,Oui,Oui,17,froid,Hiver,Lymphome Hodgkin,Bilan fin de traitement lymphome Hodgkin,Normal,08:15:00,,Non,09:15:00
-5143/2023,03/01/2024,NASR,MUSTAPHA,65,H,67,1.71,22.91,0.95,Non,Oui,Oui,17,froid,Hiver,Lymphome,LBDGC suspicion récidive,Normal,08:55:00,,Non,09:55:00
-5165/2024,13/01/2025,NASR,SOUHA,23,F,43,1.57,17.44,1.07,Non,Oui,Non,17,froid,Hiver,Lymphome,LH stade IV,Normal,09:20:00,,Non,10:20:00
-5262/2021,17/05/2023,NASRALLI,NAJET,34,F,50,1.57,20.28,0.89,Non,Oui,Oui,23,moyen,Printemps,Lymphome,Lymphome zone grise,Normal,08:25:00,,Non,09:25:00
-50/2025,09/12/2025,NASRI,MOUNA,36,F,69,1.57,27.99,0.9,Non,Oui,Oui,19,moyen,Automne,Cancer thyroïde,CPT lobe gauche,dysthroidie,09:10:00,,Non,10:10:00
-9294/2025,19/03/2025,NOUMI,DSAHBI,50,H,85,1.71,29.07,1.15,Non,Oui,Non,16,froid,Printemps,Sarcomes,Sarcome jambe,Normal,08:25:00,,Non,09:25:00
-5024/2023,13/07/2023,NOUNI,ANES,56,H,67,1.71,22.91,1.49,Non,Oui,Non,35,chaud,Été,Lymphome,Bilan fin traitement LBDGC amygdalien,Normal,09:20:00,,Non,10:20:00
-5415/2023,13/07/2023,NSIR,SLAH EDDINE,61,H,58,1.71,19.84,1.06,Non,Oui,Non,35,chaud,Été,Cancer du poumon,Bilan pré radiothérapie ADK poumon,Normal,10:50:00,,Non,11:50:00
-5339/2024,10/09/2024,NSIRI,AICHA,29,F,48,1.57,19.47,1,Non,Oui,Non,30,chaud,Automne,Lymphome,LH stade IV osseux,Normal,08:51:00,,Non,09:51:00
-5188/2021,11/03/2022,OMRI,HABIB,57,H,58,1.71,19.84,5.55,Non,Oui,Oui,16,froid,Printemps,Lymphome,Lymphome B diffus testiculaire,Normal,10:20:00,,Non,11:20:00
-5831/2023,21/12/2023,OTHMEN,AFEF,32,F,108,1.57,43.82,1.3,Non,Oui,Non,19,moyen,Hiver,Mélanome,Mélanome,Normal,10:50:00,,Non,11:50:00
-5809/2023,14/12/2023,OUNIS,SALEH,67,H,61,1.71,20.86,0.83,Non,Oui,Non,19,moyen,Hiver,Cancer du poumon,ADK poumon,Normal,10:30:00,,Non,11:30:00
-5463/2024,12/12/2024,RACHDI,RATIBA,36,F,67,1.57,27.18,0.97,Non,Oui,Non,19,moyen,Hiver,Lymphome,LH stade IV,Normal,13:35:00,,Non,14:35:00
-5510/2023,25/03/2025,RAHALI,ELYES,16,H,72,1.63,27.1,1.08,Non,Oui,Non,16,froid,Printemps,Lymphome,LH progression,Normal,10:30:00,97356592,Non,11:30:00
-5028/2023,19/01/2023,RAHMOUNI,CHAHLA,59,F,67,1.57,27.18,1.76,Oui,Non,Non,17,froid,Hiver,Cancer du sein,Bilan extension CCI sein gauche,Normal,10:50:00,,Non,11:50:00
-5439/2024,24/12/2024,RAHMOUNI,ZOHRA,75,F,60,1.57,24.34,0.87,Non,Oui,Non,19,moyen,Hiver,Lymphome,LBDGC naso-sinusien,Normal,09:30:00,,Non,10:30:00
-5324/2025,10/04/2025,RAZGALLAH,MAHA,23,F,54,1.7,18.69,0.89,Non,Oui,Non,20,moyen,Printemps,Lymphome,LH,Normal,10:55:00,28411419,Non,11:55:00
-5401/2023,18/12/2023,REBHI,RIM,54,F,63,1.59,24.92,0.68,Non,Non,Oui,19,moyen,Hiver,Lymphome,Évaluation fin traitement 4 RCHOP,Normal,09:15:00,,Non,10:15:00
-5287/2025,18/03/2025,REJEB,SADOK,64,H,86,1.7,29.76,1.97,Non,Oui,Non,16,froid,Printemps,Cancer colorectal,ADK colon sigmoïde,Normal,08:25:00,,Non,09:25:00
-5158/2024,29/11/2024,RETIBI,TURKIA,27,F,88,1.57,35.7,1,Non,Oui,Oui,22,moyen,Automne,Lymphome,LH post 4 ABVD,Normal,10:32:00,,Non,11:32:00
-5330/2023,25/05/2023,REZGUI,AHMED,61,H,56,1.64,20.82,1.17,Non,Oui,Oui,23,moyen,Printemps,Mélanome,Bilan extension,Normal,10:25:00,,Non,11:25:00
-5759/2023,12/12/2023,RIAHI,ADEM,17,H,68,1.65,24.98,1.07,Non,Oui,Non,19,moyen,Hiver,Lymphome,LH,Normal,07:42:00,,Non,08:42:00
-5759/2023,13/09/2024,RIAHI,ADEM,18,H,70,1.67,25.1,0.8,Non,Oui,Non,30,chaud,Automne,Lymphome,LH en rechute,Normal,11:42:00,,Non,12:42:00
-5406/2025,30/05/2025,RTIBI,EL ARBI,79,H,77,1.71,26.33,0.82,Non,Oui,Non,23,moyen,Printemps,Cancer rein,Carcinome urothélial,Normal,09:05:00,93307469,Oui,10:05:00
-5723/2023,01/12/2023,RTIBI,KHADIJA,37,F,43,1.57,17.44,1.17,Non,Non,Non,19,moyen,Hiver,Autre,Recherche foyer infectieux fébrile,Normal,07:42:00,,Non,08:42:00
-5141/2021,16/05/2022,SAAD,CHAHIDA,40,F,68,1.54,28.67,6.22,Non,Oui,Oui,23,moyen,Printemps,Lymphome,Lymphome Hodgkin,Normal,09:30:00,,Non,10:30:00
-5250/2024,05/12/2024,SAADELLAOUI,AYMEN,24,H,72,1.71,24.62,0.8,Non,Oui,Oui,19,moyen,Automne,Lymphome,Lymphome MALT gastrique,Normal,08:20:00,,Non,09:20:00
-5024/2025,13/01/2025,SAAFI,SOUAD,69,F,64,1.53,27.34,0.89,Non,Oui,Non,17,froid,Hiver,Autre,Suspicion infection pacemaker,Normal,09:50:00,,Non,10:50:00
-5017/2025,10/01/2025,SADDEM,HAYET,59,F,104,1.57,42.19,1.16,Non,Oui,Non,17,froid,Hiver,Lymphome,Suspicion rechute DLBCL,Normal,10:20:00,,Non,11:20:00
-5245/2025,04/03/2025,SAHLI,FAOUZIA,60,F,72,1.52,31.16,1.06,Non,Oui,Non,16,froid,Printemps,Cancer du sein,Carcinome canalaire sein,Normal,12:00:00,,Non,13:00:00
-5017/2022,13/04/2022,SAHLI,NADHIR,24,H,68,1.71,23.26,7.44,Oui,Oui,Oui,20,moyen,Printemps,Lymphome,Lymphome Hodgkin stade III,Normal,10:15:00,,Non,11:15:00
-5500/2022,12/10/2022,SAID,DONIA,38,F,83,1.57,33.67,1.57,Non,Oui,Non,29,chaud,Automne,Lymphome,Suspicion récidive LNH B grandes cellules,Normal,10:55:00,,Non,11:55:00
-5239/2025,04/03/2025,SAID,FATMA,68,F,140,1.56,57.53,1.16,Oui,Oui,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,07:45:00,,Non,08:45:00
-5651/2022,16/12/2022,SAID,SOULEF,45,F,68,1.66,24.68,0.88,Non,Oui,Non,19,moyen,Hiver,Cancer du col,Bilan extension initial,Normal,09:30:00,,Non,10:30:00
-5790/2025,26/01/2026,SAKA,RASLENE,9,H,36,1.37,19.18,0.7,Non,Oui,Oui,17,froid,Hiver,Lymphome,Bilan pré greffe sur rechute,Normal,12:00:00,,Non,13:00:00
-5842/2023,28/12/2023,SALAANI,SOUAD,30,F,65,1.57,26.37,0.77,Non,Oui,Non,19,moyen,Hiver,Lymphome,LH,Normal,11:14:00,,Non,12:14:00
-5514/2022,22/12/2022,SALAH,BESMA,48,F,64,1.62,24.39,1.14,Non,Oui,Oui,19,moyen,Hiver,Lymphome,TEP intermédiaire post 3 R-CHOP,Normal,13:15:00,,Non,14:15:00
-5246/2024,24/04/2024,SALHI,IHEB,23,H,80,1.71,27.36,0.8,Non,Oui,Oui,20,moyen,Printemps,Cancer testicule,Tumeur germinale testicule,Normal,11:40:00,,Non,12:40:00
-5058/2021,12/03/2021,SASSI,MAYARA,10,F,44,1.35,24.14,5.22,Non,Oui,Oui,16,froid,Printemps,Lymphome,Lymphome Hodgkin stade IIa,Normal,12:20:00,,Non,13:20:00
-5072/2023,07/02/2023,SAYEH,BEYA,58,F,67,1.57,27.18,1.24,Non,Non,Oui,17,froid,Hiver,Cancer du col,Bilan initial cancer col stade IIb,Normal,10:25:00,,Non,11:25:00
-5635/2022,13/12/2022,SEDDIK,KAEIS,42,H,60,1.71,20.52,1.06,Non,Non,Non,19,moyen,Hiver,Cancer colorectal,Suspicion récidive ADK bas rectum + caractérisation nodule pulmonaire,Normal,11:40:00,,Non,12:40:00
-5288/2025,18/03/2025,SEFI,MONCEF,66,H,100,1.82,30.19,0.94,Non,Oui,Non,16,froid,Printemps,Cancer du poumon,ADK poumon,Normal,07:40:00,,Non,08:40:00
-5312/2025,26/03/2025,SEGHAIER,JALEL,67,H,54,1.65,19.83,1.35,Non,Oui,Non,16,froid,Printemps,Cancer colorectal,ADK sigmoïde récidive,Normal,12:00:00,,Non,13:00:00
-5348/2022,11/12/2022,SELMI,AMEL,46,F,70,1.62,26.67,1.05,Non,Oui,Oui,19,moyen,Hiver,Lymphome Hodgkin,Évaluation précoce post 2 BEACOPP,Normal,09:30:00,,Non,10:30:00
-5140/2022,27/03/2025,SELMI,HABIBA,67,F,82,1.57,33.27,1.43,Non,Oui,Non,16,froid,Printemps,Lymphome,Lymphome cellules du manteau,Normal,11:15:00,,Non,12:15:00
-5096/2024,15/02/2024,SFAR,YASMINE,13,F,39,1.46,18.3,1.03,Non,Oui,Oui,17,froid,Hiver,Cancer ovaire,Tératome immature ovaire,Normal,07:40:00,,Non,08:40:00
-5850/2024,12/12/2024,SGHAIER,ZAKIA,56,F,70,1.57,28.4,0.89,Non,Oui,Non,19,moyen,Hiver,Cancer du sein,Cancer sein suspicion récidive,Normal,08:30:00,,Non,09:30:00
-5130/2024,24/02/2024,SHILI,MAISSA,34,F,91,1.57,36.92,0.79,Non,Oui,Oui,17,froid,Hiver,Cancer du sein,Carcinome tubulolobaire,Normal,10:10:00,,Non,11:10:00
-5020/2021,13/12/2022,SHILI,MAROUA,10,F,27,1.35,14.81,1,Non,Oui,Non,19,moyen,Hiver,Lymphome,Réévaluation lymphome Burkitt,Normal,10:20:00,,Non,11:20:00
-5638/2023,18/01/2024,SIOUD,SALHA,19,F,46,1.57,18.66,1.1,Non,Oui,Oui,17,froid,Hiver,Lymphome,Bilan intermédiaire lymphome Hodgkin,Normal,08:15:00,,Non,09:15:00
-650/2021,05/04/2023,SKHAB,AMRA,30,F,79,1.57,32.05,0.83,Non,Oui,Oui,20,moyen,Printemps,Cancer ORL,Contrôle UCNT,Normal,10:30:00,,Non,11:30:00
-5244/2021,27/04/2022,SLAMA,WALID,43,H,55,1.64,20.45,5.55,Non,Oui,Oui,20,moyen,Printemps,Lymphome,Lymphome Hodgkin en rechute,Normal,07:30:00,,Non,08:30:00
-5422/2022,01/09/2022,SOLTANI,YAHYA,5,H,15,1,15,1.1,Non,Oui,Oui,30,chaud,Automne,Lymphome,Lymphome Burkitt,Normal,09:20:00,,Non,10:20:00
-5002/2024,02/01/2024,SOUAYEH,BESMA,53,F,70,1.57,28.4,1.1,Non,Oui,Oui,17,froid,Hiver,Cancer colorectal,ADK colique stade III,Normal,13:15:00,,Non,14:15:00
-1730/2015,14/12/2022,SOULIMI,DHOUHA,30,F,63,1.57,25.56,1.19,Non,Oui,Oui,19,moyen,Hiver,Cancer thyroïde,CDT réfractaire iode,dysthroidie,10:45:00,,Non,11:45:00
-5293/2025,19/03/2025,SOUSSI,SALAH,71,H,87,1.71,29.75,1.28,Oui,Oui,Non,16,froid,Printemps,Lymphome,LLC-B,Normal,07:50:00,,Non,08:50:00
-5725/2024,04/11/2024,SRIDI,MOHAMED SEGHAIER,80,H,60,1.71,20.52,1,Non,Oui,Non,22,moyen,Automne,Lymphome,LBDGC,Normal,10:10:00,,Non,11:10:00
-5192/2022,08/02/2023,TAAMALLAH,HAMMOUDA,51,H,105,1.71,35.91,1.23,Non,Oui,Non,17,froid,Hiver,Lymphome,Bilan fin chimiothérapie et pré greffe lymphome manteau,Normal,09:10:00,,Non,10:10:00
-5305/2025,26/03/2025,TAJOURI,RYM,53,F,83,1.57,33.67,1.17,Non,Oui,Non,16,froid,Printemps,Cancer du sein,Cancer sein récidive,Normal,07:50:00,21239900,Non,08:50:00
-5005/2022,02/03/2022,TEJ,MOHAMED AMIR,21,H,116,1.71,39.67,6.05,Non,Oui,Oui,16,froid,Hiver,Lymphome,Lymphome Hodgkin stade II,Normal,11:10:00,,Non,12:10:00
-2504/2014,11/03/2023,TEKAYA,MOLKA,46,F,72,1.57,29.21,0.94,Non,Oui,Oui,16,froid,Printemps,Cancer du sein,Rechute métastatique CCI sein,Normal,07:40:00,,Non,08:40:00
-5322/2025,10/04/2025,TOURI,ABDELAZIZ,66,H,80,1.71,27.36,1.6,Oui,Oui,Non,20,moyen,Printemps,Cancer du poumon,Carcinome épidermoïde poumon,Normal,07:50:00,21677508,Non,08:50:00
-5023/2025,14/01/2025,TRABELSI,FATMA,56,F,80,1.6,31.25,0.85,Non,Oui,Non,17,froid,Hiver,Cancer du col,ADK col utérus,Normal,13:35:00,,Non,14:35:00
-5863/2024,19/03/2025,TRABELSI,NESRINE,30,F,79,1.57,32.05,1,Non,Oui,Non,16,froid,Printemps,Lymphome,Lymphome médiastinal B,Normal,09:45:00,,Non,10:45:00
-5302/2024,09/01/2025,WBIRI,FARID,44,H,53,1.71,18.13,0.7,Non,Oui,Non,17,froid,Hiver,Lymphome,Lymphome MALT gastrique,Normal,11:00:00,,Non,12:00:00
-5242/2025,04/03/2025,WECHTATI EP BARGHOUGUI,FETHET EZHOUR,66,F,68,1.57,27.59,0.6,Oui,Oui,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,07:50:00,,Non,08:50:00
-5102/2023,16/02/2023,YACCOUBI,HADDA,65,F,60,1.57,24.34,5.99,Non,Non,Oui,17,froid,Hiver,Cancer endomètre,Adénocarcinome endomètre,Normal,07:45:00,,Non,08:45:00
-5509/2022,12/10/2022,YAZIDI,SAMIRA,42,F,55,1.57,22.31,0.86,Non,Non,Non,29,chaud,Automne,Cancer oesophage,Bilan extension ADK épidermoïde oesophage T4bN0M0,Normal,08:40:00,,Non,09:40:00
-5634/2022,15/12/2022,YOUNES,AMEL,51,F,86,1.57,34.89,1.16,Non,Oui,Non,19,moyen,Hiver,Cancer ovaire,Évaluation récidive ganglionnaire cancer ovaire,Normal,11:14:00,,Non,12:14:00
-5084/2025,24/01/2025,YOUNES,FAHD,29,H,71,1.71,24.28,1.02,Non,Oui,Oui,17,froid,Hiver,Cancer testicule,Tumeur testiculaire germinale,Normal,12:50:00,,Non,13:50:00
-5271/2023,06/05/2023,YOUSSEF,LEILA,53,F,87,1.57,35.3,1.05,Non,Non,Non,23,moyen,Printemps,Autre,Suspicion récidive tumeur GIST,Normal,10:30:00,,Non,11:30:00
-5260/2025,06/03/2025,ZAHEK,OUMAYMA,19,F,82,1.75,26.78,1.06,Non,Oui,Non,16,froid,Printemps,Cancer du poumon,Carcinome mucoepidermoïde poumon,Normal,11:21:00,,Non,12:21:00
-5132/2022,12/12/2024,ZAIBI,YOUSRA,36,F,76,1.57,30.83,0.99,Non,Oui,Non,19,moyen,Hiver,Lymphome,Gray zone lymphoma,Normal,09:45:00,,Non,10:45:00
-47721/2015,15/01/2026,ZAOUALI,FATMA,47,F,72,1.57,29.21,1.04,Non,Oui,Oui,17,froid,Hiver,Cancer du sein,Cancer mammaire métastatique,Normal,10:30:00,,Non,11:30:00
-5032/2023,19/01/2023,ZARBOUT,CHEDLY,68,H,71,1.71,24.28,1.11,Non,Non,Non,17,froid,Hiver,Mélanome,Bilan récidive mélanome marge anale,Normal,07:40:00,,Non,08:40:00
-5032/2023,14/12/2023,ZARBOUT,CHEDLY,69,H,57,1.71,19.49,0.97,Non,Oui,Non,19,moyen,Hiver,Mélanome,Mélanome marge anale,Normal,10:55:00,,Non,11:55:00
-5653/2024,08/10/2024,ZAYANI,MOHAMED,64,H,48,1.71,16.42,1,Non,Oui,Non,29,chaud,Automne,Cancer duodénum,ADK duodénal,Normal,10:50:00,,Non,11:50:00
-2180/2021,25/11/2021,ZGUAM,MOHAMED,79,H,57,1.71,19.49,6.83,Non,Non,Oui,22,moyen,Automne,Cancer du poumon,Carcinome épidermoïde pulmonaire,Normal,10:30:00,,Non,11:30:00
-5878/2024,20/12/2024,ZITOUNI,BACHIR,30,H,67,1.72,22.65,0.96,Non,Oui,Non,19,moyen,Hiver,UCNT cavum,Bilan extension initial UCNT cavum,Normal,09:10:00,,Non,10:10:00
-5116/2024,24/04/2024,ZITOUNI,NOUR,20,F,47,1.57,19.07,0.95,Non,Oui,Oui,20,moyen,Printemps,Lymphome,LH stade III,Normal,09:20:00,,Non,10:20:00
+ï»¿ID,Date,Nom,PrÃ©nom,Ã‚ge,Sexe,Poids (kg),Taille (m),IMC,GlycÃ©mie,DiabÃ¨te,Chimio rÃ©cente,BAT activÃ©e,AntÃ©cÃ©dant d'activation du BAT,T(Â°C),classe tempÃ©rature,Saison,Cancer,Indication,Ã©tat throidien,Heure de lâ€™injection,NumÃ©ro de tÃ©lÃ©phone,Insuffisance rÃ©nale,Temps dâ€™acquisition,Classe d'Ã¢ge,Dose FDG (MBq)
+5048/2025,2025-01-17 00:00:00,ABBASSI,OLFA,49,F,62,1.6,24.21875,0.89,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,"Douleur MSG, antÃ©cÃ©dent cancer sein",Normal,13:20:00,,Oui,14:20:00,Adulte,229.4
+5292/2025,2025-03-18 00:00:00,ABDELLAOUI,MERIEM,8,F,30,1.3,17.75147929,0.94,Non,Oui,Non,Non,16,froid,Printemps,Cancer ovaire,TÃ©ratome immature ovaire,Normal,12:00:00,,Non,13:00:00,Enfant,111
+5069/2023,2023-02-02 00:00:00,ABDELLAOUI,WAEL,30,H,52,1.71,17.78324955,0.97,Non,Non,Non,Non,17,froid,Hiver,Lymphome,Bilan extension lymphome Hodgkin sclÃ©ronodulaire,Normal,10:32:00,,Non,11:32:00,Jeune adulte,192.4
+5518/2022,2022-10-14 00:00:00,ABDELLI,OURIDA,66,F,64,1.57,25.96454217,1.41,Non,Non,Non,Non,29,chaud,Automne,Cancer du col,Bilan extension carcinome Ã©pidermoÃ¯de col utÃ©rin,Normal,11:15:00,,Non,12:15:00,SÃ©nior,236.8
+5189/2022,2023-12-01 00:00:00,ABDELWAHED,SARRA,19,F,95,1.57,38.54111729,1.2,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,Ã‰valuation post chimiothÃ©rapie rattrapage,Normal,08:15:00,,Non,09:15:00,Jeune adulte,351.5
+5689/2024,2025-01-08 00:00:00,ABDESSALEM,AMINE,37,H,84,1.66,30.4833793,1.1,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Lymphome anaplasique,Normal,09:20:00,,Non,10:20:00,Jeune adulte,310.8
+5358/2022,2024-01-20 00:00:00,ABDESSALEM,ILHEM,41,F,50,1.57,20.28479857,0.8,Non,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Bilan rechute osseuse cancer sein,Normal,11:40:00,,Non,12:40:00,Adulte,185
+5482/2023,2024-03-15 00:00:00,ABDOULI,CHAIMA,22,F,86,1.67,30.83653053,1.5,Non,Oui,Oui,Non,16,froid,Printemps,Lymphome Hodgkin,Bilan fin traitement,Normal,10:15:00,,Non,11:15:00,Jeune adulte,318.2
+5589/2024,2024-09-13 00:00:00,ABID,LATIFA,58,F,85,1.57,34.48415757,1.01,Non,Oui,Non,Non,30,chaud,Automne,Autre,Suspicion maladie Horton,Normal,10:40:00,,Non,11:40:00,Adulte,314.5
+5368/2022,2022-11-29 00:00:00,ABIDI,LOTFI,29,H,56,1.71,19.15119182,1.05,Non,Oui,Non,Non,22,moyen,Automne,Lymphome,TEP intermÃ©diaire LH post 2 cures BEACOPP,Normal,10:32:00,,Non,11:32:00,Jeune adulte,207.2
+2712/2023,2024-01-18 00:00:00,ABKI,ROMANA,40,F,77,1.57,31.2385898,1,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,CaractÃ©risation lÃ©sions hÃ©patiques et osseuses,Normal,09:10:00,,Non,10:10:00,Adulte,284.9
+2575/2023,2024-01-17 00:00:00,ACHOUR,BESMA,51,F,61,1.57,24.74745426,1.09,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,Suspicion rÃ©cidive CCI sein,Normal,11:10:00,,Non,12:10:00,Adulte,225.7
+5637/2022,2022-12-13 00:00:00,ACHOUR,FREDJ,41,H,60,1.71,20.51913409,1.06,Non,Non,Non,Non,19,moyen,Hiver,Cancer ORL,Bilan extension initial UCNT cavum T3N1Mx,Normal,10:32:00,,Non,11:32:00,Adulte,222
+5245/2023,2024-01-18 00:00:00,ACHOURI,MOHAMED AMINE,20,H,50,1.71,17.09927841,0.9,Non,Non,Non,Non,17,froid,Hiver,Lymphome,Bilan fin traitement lymphome Hodgkin,Normal,10:20:00,,Non,11:20:00,Jeune adulte,185
+5303/2025,2025-03-25 00:00:00,AFLI,ZAIRA,46,F,62,1.57,25.15315023,0.99,Non,Oui,Non,Non,16,froid,Printemps,Autre,Recherche primitif,Normal,10:30:00,,Oui,11:30:00,Adulte,229.4
+5299/2023,2023-05-06 00:00:00,AGUIR,BOURAOUI,71,H,116,1.7,40.1384083,1,Non,Non,Non,Non,23,moyen,Printemps,Autre,CaractÃ©risation nodules pulmonaires,Normal,10:20:00,,Oui,11:20:00,SÃ©nior,429.2
+5664/2022,2022-12-30 00:00:00,AINI,MONGIA,66,F,96,1.57,38.94681326,1.4,Non,Non,Non,Non,19,moyen,Hiver,Cancer du sein,Bilan extension carcinome mammaire gauche T2N0Mx,Normal,10:30:00,,Non,11:30:00,SÃ©nior,355.2
+5005/2024,2024-01-12 00:00:00,AJLANI,AHMED,75,H,60,1.71,20.51913409,1.24,Non,Oui,Non,Non,17,froid,Hiver,Cancer colorectal,Suspicion rÃ©cidive ADK colique,Normal,07:40:00,,Non,08:40:00,SÃ©nior,222
+5532/2022,2025-11-12 00:00:00,AKHMITOVA,AISYLU,31,F,60,1.6,23.4375,0.77,Non,Non,Oui,Non,22,moyen,Automne,Lymphome Hodgkin,Suspicion rechute,Normal,10:20:00,,Non,11:20:00,Jeune adulte,222
+5046/2025,2025-03-07 00:00:00,ALOUI,ANIS,39,H,64,1.8,19.75308642,0.576,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LH intermÃ©diaire,Normal,09:45:00,,Non,10:45:00,Jeune adulte,236.8
+5590/2024,2024-09-13 00:00:00,ALOUI,HADDI,55,H,60,1.71,20.51913409,1.43,Non,Oui,Non,Non,30,chaud,Automne,Lymphome,Lymphome zone marginale splÃ©nique,Normal,08:30:00,,Non,09:30:00,Adulte,222
+5117/2021,2022-02-23 00:00:00,AMARI,RAHMA,19,F,42,1.62,16.00365798,0.9,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade IV,Normal,09:05:00,,Non,10:05:00,Jeune adulte,155.4
+5050/2023,2023-01-26 00:00:00,AMMAR,AARFA,73,F,91,1.57,36.9183334,1.13,Non,Non,Non,Non,17,froid,Hiver,Autre,CaractÃ©risation nodule pulmonaire,Normal,10:45:00,,Non,11:45:00,SÃ©nior,336.7
+5078/2022,2022-02-26 00:00:00,AMMAR,NAOUAEM,36,H,71,1.71,24.28097534,1.14,Non,Oui,Oui,Non,17,froid,Hiver,Cancer colorectal,AdÃ©nocarcinome cÃ´lon mÃ©tastatique,Normal,10:15:00,,Non,11:15:00,Jeune adulte,262.7
+5024/2024,2024-01-12 00:00:00,AMRI,HOURIA,41,F,120,1.65,44.07713499,1.06,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du col,ADK endomÃ©trioÃ¯de col,Normal,10:10:00,,Non,11:10:00,Adulte,444
+5881/2024,2025-05-27 00:00:00,AMRI,IKRAM,45,F,63,1.69,22.05805119,0.78,Non,Oui,Oui,Oui,23,moyen,Printemps,Lymphome Hodgkin,Ã‰valuation intermÃ©diaire post 2 cures ABVD,Normal,10:30:00,,Non,11:30:00,Adulte,233.1
+5015/2025,2025-01-10 00:00:00,AMRI,REBEH,71,F,63,1.57,25.5588462,1.05,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,Carcinome lobulaire sein,Normal,08:25:00,,Non,09:25:00,SÃ©nior,233.1
+1839/2022,2023-12-01 00:00:00,ARBIA,FETHIA,67,F,50,1.57,20.28479857,0.98,Non,Oui,Non,Non,19,moyen,Hiver,Cancer estomac,Ã‰valuation post-traitement ADK gastrique,Normal,08:20:00,,Non,09:20:00,SÃ©nior,185
+5056/2023,2023-02-01 00:00:00,ARFAOUI,AICHA,72,F,89,1.57,36.10694146,1.08,Oui,Oui,Oui,Non,17,froid,Hiver,Cancer utÃ©rus,Sarcome endomÃ©trioÃ¯de,Normal,09:15:00,,Non,10:15:00,SÃ©nior,329.3
+5298/2025,2025-03-19 00:00:00,ARIBI,NAJIA,49,F,80,1.57,32.45567772,0.9,Non,Oui,Non,Non,16,froid,Printemps,Cancer estomac,Carcinome peu diffÃ©renciÃ©,Normal,08:15:00,,Non,09:15:00,Adulte,296
+5131/2023,2023-01-03 00:00:00,ASSILI,LAKHDAR,34,H,70,1.7,24.22145329,1.04,Non,Oui,Oui,Non,17,froid,Hiver,Cancer testicule,Ã‰valuation post-chimiothÃ©rapie,Normal,10:25:00,,Non,11:25:00,Jeune adulte,259
+5569/2024,2024-10-12 00:00:00,ASSOUDI,ZINA,26,F,66,1.58,26.43807082,0.94,Non,Oui,Oui,Non,29,chaud,Automne,Lymphome Hodgkin,Bilan intermÃ©diaire post 2 ABVD,Normal,10:15:00,,Non,11:15:00,Jeune adulte,244.2
+5273/2021,2025-01-08 00:00:00,ATHEMNIA,FETHI,62,H,91,1.71,31.12068671,1.14,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,LH suspicion rÃ©cidive,Normal,08:30:00,,Non,09:30:00,SÃ©nior,336.7
+5722/2023,2023-12-01 00:00:00,ATIA,KAMEL,68,H,90,1.71,30.77870114,1.9,Oui,Non,Non,Non,19,moyen,Hiver,Cancer du poumon,CaractÃ©risation nodule pulmonaire,Normal,09:20:00,,Non,10:20:00,SÃ©nior,333
+5341/2025,2025-04-16 00:00:00,ATTI,NADIA,61,F,74,1.67,26.53375883,1.06,Non,Oui,Non,Non,20,moyen,Printemps,Cancer du sein,Cancer sein rechute hÃ©patique,Normal,08:15:00,54542696,Non,09:15:00,SÃ©nior,273.8
+5014/2025,2025-01-10 00:00:00,AWASSA,RIDHA,48,H,62,1.71,21.20310523,0.97,Non,Oui,Non,Non,17,froid,Hiver,Sarcomes,LÃ©iomyosarcome rÃ©cidive,Normal,10:55:00,90323227,Non,11:55:00,Adulte,229.4
+5009/2023,2023-01-15 00:00:00,AYACHI,LATIFA,67,F,69,1.57,27.99302203,1.95,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,Bilan progression cancer mammaire bilatÃ©ral,Normal,13:20:00,,Non,14:20:00,SÃ©nior,255.3
+5279/2021,2022-01-14 00:00:00,AYED,AMANI,16,F,68,1.68,24.09297052,1.1484,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,Rhabdomyosarcome alvÃ©olaire,Normal,08:15:00,,Non,09:15:00,Enfant,251.6
+8585/2024,2024-12-24 00:00:00,AYOUNI,FAOUZI,64,H,94,1.71,32.14664341,0.98,Oui,Oui,Non,Non,19,moyen,Hiver,Cancer oesophage,ADK oesophage,Normal,09:30:00,,Non,10:30:00,SÃ©nior,347.8
+5031/2023,2023-01-19 00:00:00,BABBA,OUMAIMA,22,F,95,1.57,38.54111729,1.13,Non,Non,Non,Non,17,froid,Hiver,Autre,Suspicion rÃ©cidive sarcome grÃªle,Normal,07:45:00,,Non,08:45:00,Jeune adulte,351.5
+5551/2023,2024-04-19 00:00:00,BACCOUCHI,RACHID,58,H,53,1.7,18.33910035,0.94,Non,Oui,Oui,Non,20,moyen,Printemps,Lymphome,Ã‰valuation fin traitement 6 RCHOP,Normal,11:00:00,,Non,12:00:00,Adulte,196.1
+5074/2020,2024-11-04 00:00:00,BADRI,FAOUZI,35,H,78,1.7,26.98961938,0.9,Non,Oui,Non,Non,22,moyen,Automne,Lymphome,LH rÃ©fractaire,Normal,09:20:00,,Non,10:20:00,Jeune adulte,288.6
+5326/2025,2025-04-10 00:00:00,BAGHDADI,AHMED,20,H,57,1.75,18.6122449,0.93,Non,Oui,Non,Non,20,moyen,Printemps,Sarcomes,Rhabdomyosarcome cuisse,Normal,12:20:00,92391235,Non,13:20:00,Jeune adulte,210.9
+5262/2025,2025-03-07 00:00:00,BALLOUM,AICHA,33,F,50,1.62,19.05197378,1.08,Non,Oui,Non,Non,16,froid,Printemps,Cancer ORL,UCNT cavum,Normal,09:50:00,,Non,10:50:00,Jeune adulte,185
+5684/2023,2023-11-15 00:00:00,BARANI,SALOUA,58,F,79,1.69,27.66009594,1.1,Non,Oui,Non,Non,22,moyen,Automne,Cancer ovaire,Recherche lÃ©sions secondaires sur rechute hÃ©patique,Normal,07:45:00,,Non,08:45:00,Adulte,292.3
+5034/2024,2024-01-18 00:00:00,BARGOUGUI,HAITHEM,18,H,71,1.71,24.28097534,1.01,Non,Non,Non,Non,17,froid,Hiver,Cancer ORL,Bilan extension initial UCNT cavum,Normal,10:10:00,,Non,11:10:00,Jeune adulte,262.7
+5103/2023,2023-02-24 00:00:00,BARKA,NABIL,38,H,91,1.73,30.40529253,0.91,Non,Oui,Oui,Non,17,froid,Hiver,Cancer colorectal,ADK sigmoÃ¯de,Normal,10:50:00,,Non,11:50:00,Jeune adulte,336.7
+5622/2022,2022-12-09 00:00:00,BAYOUDH,MAHMOUD,80,H,78,1.71,26.67487432,1.47,Non,Non,Non,Non,19,moyen,Hiver,Autre,Suspicion infection pacemaker,Normal,10:32:00,,Non,11:32:00,SÃ©nior,288.6
+5053/2024,2024-01-19 00:00:00,BECHRAOUI,LAILA,69,F,75,1.57,30.42719786,1.2,Oui,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,Carcinome mammaire gauche,Normal,07:40:00,,Non,08:40:00,SÃ©nior,277.5
+5683/2024,2024-12-12 00:00:00,BELAABI,ALI,58,H,50,1.71,17.09927841,1.86,Oui,Oui,Non,Non,19,moyen,Hiver,Lymphome,LBDGC gastrique,Normal,12:00:00,,Non,13:00:00,Adulte,185
+5327/2021,2021-11-28 00:00:00,BELGACEM,HABIBA,46,F,61,1.63,22.95908766,0.999,Non,Oui,Oui,Non,22,moyen,Automne,Cancer ovaire,CystadÃ©nocarcinome sÃ©reux ovaire,Normal,10:30:00,,Non,11:30:00,Adulte,225.7
+5030/2021,2023-04-12 00:00:00,BELKHAOUI,IMENE,34,F,67,1.67,24.02380867,1.07,Non,Oui,Oui,Non,20,moyen,Printemps,Cancer utÃ©rus,Leiomyosarcome utÃ©rin mÃ©tastatique,Normal,12:20:00,,Non,13:20:00,Jeune adulte,247.9
+5377/2024,2025-03-07 00:00:00,BEN ABDALLAH,ABDELKARIM,64,H,92,1.71,31.46267228,2,Oui,Oui,Non,Non,16,froid,Printemps,Cancer colorectal,ADK rectum,Normal,10:40:00,,Non,11:40:00,SÃ©nior,340.4
+5536/2022,2022-10-27 00:00:00,BEN AIFA,MABROUK,66,H,80,1.71,27.35884546,1.2,Non,Non,Non,Non,29,chaud,Automne,Autre,Suspicion myÃ©lome multiple,Normal,09:30:00,,Non,10:30:00,SÃ©nior,296
+5295/2025,2025-03-19 00:00:00,BEN ALI,LOUJAIN,11,F,50,1.6,19.53125,0.94,Non,Oui,Non,Non,16,froid,Printemps,Sarcomes,Sarcome d'Ewing,Normal,10:32:00,,Non,11:32:00,Enfant,185
+5309/2025,2025-03-26 00:00:00,BEN AVDALLAH,FAOUZI,56,H,61,1.71,20.86111966,0.94,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,Lymphome B zone marginale,Normal,11:25:00,,Non,12:25:00,Adulte,225.7
+5578/2024,2024-09-11 00:00:00,BEN CHATTI,JAMEL,50,H,60,1.71,20.51913409,1.22,Non,Oui,Non,Non,30,chaud,Automne,Lymphome,LBDGC gastrique rÃ©cidive,Normal,10:30:00,,Non,11:30:00,Adulte,222
+5131/2022,2022-12-16 00:00:00,BEN DARMOUN,SEIFEDDINE,31,H,70,1.71,23.93898977,0.9,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome,LH stade IV osseux,Normal,10:50:00,,Non,11:50:00,Jeune adulte,259
+5170/2021,2021-12-31 00:00:00,BEN HADDA,NOUR,17,F,61,1.55,25.39021852,0.8784,Non,Oui,Oui,Oui,19,moyen,Hiver,Lymphome,Lymphome Hodgkin stade II,Normal,10:30:00,,Non,11:30:00,Enfant,225.7
+5016/2019,2020-09-17 00:00:00,BEN HADJ BECHIR,INES,34,H,75,1.71,25.64891762,0.693,Non,Non,Non,Non,30,chaud,Automne,Lymphome,Lymphome Hodgkin stade IIEAb,Normal,09:10:00,,Non,10:10:00,Jeune adulte,277.5
+5835/2023,2023-12-21 00:00:00,BEN HADJ SLAMA,MONDHER,61,H,60,1.71,20.51913409,1,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,Carcinome Ã©pidermoÃ¯de poumon,Normal,10:50:00,,Non,11:50:00,SÃ©nior,222
+5080/2023,2023-02-08 00:00:00,BEN HAJ ALI,FREJ,61,H,79,1.71,27.01685989,0.95,Non,Non,Non,Non,17,froid,Hiver,MÃ©lanome,Bilan extension initial mÃ©lanome choroÃ¯dien,Normal,09:50:00,,Non,10:50:00,SÃ©nior,292.3
+5146/2022,2023-12-21 00:00:00,BEN HALIMA,SELMA,69,F,66,1.57,26.77593411,1,Non,Oui,Non,Non,19,moyen,Hiver,Autre,Maladie de Castelman,Normal,10:25:00,,Non,11:25:00,SÃ©nior,244.2
+5050/2024,2024-01-18 00:00:00,BEN HASSEN,MOHAMED,58,H,86,1.71,29.41075887,1.36,Non,Non,Non,Non,17,froid,Hiver,Cancer ORL,Recherche primitif avec ADP cervicales,Normal,09:20:00,,Non,10:20:00,Adulte,318.2
+5327/2025,2025-04-11 00:00:00,BEN HASSINE,MOHAMED JAMEL,75,H,74,1.76,23.88946281,1.47,Oui,Oui,Non,Non,20,moyen,Printemps,Cancer du poumon,ADK bronchique mÃ©tastatique,Normal,07:30:00,,Non,08:30:00,SÃ©nior,273.8
+5193/2025,2025-12-05 00:00:00,BEN HASSINE,NADIA,38,F,95,1.72,32.11195241,1.05,Non,Oui,Oui,Non,19,moyen,Automne,Cancer endomÃ¨tre,Sarcome stroma endomÃ¨tre,Normal,08:15:00,,Non,09:15:00,Jeune adulte,351.5
+5049/2024,2024-03-19 00:00:00,BEN HENI,HAMDI,24,H,63,1.75,20.57142857,1,Non,Oui,Oui,Oui,16,froid,Printemps,Lymphome,LH stade IV osseux post C2,Normal,12:00:00,,Non,13:00:00,Jeune adulte,233.1
+5380/2022,2022-11-18 00:00:00,BEN MOHD,BOULBABA,49,H,82,1.71,28.04281659,1,Non,Oui,Non,Non,22,moyen,Automne,Lymphome,Ã‰valuation prÃ© autogreffe LH rÃ©cidivant,Normal,11:15:00,,Non,12:15:00,Adulte,303.4
+5241/2025,2025-03-04 00:00:00,BEN NECIB,TASNIM,15,F,61,1.64,22.67995241,0.84,Non,Oui,Non,Non,16,froid,Printemps,Autre,Epilepsie focale,Normal,11:42:00,,Non,12:42:00,Enfant,225.7
+5192/2024,2025-02-05 00:00:00,BEN NEJMA,MAHA,28,F,70,1.57,28.398718,1.62,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Suspicion rÃ©cidive LH,Normal,10:30:00,,Non,11:30:00,Jeune adulte,259
+5230/2022,2022-12-13 00:00:00,BEN SAAD,AICHA,84,F,86,1.57,34.88985354,1.35,Non,Oui,Non,Non,19,moyen,Hiver,MÃ©lanome,RÃ©Ã©valuation mÃ©lanome rectal mÃ©tastatique sous immunothÃ©rapie,Normal,11:05:00,,Non,12:05:00,SÃ©nior,318.2
+2615/2022,2024-09-10 00:00:00,BEN SALAH,HABIBA,70,F,77,1.57,31.2385898,1.4,Non,Oui,Non,Non,30,chaud,Automne,Cancer thyroÃ¯de,Cancer papillaire thyroÃ¯de,dysthyroidie,08:20:00,,Non,09:20:00,SÃ©nior,284.9
+5051/2024,2024-01-18 00:00:00,BEN SALEM,NAWEL,41,F,87,1.57,35.29554952,1.02,Non,Oui,Non,Non,17,froid,Hiver,Autre,Ã‰valuation post autogreffe pour plasmocytome,Normal,10:55:00,,Non,11:55:00,Adulte,321.9
+5884/2025,2025-02-12 00:00:00,BEN SALEM,WAHID,37,H,66,1.78,20.83070319,0.81,Non,Oui,Oui,Non,17,froid,Hiver,Cancer testicules,Bilan lÃ©sionnel sÃ©minome testiculaire post-opÃ©ratoire,Normal,11:15:00,,Non,12:15:00,Jeune adulte,244.2
+5007/2021,2023-01-31 00:00:00,BEN SALEM,YOSRA,20,F,34,1.57,13.79366303,0.97,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,TEP fin traitement 2Ã¨me ligne LH rechute mÃ©dullaire,Normal,08:25:00,,Non,09:25:00,Jeune adulte,125.8
+5010/2025,2025-01-13 00:00:00,BEN SIDHOM,ASSIL,1,F,11,0.74,20.08765522,0.98,Non,Oui,Oui,Non,17,froid,Hiver,Neuroblastome,Neuroblastome,Normal,10:45:00,29019766,Non,11:45:00,Enfant,40.7
+5065/2021,2023-01-19 00:00:00,BEN TKAYA,AHMED,30,H,68,1.71,23.25501864,0.99,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,TEP prÃ©-greffe lymphome Hodgkin stade IIIB,Normal,10:55:00,,Non,11:55:00,Jeune adulte,251.6
+5243/2025,2025-03-04 00:00:00,BERIOUL,MALEK,10,H,26,1.27,16.12003224,1,Non,Oui,Non,Non,16,froid,Printemps,Autre,Epilepsie,Normal,09:30:00,,Non,10:30:00,Enfant,96.2
+5307/2025,2025-03-26 00:00:00,BIBI,KAMEL,62,H,68,1.71,23.25501864,1.03,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,09:20:00,,Non,10:20:00,SÃ©nior,251.6
+5814/2024,2024-12-04 00:00:00,BLEL,HEDI,69,H,105,1.71,35.90848466,0.93,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,ADK poumon,Normal,07:45:00,,Non,08:45:00,SÃ©nior,388.5
+5097/2023,2024-12-18 00:00:00,BOU ALLOUCHA,IMENE,31,F,60,1.57,24.34175829,1.38,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome,LH en rechute,Normal,10:45:00,,Non,11:45:00,Jeune adulte,222
+5460/2024,2025-03-25 00:00:00,BOUALI,RADHIA,68,F,78,1.57,31.64428577,1.52,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC pancrÃ©atique,Normal,12:00:00,,Non,13:00:00,SÃ©nior,288.6
+5068/2025,2025-12-18 00:00:00,BOUATTAY,ZAKARIA,13,H,45,1.55,18.73048907,0.71,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome,LH stade III,Normal,10:45:00,50583457,Non,11:45:00,Enfant,166.5
+5081/2024,2025-01-10 00:00:00,BOUAZIZ,OLFA,54,F,78,1.6,30.46875,1.17,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,CCI sein triple nÃ©gatif,Normal,11:15:00,,Non,12:15:00,Adulte,288.6
+5313/2024,2025-03-07 00:00:00,BOUCHNAK,AMEL,33,F,73,1.57,29.61580592,0.9,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LH fin traitement,Normal,07:40:00,,Non,08:40:00,Jeune adulte,270.1
+5332/2025,2025-04-11 00:00:00,BOUDAGGA,AYA,3,F,16,1.02,15.3787005,0.9,Non,Oui,Non,Non,20,moyen,Printemps,Neuroblastome,Ganglioneuroblastome,Normal,10:50:00,29225428,Non,11:50:00,Enfant,59.2
+5328/2025,2025-04-11 00:00:00,BOUDRENNA,HAYET,54,F,77,1.6,30.078125,0.9,Oui,Oui,Non,Non,20,moyen,Printemps,Lymphome,Lymphome B vÃ©sical,Normal,08:40:00,52359572,Non,09:40:00,Adulte,284.9
+5903/2025,2025-05-12 00:00:00,BOUGHZELA,MAROUA,31,F,73,1.63,27.47562949,0.79,Non,Oui,Oui,Non,23,moyen,Printemps,Cancer du sein,Ã‰valuation lÃ©sions osseuses CINS sein gauche mÃ©tastatique,Normal,10:40:00,,Non,11:40:00,Jeune adulte,270.1
+5427/2022,2022-11-19 00:00:00,BOUGUERRA,ADEM,16,H,61,1.63,22.95908766,1,Non,Oui,Non,Non,22,moyen,Automne,Lymphome,TEP intermÃ©diaire LH stade II,Normal,12:00:00,,Non,13:00:00,Enfant,225.7
+1041/2024,2024-09-10 00:00:00,BOUHAOUEL,ADEL,55,H,84,1.71,28.72678773,1,Non,Oui,Non,Non,30,chaud,Automne,Autre,Recherche primitif,Normal,08:20:00,,Non,09:20:00,Adulte,310.8
+5506/2022,2022-10-12 00:00:00,BOUSAID,MANSOUR,58,H,54,1.71,18.46722068,0.97,Non,Oui,Non,Non,29,chaud,Automne,Cancer du poumon,Ã‰volution carcinome Ã©pidermoÃ¯de poumon,Normal,10:50:00,,Non,11:50:00,Adulte,199.8
+5063/2025,2025-12-19 00:00:00,BOUSETTA,EYA,20,F,68,1.67,24.38237298,0.85,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome,ContrÃ´le LH,Normal,09:15:00,,Non,10:15:00,Jeune adulte,251.6
+5247/2025,2025-03-04 00:00:00,BOUZGARROU,OUMAYMA,33,F,51,1.7,17.64705882,1.03,Non,Oui,Non,Non,16,froid,Printemps,MÃ©lanome,MÃ©lanome conjonctive,Normal,11:05:00,,Non,12:05:00,Jeune adulte,188.7
+5776/2024,2024-11-19 00:00:00,BOUZGUANDA,RAYHANE,24,F,85,1.7,29.41176471,1.01,Non,Oui,Non,Non,22,moyen,Automne,Cancer thyroÃ¯de,Suspicion rÃ©cidive ganglionnaire cervicale,dysthyroidie,12:20:00,,Non,13:20:00,Jeune adulte,314.5
+5452/2024,2025-03-14 00:00:00,BRAHEM,ZAKIA,70,F,77,1.57,31.2385898,0.92,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC gastrique,Normal,14:10:00,,Non,15:10:00,SÃ©nior,284.9
+5163/2024,2025-01-10 00:00:00,BRAHIM,RIHANE,5,F,15,1.09,12.6251999,0.9,Non,Oui,Non,Non,17,froid,Hiver,Neuroblastome,Neuroblastome,Normal,10:15:00,,Non,11:15:00,Enfant,55.5
+5545/2024,2025-03-18 00:00:00,BRIKI,AMEUR,53,H,80,1.66,29.03178981,1.16,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,08:20:00,,Non,09:20:00,Adulte,296
+5028/2024,2024-01-12 00:00:00,BRINI,GHOFRANE,8,F,29,1.24,18.86056191,1.04,Non,Oui,Oui,Non,17,froid,Hiver,Cancer ovaire,Dysgerminome ovaire,Normal,10:30:00,,Non,11:30:00,Enfant,107.3
+5701/2025,2025-03-12 00:00:00,CHAABANE,ABIR,23,F,79,1.72,26.70362358,0.89,Non,Oui,Oui,Non,16,froid,Printemps,Lymphome Hodgkin,Ã‰valuation intermÃ©diaire post 2 cures BEACOPP,Normal,08:30:00,,Non,09:30:00,Jeune adulte,292.3
+5737/2023,2025-03-04 00:00:00,CHAABANE,SLAH,52,H,53,1.71,18.12523512,0.78,Non,Oui,Non,Non,16,froid,Printemps,Cancer pancrÃ©as,ADK pancrÃ©atique rÃ©cidive,Normal,10:55:00,,Non,11:55:00,Adulte,196.1
+5861/2024,2024-12-18 00:00:00,CHAABANI,KHELIFA,54,H,72,1.71,24.62296091,1.08,Non,Oui,Non,Non,19,moyen,Hiver,Cancer ORL,Carcinome Ã©pidermoÃ¯de lÃ¨vre,Normal,07:45:00,,Non,08:45:00,Adulte,266.4
+5300/2025,2025-03-25 00:00:00,CHAABENI,ARFA,56,F,70,1.57,28.398718,1.03,Non,Oui,Non,Non,16,froid,Printemps,Cancer ovaire,ADK sÃ©reux ovaire,Normal,11:10:00,,Non,12:10:00,Adulte,259
+5297/2023,2023-05-06 00:00:00,CHAIEB,HADDA,67,F,92,1.57,37.32402937,1.68,Non,Non,Non,Non,23,moyen,Printemps,Cancer du col,Bilan extension adÃ©nocarcinome endomÃ©trioÃ¯de,Normal,09:15:00,,Non,10:15:00,SÃ©nior,340.4
+5170/2022,2023-01-19 00:00:00,CHALLOUF,ZEINEB,48,F,65,1.57,26.37023814,1,Non,Oui,Non,Non,17,froid,Hiver,Cancer du col,Ã‰valuation post thÃ©rapeutique cancer col stade IVA,Normal,11:14:00,,Non,12:14:00,Adulte,240.5
+5813/2023,2024-11-03 00:00:00,CHARFEDDINE,ISMAIL,13,H,42,1.45,19.97621879,0.7,Non,Oui,Oui,Non,22,moyen,Automne,Lymphome Hodgkin,Bilan intermÃ©diaire post 2 cures OEPA,Normal,08:30:00,,Non,09:30:00,Enfant,155.4
+5837/2024,2024-12-12 00:00:00,CHATTI,SAOUSSEN,45,F,88,1.57,35.70124549,1.07,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du col,Carcinome Ã©pidermoÃ¯de col,Normal,10:45:00,,Non,11:45:00,Adulte,325.6
+5020/2024,2024-01-05 00:00:00,CHEBBI,KHEDIJA,64,F,59,1.57,23.93606231,0.99,Non,Oui,Oui,Non,17,froid,Hiver,Autre,"HypercalcÃ©mie, recherche primitif",Normal,10:30:00,,Non,11:30:00,SÃ©nior,218.3
+5086/2022,2022-03-03 00:00:00,CHEBIL,RIADH,52,H,55,1.78,17.35891933,0.8496,Non,Non,Non,Non,16,froid,Printemps,Cancer estomac,AdÃ©nocarcinome gastrique,Normal,10:55:00,,Non,11:55:00,Adulte,203.5
+5039/2020,2023-02-02 00:00:00,CHEMLI,KARIM,41,H,79,1.78,24.93372049,0.71,Non,Oui,Oui,Non,17,froid,Hiver,Cancer ORL,Ã‰valuation rÃ©cidive UCNT cavum,Normal,14:10:00,,Oui,15:10:00,Adulte,292.3
+5291/2021,2022-12-12 00:00:00,CHETIOUI,FREDJ,59,H,70,1.71,23.93898977,0.97,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,"Suspicion rÃ©cidive LH, contrÃ´le post-TTT",Normal,10:50:00,,Non,11:50:00,Adulte,259
+5406/2023,2024-02-23 00:00:00,CHETIOUI,INES,41,F,60,1.56,24.65483235,1.26,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Ã‰valuation fin traitement,Normal,08:15:00,,Non,09:15:00,Adulte,222
+5186/2021,2022-01-19 00:00:00,CHIBOUB,HAJER,30,F,63,1.63,23.71184463,1.0584,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade III,Normal,12:00:00,,Non,10:00:00,Jeune adulte,233.1
+5832/2023,2023-12-21 00:00:00,CHIKH ALI,HOUDA,77,F,83,1.57,33.67276563,1.3,Non,Oui,Non,Non,19,moyen,Hiver,Cancer colorectal,ADK rectum,Normal,10:40:00,,Non,11:40:00,SÃ©nior,307.1
+5008/2022,2023-01-26 00:00:00,CHIKHAOUI,INES,35,F,63,1.57,25.5588462,0.8,Non,Non,Oui,Non,17,froid,Hiver,MÃ©lanome,MÃ©lanome nodulaire,Normal,08:55:00,,Non,09:55:00,Jeune adulte,233.1
+5388/2023,2023-06-15 00:00:00,CHOUIKH,RAFIKA,58,F,72,1.57,29.21010994,1.04,Non,Oui,Non,Non,33,chaud,Ã‰tÃ©,Cancer ovaire,Ã‰valuation post chimiothÃ©rapie ADK ovaire,Normal,11:40:00,,Non,12:40:00,Adulte,266.4
+5085/2023,2023-02-08 00:00:00,CHOURABI,HABIB,61,H,73,1.71,24.96494648,1.1,Non,Non,Non,Non,17,froid,Hiver,Autre,Recherche primitif carcinome peu diffÃ©renciÃ©,Normal,10:45:00,,Non,11:45:00,SÃ©nior,270.1
+5325/2025,2025-04-10 00:00:00,DAHMOUL,AMEL,55,F,65,1.68,23.03004535,1,Non,Oui,Non,Non,20,moyen,Printemps,Lymphome,NÃ©oplasie mÃ©diastinale,Normal,11:25:00,96307296,Non,12:25:00,Adulte,240.5
+5041/2020,2022-10-27 00:00:00,DEBBABI,KHADHRA,27,F,65,1.57,26.37023814,0.96,Non,Oui,Non,Non,29,chaud,Automne,Lymphome,Bilan prÃ© traitement de rattrapage LBDGC rÃ©cidivant,Normal,10:10:00,,Non,11:10:00,Jeune adulte,240.5
+5123/2022,2022-03-18 00:00:00,DEROUICHE,BESMA,31,F,52,1.6,20.3125,1.0998,Non,Non,Oui,Non,16,froid,Printemps,Lymphome,Lymphome Hodgkin stade II,Normal,10:50:00,,Non,11:50:00,Jeune adulte,192.4
+5517/2022,2022-10-14 00:00:00,DHAHBI,ABDELWAHEB,85,H,77,1.71,26.33288875,1.68,Non,Non,Non,Non,29,chaud,Automne,Cancer colorectal,ADK colon gauche post-opÃ©ratoire,Normal,10:30:00,,Non,11:30:00,SÃ©nior,284.9
+608/2021,2024-12-16 00:00:00,DHAHRI,,40,F,54,1.57,21.90758246,0.9,Non,Oui,Non,Non,19,moyen,Automne,Cancer thyroÃ¯de,CPT rechute biochimique,dysthyroidie,09:10:00,,Non,10:10:00,Adulte,199.8
+5133/2021,2022-01-07 00:00:00,DHAYA,HELA,24,F,67,1.55,27.88761707,1.0692,Non,Non,Oui,Non,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade III,Normal,07:30:00,,Non,08:30:00,Jeune adulte,247.9
+5169/2022,2022-04-13 00:00:00,DKHILI,KHAOULA,19,F,65,1.65,23.87511478,1.1088,Non,Oui,Oui,Non,20,moyen,Printemps,Lymphome,Lymphome Hodgkin stade I,Normal,09:24:00,,Non,10:24:00,Jeune adulte,240.5
+5028/2025,2025-01-14 00:00:00,DLLEL,SALIM,24,H,63,1.77,20.10916403,0.7,Non,Oui,Oui,Non,17,froid,Hiver,Autre,Syndrome nÃ©phrotique,Normal,10:20:00,,Oui,11:20:00,Jeune adulte,233.1
+5758/2023,2023-12-12 00:00:00,DOUSS,ESSIA,58,F,100,1.6,39.0625,1.05,Non,Oui,Non,Non,19,moyen,Hiver,Autre,Vascularite,Normal,09:45:00,,Non,10:45:00,Adulte,370
+5521/2022,2022-10-14 00:00:00,DRIDI,MAROUA,31,F,94,1.57,38.13542132,1,Non,Oui,Non,Non,29,chaud,Automne,Autre,Suspicion rÃ©cidive tumeur trophoblastique,Normal,12:20:00,,Non,13:20:00,Jeune adulte,347.8
+5075/2020,2020-10-22 00:00:00,EBDELLI,HANENE,37,F,42,1.57,17.0392308,0.9684,Non,Non,Non,Non,29,chaud,Automne,Lymphome,Lymphome Hodgkin stade IV,Normal,10:10:00,,Non,11:10:00,Jeune adulte,155.4
+5181/2021,2024-12-24 00:00:00,EL AIEBA,LINA,27,F,63,1.57,25.5588462,1.06,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,Suspicion rÃ©cidive LH,Normal,11:40:00,,Non,12:40:00,Jeune adulte,233.1
+5661/2023,2024-11-29 00:00:00,EL AJMI,IMEN,44,F,88,1.68,31.17913832,1,Non,Oui,Oui,Non,22,moyen,Automne,Lymphome Hodgkin,Bilan fin de traitement,Normal,09:20:00,,Non,10:20:00,Adulte,325.6
+2125/2020,2023-07-13 00:00:00,EL HENI,AWATEF,48,F,91,1.57,36.9183334,1.07,Non,Non,Non,Non,35,chaud,Ã‰tÃ©,Cancer thyroÃ¯de,Bilan cancer thyroÃ¯de avec thyroglobuline Ã©levÃ©e,dysthyroidie,10:15:00,,Non,11:15:00,Adulte,336.7
+5286/2024,2025-11-25 00:00:00,ELALLOUCHE,HENDA,44,F,68,1.61,26.2335558,0.9,Non,Oui,Oui,Non,22,moyen,Automne,Autre,Ã‰valuation thÃ©rapeutique,Normal,10:30:00,,Non,11:30:00,Adulte,251.6
+5820/2024,2024-12-06 00:00:00,EZZINE,HABIB,67,H,60,1.71,20.51913409,1.3,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,Carcinome Ã©pidermoÃ¯de poumon,Normal,08:51:00,,Non,09:51:00,SÃ©nior,222
+5296/2021,2022-01-20 00:00:00,FADHEL,GHAITH SALAH,18,H,59,1.7,20.41522491,1.2384,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Lymphome B Ã  grandes cellules,Normal,10:50:00,,Non,11:50:00,Jeune adulte,218.3
+5214/2022,2022-12-12 00:00:00,FAJJARI,JIHENE,40,F,107,1.57,43.40946894,0.97,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,ContrÃ´le LNH B mÃ©diastinal,Normal,13:15:00,,Non,14:15:00,Adulte,395.9
+5035/2025,2025-01-15 00:00:00,FANTAR,AHLAM,56,F,70,1.65,25.71166208,1.37,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,Carcinome Ã©pidermoÃ¯de mammaire,Normal,11:40:00,,Non,12:40:00,Adulte,259
+5261/2025,2025-04-10 00:00:00,FARHAT,JAMILA,61,F,70,1.68,24.8015873,1,Non,Oui,Non,Non,20,moyen,Printemps,Lymphome,LBDGC humÃ©rus,Normal,08:15:00,,Non,09:15:00,SÃ©nior,259
+5705/2024,2025-03-25 00:00:00,FATHALLAH,WEJDI,46,H,100,1.71,34.19855682,1.45,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,09:40:00,,Non,10:40:00,Adulte,370
+5301/2023,2023-05-06 00:00:00,FERJANI,HAYTHEM,29,H,65,1.71,22.22906193,1,Non,Oui,Non,Non,23,moyen,Printemps,Cancer ORL,Bilan rÃ©cidive UCNT cavum,Normal,10:20:00,,Non,11:20:00,Jeune adulte,240.5
+5755/2023,2023-12-12 00:00:00,FERJANI,SOUI,69,H,61,1.71,20.86111966,1.57,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,ADK poumon,Normal,11:15:00,,Non,12:15:00,SÃ©nior,225.7
+5493/2022,2024-01-17 00:00:00,FITOURI,RAJA,58,F,78,1.57,31.64428577,1.06,Non,Oui,Non,Non,17,froid,Hiver,Cancer endomÃ¨tre,ADK endomÃ¨tre,Normal,10:30:00,,Non,11:30:00,Adulte,288.6
+5747/2023,2023-08-12 00:00:00,GAAIEB,INTISSAR,48,F,96,1.69,33.61226848,1.4,Non,Oui,Non,Non,19.5,moyen,Ã‰tÃ©,Cancer du col,Bilan extension initial,Normal,11:15:00,,Non,12:15:00,Adulte,355.2
+5613/2022,2022-12-02 00:00:00,GAAYECH,SALHA,67,F,90,1.57,36.51263743,1.76,Non,Non,Non,Non,19,moyen,Hiver,Cancer du col,Bilan extension initial carcinome Ã©pidermoÃ¯de col stade IV,Normal,09:30:00,,Non,10:30:00,SÃ©nior,333
+5636/2024,2024-10-02 00:00:00,GASSOUMI,MOHAMED MOULDI,68,H,48,1.71,16.41530727,1.05,Non,Oui,Non,Non,29,chaud,Automne,Cancer du poumon,ADK poumon,Normal,10:10:00,,Non,11:10:00,SÃ©nior,177.6
+5848/2024,2024-12-12 00:00:00,GAUARRIDI,BECHIR,77,H,60,1.71,20.51913409,0.87,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,LH stade IV,Normal,11:05:00,,Non,12:05:00,SÃ©nior,222
+5843/2023,2023-12-29 00:00:00,GHAFFARI,MOHAMED MONCEF,17,H,69,1.73,23.05456246,0.93,Non,Oui,Non,Non,19,moyen,Hiver,Syndrome nÃ©phrotique,Recherche cause nÃ©oplasique,Normal,07:40:00,,Non,08:40:00,Enfant,255.3
+5715/2023,2023-12-01 00:00:00,GHARBI,TIJANI,54,H,71,1.71,24.28097534,1.06,Non,Non,Non,Non,19,moyen,Hiver,Cancer du poumon,CaractÃ©risation masse pulmonaire,Normal,13:20:00,,Non,14:20:00,Adulte,262.7
+5334/2025,2025-04-11 00:00:00,GHARSALLAH,FETHI,61,H,80,1.71,27.35884546,1.16,Non,Oui,Non,Non,20,moyen,Printemps,Cancer du poumon,Nodule pulmonaire,Normal,11:25:00,98503955,Non,12:25:00,SÃ©nior,296
+5246/2025,2025-03-04 00:00:00,GHERIBI,MOHAMED,63,H,62,1.76,20.01549587,1,Non,Oui,Non,Non,16,froid,Printemps,Cancer colorectal,ADK sigmoÃ¯de rÃ©cidive,Normal,09:40:00,,Non,10:40:00,SÃ©nior,229.4
+5847/2024,2024-12-12 00:00:00,GLOUAYA,MONIA,52,F,76,1.57,30.83289383,1,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du sein,Cancer papillaire sein,Normal,07:45:00,,Non,08:45:00,Adulte,281.2
+5127/2022,2022-03-22 00:00:00,GMAR,OLFA,25,F,80,1.57,32.45567772,0.999,Non,Oui,Oui,Non,16,froid,Printemps,Lymphome,Lymphome lymphoblastique T,Normal,08:30:00,,Non,09:30:00,Jeune adulte,296
+5329/2025,2025-04-11 00:00:00,GUADOUR,ALGIA,67,F,55,1.55,22.89281998,1,Non,Oui,Non,Non,20,moyen,Printemps,Cancer du sein,Cancer mammaire rÃ©cidive,Normal,10:50:00,96609285,Non,11:50:00,SÃ©nior,203.5
+5316/2025,2025-03-27 00:00:00,GUEIIB,ANIS,48,H,88,1.76,28.40909091,1.13,Non,Oui,Non,Non,16,froid,Printemps,Cancer ORL,UCNT cavum,Normal,09:45:00,,Non,10:45:00,Adulte,325.6
+5284/2021,2022-02-16 00:00:00,HACHFI,OUAFA,40,F,84,1.66,30.4833793,0.999,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Lymphome Hodgkin stade I,Normal,10:00:00,,Non,11:00:00,Adulte,310.8
+5721/2023,2023-12-01 00:00:00,HADDAD,MONGI,55,H,73,1.71,24.96494648,2.07,Oui,Non,Non,Non,19,moyen,Hiver,Lymphome,Bilan extension initial lymphome Hodgkin,Normal,11:15:00,,Non,12:15:00,Adulte,270.1
+5638/2022,2025-02-14 00:00:00,HAGGI,WAHIDA,28,F,93,1.7,32.1799308,0.87,Non,Oui,Non,Non,17,froid,Hiver,Lymphome Hodgkin,Suspicion rÃ©cidive,dysthyroidie,10:10:00,,Non,11:10:00,Jeune adulte,344.1
+5016/2025,2025-01-10 00:00:00,HAMDI,MAROUA,34,F,60,1.57,24.34175829,0.9,Non,Oui,Non,Non,17,froid,Hiver,Cancer du col,Carcinome Ã©pidermoÃ¯de col,Normal,14:10:00,,Non,15:10:00,Jeune adulte,222
+5454/2022,2022-10-14 00:00:00,HAMDI,MBARKA,76,F,86,1.57,34.88985354,1.94,Oui,Non,Non,Non,29,chaud,Automne,Cancer du col,Bilan extension carcinome Ã©pidermoÃ¯de col utÃ©rin,Normal,10:50:00,,Non,11:50:00,SÃ©nior,318.2
+5054/2024,2024-01-20 00:00:00,HAMDI,MONGIA,58,F,55,1.65,20.2020202,0.7,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Lymphome folliculaire grade I,Normal,10:55:00,,Non,11:55:00,Adulte,203.5
+5303/2022,2025-03-27 00:00:00,HAMMADI,,58,F,70,1.57,28.398718,1.4,Non,Oui,Non,Non,16,froid,Printemps,Cancer ovaire,Cancer ovaire rechute,Normal,10:20:00,,Non,11:20:00,Adulte,259
+5073/2023,2023-07-13 00:00:00,HAMMAMI,CHAOUKI,42,H,79,1.71,27.01685989,1.09,Non,Oui,Non,Non,35,chaud,Ã‰tÃ©,Lymphome,Bilan fin traitement maladie Hodgkin,Normal,11:25:00,,Non,12:25:00,Adulte,292.3
+5028/2020,2022-11-26 00:00:00,HAMMOUDA,JIHENE,26,F,70,1.6,27.34375,1.05,Non,Oui,Oui,Non,22,moyen,Automne,Lymphome,Suspicion rÃ©cidive LH,Normal,11:15:00,,Non,12:15:00,Jeune adulte,259
+5616/2024,2024-12-12 00:00:00,HAMRI,YOSRA,29,F,67,1.57,27.18163009,0.95,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,LH,Normal,07:40:00,,Non,08:40:00,Jeune adulte,247.9
+1169/2022,2024-12-02 00:00:00,HAMROUNI,NASSIMA,49,F,50,1.57,20.28479857,0.85,Non,Oui,Oui,Non,19,moyen,Hiver,Cancer ORL,Suspicion rÃ©cidive UCNT,Normal,11:14:00,,Non,12:14:00,Adulte,185
+5632/2024,2024-10-02 00:00:00,HARROUCHI,SARRA,67,F,54,1.57,21.90758246,1,Oui,Oui,Non,Non,29,chaud,Automne,Lymphome,LBDGC musculaire,Normal,09:05:00,,Non,10:05:00,SÃ©nior,199.8
+5834/2023,2023-12-21 00:00:00,HASSANI,JAMILA,65,F,82,1.57,33.26706966,1,Oui,Oui,Non,Non,19,moyen,Hiver,Cancer ORL,Carcinome Ã©pidermoÃ¯de laryngÃ©,Normal,12:00:00,,Non,13:00:00,SÃ©nior,303.4
+5763/2024,2024-11-13 00:00:00,HASSAYOUN,MONGIA,72,F,85,1.57,34.48415757,1,Non,Oui,Non,Non,22,moyen,Automne,Cancer ovaire,Cancer ovaire,Normal,08:15:00,,Non,09:15:00,SÃ©nior,314.5
+5014/2019,2020-09-17 00:00:00,HATTAB,ALAEDDINE,21,H,73,1.8,22.5308642,0.9,Non,Non,Non,Non,30,chaud,Automne,Lymphome,Lymphome Hodgkin stade II,Normal,09:30:00,,Non,10:30:00,Jeune adulte,270.1
+5849/2025,2025-11-20 00:00:00,HBARI,MOUFIDA,46,F,61,1.59,24.12879237,0.7,Non,Oui,Oui,Non,22,moyen,Automne,Cancer endomÃ¨tre,Ã‰valuation thÃ©rapeutique post-chimiothÃ©rapie,Normal,10:20:00,,Non,11:20:00,Adulte,225.7
+5430/2023,2023-12-29 00:00:00,HELALI,AMINA,39,F,61,1.6,23.828125,1.18,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome Hodgkin,Ã‰valuation intermÃ©diaire post 4 BEACOPP,Normal,07:40:00,,Non,08:40:00,Jeune adulte,225.7
+5055/2024,2024-01-20 00:00:00,HICHRI,JAMILA,53,F,95,1.57,38.54111729,1.2,Oui,Non,Non,Non,17,froid,Hiver,Cancer du col,Bilan extension carcinome Ã©pidermoÃ¯de col,Normal,10:20:00,,Non,11:20:00,Adulte,351.5
+5629/2022,2022-12-22 00:00:00,HICHRI,LOTFI,40,H,78,1.71,26.67487432,,Non,Non,Non,Non,19,moyen,Hiver,Cancer estomac,Bilan extension ADK cardia (scintigraphie osseuse),Normal,11:42:00,,Non,12:42:00,Adulte,288.6
+5916/2025,2025-12-12 00:00:00,HMIDI,KHAOULA,38,F,85,1.6,33.203125,0.85,Non,Oui,Oui,Non,19,moyen,Hiver,Cancer du sein,Ã‰valuation prÃ© radiothÃ©rapie carcinome canalaire infiltrant sein gauche,Normal,10:50:00,,Non,11:50:00,Jeune adulte,314.5
+5310/2025,2025-03-26 00:00:00,HMILA,MOHAMED ALI,75,H,50,1.68,17.7154195,1.01,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,07:42:00,54700690,Non,08:42:00,SÃ©nior,185
+5852/2024,2024-12-12 00:00:00,HORCHANI,SOUJOUD,10,F,40,1.35,21.9478738,0.83,Non,Oui,Non,Non,19,moyen,Hiver,Cancer ovaire,Dysgerminome ovaire,Normal,09:20:00,,Non,10:20:00,Enfant,148
+5048/2024,2024-01-17 00:00:00,HOSNI,DHOUHA,35,F,66,1.57,26.77593411,0.77,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Suspicion rÃ©cidive lymphome,Normal,10:40:00,,Non,11:40:00,Jeune adulte,244.2
+5333/2025,2025-04-11 00:00:00,HSSAN,RIDHA,59,H,60,1.71,20.51913409,0.98,Non,Oui,Non,Non,20,moyen,Printemps,Cancer du poumon,Carcinome pulmonaire petites cellules,Normal,12:10:00,26164716,Non,13:10:00,Adulte,222
+5188/2024,2024-12-12 00:00:00,ILAHI,SARRA,56,F,53,1.57,21.50188649,1.36,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,LBDGC progression,Normal,08:15:00,,Non,09:15:00,Adulte,196.1
+5315/2025,2025-03-27 00:00:00,ISSAOUI,ABDELHAMID,61,H,70,1.72,23.66143862,1.1,Non,Oui,Non,Non,16,froid,Printemps,Cancer ORL,Carcinome Ã©pidermoÃ¯de hypopharynx + poumon,Normal,10:50:00,,Oui,11:50:00,SÃ©nior,259
+5577/2024,2024-09-10 00:00:00,ISSAOUI,MBAREK,79,H,52,1.71,17.78324955,1.1,Non,Oui,Non,Non,30,chaud,Automne,Cancer du poumon,Carcinome Ã©pidermoÃ¯de poumon,Normal,10:30:00,,Non,11:30:00,SÃ©nior,192.4
+5754/2023,2024-01-20 00:00:00,JABALLAH,AMIN,29,H,84,1.71,28.72678773,0.9,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Ã‰valuation intermÃ©diaire lymphome Hodgkin,Normal,10:30:00,,Non,11:30:00,Jeune adulte,310.8
+5844/2023,2023-12-28 00:00:00,JALLALI,FATIMA,52,F,73,1.57,29.61580592,1.17,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du sein,Cancer mammaire mÃ©tastatique,Normal,12:20:00,,Non,13:20:00,Adulte,270.1
+1841/2022,2023-05-06 00:00:00,JAOUADI,MERIEM,35,F,38,1.57,15.41644691,1.02,Non,Oui,Non,Non,23,moyen,Printemps,Cancer ORL,Bilan fin traitement UCNT cavum,Normal,07:50:00,,Non,08:50:00,Jeune adulte,140.6
+5313/2025,2025-03-27 00:00:00,JARRAY,MOHSSEN,54,H,90,1.78,28.40550436,1.11,Non,Oui,Non,Non,16,froid,Printemps,Cancer ORL,UCNT cavum,Normal,08:20:00,,Non,09:20:00,Adulte,333
+24711/2017,2026-01-23 00:00:00,JEMAI,AMANALLAH,8,H,41,1.29,24.63794243,0.97,Non,Oui,Oui,Non,17,froid,Hiver,Neuroblastome,Neuroblastome,Normal,10:30:00,,Non,11:30:00,Enfant,151.7
+5244/2025,2025-03-04 00:00:00,JLALI,ALAA,3,F,15,1,15,0.8,Non,Oui,Non,Non,16,froid,Printemps,Neuroblastome,Neuroblastome,Normal,10:35:00,,Non,11:35:00,Enfant,55.5
+5663/2022,2022-12-31 00:00:00,JLASSI,MOHAMED BECHIR,29,H,50,1.71,17.09927841,1,Non,Non,Non,Non,19,moyen,Hiver,Autre,Recherche localisations secondaires endocardite tricuspidienne,Normal,12:00:00,,Non,13:00:00,Jeune adulte,185
+5541/2022,2023-05-05 00:00:00,JOMAA,MOHD WAJIH,19,H,68,1.71,23.25501864,1,Non,Oui,Non,Non,23,moyen,Printemps,Lymphome,Ã‰valuation fin traitement LH stade IV,Normal,07:40:00,,Non,08:40:00,Jeune adulte,251.6
+5153/2021,2022-03-11 00:00:00,JOUINI,HICHEM,49,H,69,1.71,23.59700421,0.999,Non,Non,Oui,Non,16,froid,Printemps,Lymphome,Rechute lymphome,Normal,10:32:00,,Non,11:32:00,Adulte,255.3
+5788/2024,2024-11-20 00:00:00,KACEM,ACHREF,22,H,48,1.65,17.63085399,0.9,Non,Oui,Oui,Non,22,moyen,Automne,Autre,CaractÃ©risation masse rÃ©tropÃ©ritonÃ©ale rÃ©siduelle,Normal,10:30:00,,Non,11:30:00,Jeune adulte,177.6
+5528/2022,2024-12-01 00:00:00,KACEM,HELA,43,F,75,1.63,28.22838647,0.99,Non,Non,Oui,Oui,19,moyen,Hiver,Autre,ContrÃ´le post-chirurgie mÃ©tastases hÃ©patiques,Normal,12:00:00,,Non,13:00:00,Adulte,277.5
+2333/2022,2025-03-07 00:00:00,KANTAOUI,ADEL,57,H,66,1.71,22.5710475,1.3,Non,Oui,Non,Non,16,froid,Printemps,Autre,Fibrose rÃ©tro-pÃ©ritonÃ©ale,Normal,07:45:00,,Non,08:45:00,Adulte,244.2
+5428/2022,2023-01-19 00:00:00,KARIM,CHAFIA,45,F,69,1.57,27.99302203,1.07,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Ã‰valuation fin traitement LH stade II,Normal,10:50:00,,Non,11:50:00,Adulte,255.3
+5806/2024,2024-02-12 00:00:00,KECHICHE,IBRAHIM,12,H,67,1.6,26.171875,1.17,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Bilan extension initial LBDGC,Normal,10:20:00,,Non,11:20:00,Enfant,247.9
+5403/2023,2023-04-12 00:00:00,KHADHRAOUI,YASSINE,33,H,68,1.73,22.72043837,0.92,Non,Oui,Oui,Non,20,moyen,Printemps,Lymphome Hodgkin,TEP post 4 BEACOPP,Normal,08:55:00,,Non,09:55:00,Jeune adulte,251.6
+5171/2022,2024-02-18 00:00:00,KHALDI,AKRAM,20,H,51,1.71,17.44126398,1.02,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,LH rÃ©fractaire,Normal,13:35:00,,Non,14:35:00,Jeune adulte,188.7
+5724/2023,2023-12-01 00:00:00,KHAMARI,ZOHRA,66,F,64,1.57,25.96454217,1.14,Non,Non,Non,Non,19,moyen,Hiver,Lymphome,Bilan extension LBDGC base crÃ¢ne,Normal,08:15:00,,Non,09:15:00,SÃ©nior,236.8
+5306/2025,2025-03-26 00:00:00,KHAMMARI,MOULDI,48,H,73,1.71,24.96494648,1.03,Non,Oui,Non,Non,16,froid,Printemps,Cancer du poumon,Masse pulmonaire,Normal,08:51:00,99749053,Non,09:51:00,Adulte,270.1
+5632/2022,2023-12-01 00:00:00,KHAYAT,KAMEL,56,H,85,1.71,29.0687733,1.72,Oui,Oui,Non,Non,19,moyen,Hiver,Lymphome,LH stade III,Normal,12:10:00,,Non,13:10:00,Adulte,314.5
+5323/2025,2025-04-10 00:00:00,KHECHINI,ISLAM,36,F,57,1.67,20.43816558,0.89,Non,Oui,Non,Non,20,moyen,Printemps,Cancer du sein,Cancer sein HER2+,Normal,09:45:00,53352110,Non,10:45:00,Jeune adulte,210.9
+5089/2024,2024-02-18 00:00:00,KHEDHER,NAJOUA,59,F,64,1.57,25.96454217,1.2,Non,Oui,Non,Non,17,froid,Hiver,MÃ©lanome,MÃ©lanome fosse nasale,Normal,10:25:00,,Non,11:25:00,Adulte,236.8
+5018/2025,2025-01-10 00:00:00,KHEDMI,MNA,34,F,86,1.7,29.75778547,1.1,Non,Oui,Non,Non,17,froid,Hiver,MÃ©lanome,MÃ©lanome rÃ©cidive inguinale,Normal,13:20:00,,Non,14:20:00,Jeune adulte,318.2
+5816/2023,2023-12-19 00:00:00,KHEMIR,NACEUR,59,H,59,1.71,20.17714852,1,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,Nodules pulmonaires,Normal,11:25:00,,Non,12:25:00,Adulte,218.3
+5384/2022,2023-02-08 00:00:00,KHORCHANI,ABDELBASET,33,H,61,1.71,20.86111966,1.16,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Ã‰valuation fin traitement LBDGC mÃ©diastinal,Normal,11:25:00,,Non,12:25:00,Jeune adulte,225.7
+5299/2025,2025-03-25 00:00:00,KNAIN,RAFIKA,49,F,86,1.64,31.97501487,1.02,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LH,Normal,10:50:00,,Non,11:50:00,Adulte,318.2
+5581/2024,2024-09-11 00:00:00,KORBI,CHAHD,10,F,25,1.35,13.71742112,0.8,Non,Oui,Non,Non,30,chaud,Automne,Sarcomes,Sarcome d'Ewing,Normal,13:20:00,,Non,14:20:00,Enfant,92.5
+5041/2021,2021-02-26 00:00:00,KORBI,FARIDA,58,F,78,1.57,31.64428577,1.1394,Non,Oui,Oui,Non,17,froid,Hiver,MÃ©lanome,MÃ©lanome nodulaire,Normal,10:55:00,,Non,11:55:00,Adulte,288.6
+5002/2022,2022-12-15 00:00:00,LAABIDI,OUSSEMA,26,H,97,1.71,33.17260012,1.1,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,ContrÃ´le post-traitement lymphome Hodgkin,Normal,10:30:00,,Non,11:30:00,Jeune adulte,358.9
+5263/2025,2025-03-07 00:00:00,LAADHARI,SADOK,66,H,84,1.71,28.72678773,1.09,Non,Oui,Oui,Non,16,froid,Printemps,Cancer rein,Carcinome rÃ©nal papillaire,Normal,10:25:00,,Oui,11:25:00,SÃ©nior,310.8
+5374/2023,2023-06-21 00:00:00,LACHAAL,MONGIA,51,F,54,1.57,21.90758246,0.9,Non,Oui,Non,Non,33,chaud,Ã‰tÃ©,Autre,Ã‰valuation post radio-chimiothÃ©rapie cancer jugal,Normal,08:15:00,,Non,09:15:00,Adulte,199.8
+2519/2022,2025-01-30 00:00:00,LAGHA AISSA,MALIKA,52,F,68,1.57,27.58732606,0.9,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,Cancer mammaire mÃ©tastatique os,Normal,09:24:00,,Non,10:24:00,Adulte,251.6
+5555/2025,2025-10-12 00:00:00,LAHRECH,MOHAMED OMAR,22,H,82,1.8,25.30864198,0.97,Non,Oui,Oui,Non,29,chaud,Automne,Lymphome,Ã‰valuation post 2 cures RDHOX,Normal,10:40:00,,Non,11:40:00,Jeune adulte,303.4
+5002/2025,2025-01-08 00:00:00,LAKHDHER,EL AMRI,68,H,57,1.71,19.49317739,0.85,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Lymphome Hodgkin,Normal,09:30:00,,Non,10:30:00,SÃ©nior,210.9
+1027/2024,2024-12-26 00:00:00,LAMINE,AFEF,44,F,80,1.65,29.38475666,0.93,Non,Oui,Oui,Non,19,moyen,Hiver,Cancer du sein,Bilan prÃ© RT cancer mammaire,Normal,12:20:00,,Non,13:20:00,Adulte,296
+5071/2023,2023-02-06 00:00:00,LEFI,DHOUHA,28,F,54,1.57,21.90758246,0.93,Non,Non,Non,Non,17,froid,Hiver,Lymphome,Suspicion rÃ©cidive lymphome Hodgkin,Normal,11:25:00,,Non,12:25:00,Jeune adulte,199.8
+5034/2023,2023-01-19 00:00:00,LEHAYEL,FATMA,30,F,63,1.57,25.5588462,0.96,Non,Non,Oui,Non,17,froid,Hiver,Cancer du sein,Suspicion rÃ©cidive CCI sein,Normal,07:40:00,,Non,08:40:00,Jeune adulte,233.1
+5839/2023,2023-12-28 00:00:00,MAATALLI,OMEZZINE,84,F,57,1.57,23.12467037,0.95,Non,Oui,Non,Non,19,moyen,Hiver,Autre,Suspicion endocardite,Normal,09:40:00,,Non,10:40:00,SÃ©nior,210.9
+5134/2021,2022-10-24 00:00:00,MABROUKI,RIADH,55,H,64,1.71,21.88707637,1.18,Non,Oui,Non,Non,29,chaud,Automne,Lymphome,Ã‰valuation progression lymphome Hodgkin,Normal,11:40:00,,Non,12:40:00,Adulte,236.8
+5611/2022,2022-12-02 00:00:00,MAHJOUB,ABDELFATAH,71,H,78,1.71,26.67487432,1.5,Non,Non,Non,Non,19,moyen,Hiver,Lymphome,Suspicion rÃ©cidive lymphome Burkitt,Normal,10:50:00,,Non,11:50:00,SÃ©nior,288.6
+5571/2022,2022-11-28 00:00:00,MAHJOUB,MOUNIR,50,H,77,1.71,26.33288875,1,Non,Oui,Non,Non,22,moyen,Hiver,Lymphome,Suspicion syndrome de Richter sur LLC,Normal,10:45:00,,Non,11:45:00,Adulte,284.9
+5483/2022,2025-03-27 00:00:00,MAJBRI,LATIFA,61,F,100,1.7,34.60207612,1.46,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC amygdalien rÃ©cidive,Normal,07:40:00,,Non,08:40:00,SÃ©nior,370
+5006/2022,2023-01-19 00:00:00,MAJBRI,RACHIDA,58,F,94,1.57,38.13542132,1.25,Oui,Oui,Non,Non,17,froid,Hiver,Cancer endomÃ¨tre,Ã‰valuation rechute ganglionnaire ADK endomÃ¨tre,Normal,09:05:00,,Non,10:05:00,Adulte,347.8
+653/2023,2025-03-07 00:00:00,MAKINA,NEJIA,47,F,72,1.57,29.21010994,1.08,Non,Oui,Non,Non,16,froid,Printemps,Cancer du sein,RÃ©cidive cancer sein,Normal,08:30:00,,Non,09:30:00,Adulte,266.4
+5033/2023,2023-01-19 00:00:00,MANAI,LEILA,51,F,103,1.65,37.8328742,1.08,Non,Non,Non,Non,17,froid,Hiver,Cancer du sein,Suspicion rÃ©cidive CCI sein gauche,Normal,10:55:00,,Non,11:55:00,Adulte,381.1
+5416/2023,2023-07-13 00:00:00,MANSOUR,MOHAMED,73,H,78,1.71,26.67487432,1.17,Non,Non,Non,Non,35,chaud,Ã‰tÃ©,Cancer colorectal,CaractÃ©risation nodules hÃ©patiques,Normal,10:50:00,,Non,11:50:00,SÃ©nior,288.6
+5259/2025,2025-03-06 00:00:00,MANSOUR,NAJEH,72,H,53,1.6,20.703125,0.97,Non,Oui,Non,Non,16,froid,Printemps,Cancer colorectal,ADK rectum rÃ©cidive,Normal,11:40:00,,Oui,12:40:00,SÃ©nior,196.1
+5047/2020,2021-11-03 00:00:00,MAOUI,RAOUF,44,H,49,1.66,17.78197126,0.87,Non,Oui,Oui,Non,22,moyen,Automne,Lymphome,LH stade III fin traitement,Normal,13:20:00,,Non,14:20:00,Adulte,181.3
+5669/2024,2024-12-24 00:00:00,MARDASSI,AHMED,21,H,64,1.7,22.14532872,0.54,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome Hodgkin,Ã‰valuation intermÃ©diaire,Normal,11:00:00,,Non,12:00:00,Jeune adulte,236.8
+5744/2024,2025-04-11 00:00:00,MARZOUK,RADHIA,23,F,73,1.57,29.61580592,1.2,Non,Oui,Non,Non,20,moyen,Printemps,Lymphome,LBDGC mÃ©diastinal,Normal,13:20:00,,Non,14:20:00,Jeune adulte,270.1
+5157/2024,2025-01-10 00:00:00,MASSOUD,SELMA,25,F,60,1.57,24.34175829,1,Non,Oui,Oui,Oui,17,froid,Hiver,Lymphome,LH fin traitement,Normal,09:20:00,,Non,10:20:00,Jeune adulte,222
+2321/2021,2024-09-10 00:00:00,MBARKI,AZIZA,46,F,84,1.57,34.0784616,1.4,Non,Oui,Non,Non,30,chaud,Automne,Cancer du sein,Suspicion rÃ©cidive cancer sein,Normal,10:00:00,,Non,11:00:00,Adulte,310.8
+5833/2023,2023-12-21 00:00:00,MBARKI,KHALIFA,58,H,57,1.71,19.49317739,0.88,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,Nodule pulmonaire,Normal,10:50:00,,Non,11:50:00,Adulte,210.9
+5849/2024,2024-12-12 00:00:00,MEAOUI,RIM,52,F,104,1.65,38.20018365,1.19,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,Lymphome manteau,Normal,07:42:00,,Non,08:42:00,Adulte,384.8
+5118/2024,2024-02-21 00:00:00,MEMNI,SELMA,47,F,85,1.57,34.48415757,1.08,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,ContrÃ´le cancer mammaire,Normal,09:45:00,,Non,10:45:00,Adulte,314.5
+5225/2021,2022-02-17 00:00:00,MHAMDI,ACHRAF,19,H,77,1.86,22.25690831,0.9,Non,Oui,Oui,Oui,17,froid,Hiver,Lymphome,Lymphome Hodgkin,Normal,10:32:00,,Non,11:32:00,Jeune adulte,284.9
+5029/2025,2025-01-14 00:00:00,MHAMDI,SALLAM,63,F,80,1.63,30.1102789,0.85,Non,Oui,Non,Non,17,froid,Hiver,Cancer colorectal,ADK colon sigmoÃ¯de,Normal,09:20:00,,Non,10:20:00,SÃ©nior,296
+5729/2024,2025-03-07 00:00:00,MIGHRI,HABIB,57,H,79,1.71,27.01685989,1.4,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,Lymphome Burkitt,Normal,11:15:00,,Non,12:15:00,Adulte,292.3
+5289/2025,2025-03-18 00:00:00,MILADI,MERIEM,60,F,63,1.57,25.5588462,1,Non,Oui,Non,Non,16,froid,Printemps,Cancer du sein,Carcinome mammaire,Normal,10:10:00,,Non,11:10:00,SÃ©nior,233.1
+5004/2022,2024-12-12 00:00:00,MILED,FADHILA,58,F,69,1.63,25.97011555,0.95,Non,Oui,Non,Non,19,moyen,Hiver,Cancer ovaire,ADK sÃ©reux ovaire,Normal,07:40:00,,Non,08:40:00,Adulte,255.3
+1902/2023,2025-01-14 00:00:00,MISAOUI,ZINA,45,F,70,1.57,28.398718,0.95,Non,Oui,Non,Non,17,froid,Hiver,Cancer du sein,Cancer mammaire,Normal,09:10:00,,Non,10:10:00,Adulte,259
+5047/2021,2021-11-03 00:00:00,MISSAOUI,KAWTHER,21,F,71,1.62,27.05380277,1.0098,Non,Oui,Oui,Non,22,moyen,Automne,Lymphome,Lymphome B Ã  grande cellule,Normal,11:14:00,,Non,12:14:00,Jeune adulte,262.7
+453/2024,2025-04-10 00:00:00,MOSBAH,MAHBOUBA,51,F,93,1.57,37.72972534,1.08,Non,Oui,Non,Non,20,moyen,Printemps,Cancer ORL,UCNT cavum,Normal,07:40:00,,Non,08:40:00,Adulte,344.1
+5584/2024,2024-12-11 00:00:00,MRAD,SAHBI,64,H,65,1.71,22.22906193,0.9,Non,Oui,Non,Non,19,moyen,Hiver,Cancer colorectal,ADK rectal mÃ©tastatique,Normal,10:45:00,,Non,11:45:00,SÃ©nior,240.5
+5728/2024,2024-11-04 00:00:00,MTAR,MALIKA,61,F,93,1.57,37.72972534,1,Non,Oui,Non,Non,22,moyen,Automne,Cancer ovaire,Cancer ovaire,Normal,13:15:00,,Non,14:15:00,SÃ©nior,344.1
+5074/2023,2023-02-07 00:00:00,MTIRI,MAHBOUBA,47,F,65,1.57,26.37023814,1.23,Non,Non,Non,Non,17,froid,Hiver,Autre,Recherche foyer pour biopsie (uvÃ©ite),Normal,08:25:00,,Non,09:25:00,Adulte,240.5
+5297/2025,2025-03-19 00:00:00,NAJJAR,LATIFA,60,F,85,1.56,34.92767916,1.17,Non,Oui,Non,Non,16,froid,Printemps,Cancer du sein,Cancer mammaire bilatÃ©ral,Normal,11:14:00,,Non,12:14:00,SÃ©nior,314.5
+5559/2022,2023-12-22 00:00:00,NAOUAR,AMANI,38,F,83,1.64,30.85960738,0.9,Non,Oui,Oui,Non,19,moyen,Hiver,Autre,CaractÃ©risation adÃ©nopathies rÃ©siduelles,Normal,10:30:00,,Non,11:30:00,Jeune adulte,307.1
+6685/2026,2026-02-20 00:00:00,NASR,MOHD YASSINE,14,H,54,1.58,21.63114885,1.15,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome Hodgkin,Bilan fin de traitement lymphome Hodgkin,Normal,08:15:00,,Non,09:15:00,Enfant,199.8
+5143/2023,2024-01-03 00:00:00,NASR,MUSTAPHA,65,H,67,1.71,22.91303307,0.95,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,LBDGC suspicion rÃ©cidive,Normal,08:55:00,,Non,09:55:00,SÃ©nior,247.9
+5165/2024,2025-01-13 00:00:00,NASR,SOUHA,23,F,43,1.57,17.44492677,1.07,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,LH stade IV,Normal,09:20:00,,Non,10:20:00,Jeune adulte,159.1
+5262/2021,2023-05-17 00:00:00,NASRALLI,NAJET,34,F,50,1.57,20.28479857,0.89,Non,Oui,Oui,Oui,23,moyen,Printemps,Lymphome,Lymphome zone grise,Normal,08:25:00,,Non,09:25:00,Jeune adulte,185
+50/2025,2025-12-09 00:00:00,NASRI,MOUNA,36,F,69,1.57,27.99302203,0.9,Non,Oui,Oui,Non,19,moyen,Automne,Cancer thyroÃ¯de,CPT lobe gauche,dysthroidie,09:10:00,,Non,10:10:00,Jeune adulte,255.3
+9294/2025,2025-03-19 00:00:00,NOUMI,DSAHBI,50,H,85,1.71,29.0687733,1.15,Non,Oui,Non,Non,16,froid,Printemps,Sarcomes,Sarcome jambe,Normal,08:25:00,,Non,09:25:00,Adulte,314.5
+5024/2023,2023-07-13 00:00:00,NOUNI,ANES,56,H,67,1.71,22.91303307,1.49,Non,Oui,Non,Non,35,chaud,Ã‰tÃ©,Lymphome,Bilan fin traitement LBDGC amygdalien,Normal,09:20:00,,Non,10:20:00,Adulte,247.9
+5415/2023,2023-07-13 00:00:00,NSIR,SLAH EDDINE,61,H,58,1.71,19.83516296,1.06,Non,Oui,Non,Non,35,chaud,Ã‰tÃ©,Cancer du poumon,Bilan prÃ© radiothÃ©rapie ADK poumon,Normal,10:50:00,,Non,11:50:00,SÃ©nior,214.6
+5339/2024,2024-09-10 00:00:00,NSIRI,AICHA,29,F,48,1.57,19.47340663,1,Non,Oui,Non,Non,30,chaud,Automne,Lymphome,LH stade IV osseux,Normal,08:51:00,,Non,09:51:00,Jeune adulte,177.6
+5188/2021,2022-03-11 00:00:00,OMRI,HABIB,57,H,58,1.71,19.83516296,0.999,Non,Oui,Oui,Non,16,froid,Printemps,Lymphome,Lymphome B diffus testiculaire,Normal,10:20:00,,Non,11:20:00,Adulte,214.6
+5831/2023,2023-12-21 00:00:00,OTHMEN,AFEF,32,F,108,1.65,39.66942149,1.3,Non,Oui,Non,Non,19,moyen,Hiver,MÃ©lanome,MÃ©lanome,Normal,10:50:00,,Non,11:50:00,Jeune adulte,399.6
+5809/2023,2023-12-14 00:00:00,OUNIS,SALEH,67,H,61,1.71,20.86111966,0.83,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du poumon,ADK poumon,Normal,10:30:00,,Non,11:30:00,SÃ©nior,225.7
+5463/2024,2024-12-12 00:00:00,RACHDI,RATIBA,36,F,67,1.57,27.18163009,0.97,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,LH stade IV,Normal,13:35:00,,Non,14:35:00,Jeune adulte,247.9
+5510/2023,2025-03-25 00:00:00,RAHALI,ELYES,16,H,72,1.71,24.62296091,1.08,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,LH progression,Normal,10:30:00,97356592,Non,11:30:00,Enfant,266.4
+5028/2023,2023-01-19 00:00:00,RAHMOUNI,CHAHLA,59,F,67,1.57,27.18163009,1.76,Oui,Non,Non,Non,17,froid,Hiver,Cancer du sein,Bilan extension CCI sein gauche,Normal,10:50:00,,Non,11:50:00,Adulte,247.9
+5439/2024,2024-12-24 00:00:00,RAHMOUNI,ZOHRA,75,F,60,1.57,24.34175829,0.87,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,LBDGC naso-sinusien,Normal,09:30:00,,Non,10:30:00,SÃ©nior,222
+5324/2025,2025-04-10 00:00:00,RAZGALLAH,MAHA,23,F,54,1.7,18.68512111,0.89,Non,Oui,Non,Non,20,moyen,Printemps,Lymphome,LH,Normal,10:55:00,28411419,Non,11:55:00,Jeune adulte,199.8
+5401/2023,2023-12-18 00:00:00,REBHI,RIM,54,F,63,1.59,24.91990032,0.68,Non,Non,Oui,Non,19,moyen,Hiver,Lymphome,Ã‰valuation fin traitement 4 RCHOP,Normal,09:15:00,,Non,10:15:00,Adulte,233.1
+5287/2025,2025-03-18 00:00:00,REJEB,SADOK,64,H,86,1.7,29.75778547,1.97,Non,Oui,Non,Non,16,froid,Printemps,Cancer colorectal,ADK colon sigmoÃ¯de,Normal,08:25:00,,Non,09:25:00,SÃ©nior,318.2
+5158/2024,2024-11-29 00:00:00,RETIBI,TURKIA,27,F,88,1.57,35.70124549,1,Non,Oui,Oui,Non,22,moyen,Automne,Lymphome,LH post 4 ABVD,Normal,10:32:00,,Non,11:32:00,Jeune adulte,325.6
+5330/2023,2023-05-25 00:00:00,REZGUI,AHMED,61,H,56,1.64,20.82093992,1.17,Non,Oui,Oui,Non,23,moyen,Printemps,MÃ©lanome,Bilan extension,Normal,10:25:00,,Non,11:25:00,SÃ©nior,207.2
+5759/2023,2024-09-13 00:00:00,RIAHI,ADEM,18,H,70,1.67,25.0995016,0.8,Non,Oui,Non,Non,30,chaud,Automne,Lymphome,LH en rechute,Normal,11:42:00,,Non,12:42:00,Jeune adulte,259
+5406/2025,2025-05-30 00:00:00,RTIBI,EL ARBI,79,H,77,1.71,26.33288875,0.82,Non,Oui,Non,Non,23,moyen,Printemps,Cancer rein,Carcinome urothÃ©lial,Normal,09:05:00,93307469,Oui,10:05:00,SÃ©nior,284.9
+5723/2023,2023-12-01 00:00:00,RTIBI,KHADIJA,37,F,43,1.57,17.44492677,1.17,Non,Non,Non,Non,19,moyen,Hiver,Autre,Recherche foyer infectieux fÃ©brile,Normal,07:42:00,,Non,08:42:00,Jeune adulte,159.1
+5141/2021,2022-05-16 00:00:00,SAAD,CHAHIDA,40,F,68,1.6,26.5625,1.1196,Non,Oui,Oui,Non,23,moyen,Printemps,Lymphome,Lymphome Hodgkin,Normal,09:30:00,,Non,10:30:00,Adulte,251.6
+5250/2024,2024-12-05 00:00:00,SAADELLAOUI,AYMEN,24,H,72,1.71,24.62296091,0.8,Non,Oui,Oui,Non,19,moyen,Automne,Lymphome,Lymphome MALT gastrique,Normal,08:20:00,,Non,09:20:00,Jeune adulte,266.4
+5024/2025,2025-01-13 00:00:00,SAAFI,SOUAD,69,F,64,1.6,25,0.89,Non,Oui,Non,Non,17,froid,Hiver,Autre,Suspicion infection pacemaker,Normal,09:50:00,,Non,10:50:00,SÃ©nior,236.8
+5017/2025,2025-01-10 00:00:00,SADDEM,HAYET,59,F,104,1.57,42.19238103,1.16,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Suspicion rechute DLBCL,Normal,10:20:00,,Non,11:20:00,Adulte,384.8
+5245/2025,2025-03-04 00:00:00,SAHLI,FAOUZIA,60,F,72,1.52,31.1634349,1.06,Non,Oui,Non,Non,16,froid,Printemps,Cancer du sein,Carcinome canalaire sein,Normal,12:00:00,,Non,13:00:00,SÃ©nior,266.4
+5017/2022,2022-04-13 00:00:00,SAHLI,NADHIR,24,H,68,1.77,21.70512943,1.3392,Oui,Oui,Oui,Oui,20,moyen,Printemps,Lymphome,Lymphome Hodgkin stade III,Normal,10:15:00,,Non,11:15:00,Jeune adulte,251.6
+5500/2022,2022-10-12 00:00:00,SAID,DONIA,38,F,83,1.57,33.67276563,1.57,Non,Oui,Non,Non,29,chaud,Automne,Lymphome,Suspicion rÃ©cidive LNH B grandes cellules,Normal,10:55:00,,Non,11:55:00,Jeune adulte,307.1
+5239/2025,2025-03-04 00:00:00,SAID,FATMA,68,F,140,1.65,51.42332415,1.16,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,07:45:00,,Non,08:45:00,SÃ©nior,518
+5651/2022,2022-12-16 00:00:00,SAID,SOULEF,45,F,68,1.66,24.67702134,0.88,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du col,Bilan extension initial,Normal,09:30:00,,Non,10:30:00,Adulte,251.6
+5790/2025,2026-01-26 00:00:00,SAKA,RASLENE,9,H,36,1.37,19.1805637,0.7,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Bilan prÃ© greffe sur rechute,Normal,12:00:00,,Non,13:00:00,Enfant,133.2
+5842/2023,2023-12-28 00:00:00,SALAANI,SOUAD,30,F,65,1.57,26.37023814,0.77,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,LH,Normal,11:14:00,,Non,12:14:00,Jeune adulte,240.5
+5514/2022,2022-12-22 00:00:00,SALAH,BESMA,48,F,64,1.62,24.38652644,1.14,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome,TEP intermÃ©diaire post 3 R-CHOP,Normal,13:15:00,,Non,14:15:00,Adulte,236.8
+5246/2024,2024-04-24 00:00:00,SALHI,IHEB,23,H,80,1.71,27.35884546,0.8,Non,Oui,Oui,Non,20,moyen,Printemps,Cancer testicule,Tumeur germinale testicule,Normal,11:40:00,,Non,12:40:00,Jeune adulte,296
+5058/2021,2021-03-12 00:00:00,SASSI,MAYARA,10,F,44,1.35,24.14266118,0.9396,Non,Oui,Oui,Non,16,froid,Printemps,Lymphome,Lymphome Hodgkin stade IIa,Normal,12:20:00,,Non,13:20:00,Enfant,162.8
+5072/2023,2023-02-07 00:00:00,SAYEH,BEYA,58,F,67,1.65,24.6097337,1.24,Non,Non,Oui,Non,17,froid,Hiver,Cancer du col,Bilan initial cancer col stade IIb,Normal,10:25:00,,Non,11:25:00,Adulte,247.9
+5635/2022,2022-12-13 00:00:00,SEDDIK,KAEIS,42,H,60,1.71,20.51913409,1.06,Non,Non,Non,Non,19,moyen,Hiver,Cancer colorectal,Suspicion rÃ©cidive ADK bas rectum + caractÃ©risation nodule pulmonaire,Normal,11:40:00,,Non,12:40:00,Adulte,222
+5288/2025,2025-03-18 00:00:00,SEFI,MONCEF,66,H,100,1.82,30.18959063,0.94,Non,Oui,Non,Non,16,froid,Printemps,Cancer du poumon,ADK poumon,Normal,07:40:00,,Non,08:40:00,SÃ©nior,370
+5312/2025,2025-03-26 00:00:00,SEGHAIER,JALEL,67,H,54,1.65,19.83471074,1.35,Non,Oui,Non,Non,16,froid,Printemps,Cancer colorectal,ADK sigmoÃ¯de rÃ©cidive,Normal,12:00:00,,Non,13:00:00,SÃ©nior,199.8
+5348/2022,2022-12-11 00:00:00,SELMI,AMEL,46,F,70,1.62,26.6727633,1.05,Non,Oui,Oui,Non,19,moyen,Hiver,Lymphome Hodgkin,Ã‰valuation prÃ©coce post 2 BEACOPP,Normal,09:30:00,,Non,10:30:00,Adulte,259
+5140/2022,2025-03-27 00:00:00,SELMI,HABIBA,67,F,82,1.57,33.26706966,1.43,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,Lymphome cellules du manteau,Normal,11:15:00,,Non,12:15:00,SÃ©nior,303.4
+5096/2024,2024-02-15 00:00:00,SFAR,YASMINE,13,F,39,1.46,18.29611559,1.03,Non,Oui,Oui,Non,17,froid,Hiver,Cancer ovaire,TÃ©ratome immature ovaire,Normal,07:40:00,,Non,08:40:00,Enfant,144.3
+5850/2024,2024-12-12 00:00:00,SGHAIER,ZAKIA,56,F,70,1.57,28.398718,0.89,Non,Oui,Non,Non,19,moyen,Hiver,Cancer du sein,Cancer sein suspicion rÃ©cidive,Normal,08:30:00,,Non,09:30:00,Adulte,259
+5130/2024,2024-02-24 00:00:00,SHILI,MAISSA,34,F,91,1.57,36.9183334,0.79,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,Carcinome tubulolobaire,Normal,10:10:00,,Non,11:10:00,Jeune adulte,336.7
+5020/2021,2022-12-13 00:00:00,SHILI,MAROUA,10,F,27,1.35,14.81481481,1,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,RÃ©Ã©valuation lymphome Burkitt,Normal,10:20:00,,Non,11:20:00,Enfant,99.9
+5638/2023,2024-01-18 00:00:00,SIOUD,SALHA,19,F,46,1.57,18.66201469,1.1,Non,Oui,Oui,Non,17,froid,Hiver,Lymphome,Bilan intermÃ©diaire lymphome Hodgkin,Normal,08:15:00,,Non,09:15:00,Jeune adulte,170.2
+650/2021,2023-04-05 00:00:00,SKHAB,AMRA,30,F,79,1.57,32.04998174,0.83,Non,Oui,Oui,Non,20,moyen,Printemps,Cancer ORL,ContrÃ´le UCNT,Normal,10:30:00,,Non,11:30:00,Jeune adulte,292.3
+5244/2021,2022-04-27 00:00:00,SLAMA,WALID,43,H,55,1.64,20.44913742,0.999,Non,Oui,Oui,Non,20,moyen,Printemps,Lymphome,Lymphome Hodgkin en rechute,Normal,07:30:00,,Non,08:30:00,Adulte,203.5
+5422/2022,2022-09-01 00:00:00,SOLTANI,YAHYA,5,H,15,1,15,1.1,Non,Oui,Oui,Non,30,chaud,Automne,Lymphome,Lymphome Burkitt,Normal,09:20:00,,Non,10:20:00,Enfant,55.5
+5002/2024,2024-01-02 00:00:00,SOUAYEH,BESMA,53,F,70,1.57,28.398718,1.1,Non,Oui,Oui,Non,17,froid,Hiver,Cancer colorectal,ADK colique stade III,Normal,13:15:00,,Non,14:15:00,Adulte,259
+1730/2015,2022-12-14 00:00:00,SOULIMI,DHOUHA,30,F,63,1.57,25.5588462,1.19,Non,Oui,Oui,Non,19,moyen,Hiver,Cancer thyroÃ¯de,CDT rÃ©fractaire iode,dysthroidie,10:45:00,,Non,11:45:00,Jeune adulte,233.1
+5293/2025,2025-03-19 00:00:00,SOUSSI,SALAH,71,H,87,1.71,29.75274443,1.28,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LLC-B,Normal,07:50:00,,Non,08:50:00,SÃ©nior,321.9
+5725/2024,2024-11-04 00:00:00,SRIDI,MOHAMED SEGHAIER,80,H,60,1.71,20.51913409,1,Non,Oui,Non,Non,22,moyen,Automne,Lymphome,LBDGC,Normal,10:10:00,,Non,11:10:00,SÃ©nior,222
+5192/2022,2023-02-08 00:00:00,TAAMALLAH,HAMMOUDA,51,H,105,1.71,35.90848466,1.23,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Bilan fin chimiothÃ©rapie et prÃ© greffe lymphome manteau,Normal,09:10:00,,Non,10:10:00,Adulte,388.5
+5305/2025,2025-03-26 00:00:00,TAJOURI,RYM,53,F,83,1.57,33.67276563,1.17,Non,Oui,Non,Non,16,froid,Printemps,Cancer du sein,Cancer sein rÃ©cidive,Normal,07:50:00,21239900,Non,08:50:00,Adulte,307.1
+5005/2022,2022-03-02 00:00:00,TEJ,MOHAMED AMIR,21,H,116,1.71,39.67032591,1.089,Non,Oui,Oui,Non,16,froid,Hiver,Lymphome,Lymphome Hodgkin stade II,Normal,11:10:00,,Non,12:10:00,Jeune adulte,429.2
+2504/2014,2023-03-11 00:00:00,TEKAYA,MOLKA,46,F,72,1.57,29.21010994,0.94,Non,Oui,Oui,Non,16,froid,Printemps,Cancer du sein,Rechute mÃ©tastatique CCI sein,Normal,07:40:00,,Non,08:40:00,Adulte,266.4
+5322/2025,2025-04-10 00:00:00,TOURI,ABDELAZIZ,66,H,80,1.71,27.35884546,1.6,Oui,Oui,Non,Non,20,moyen,Printemps,Cancer du poumon,Carcinome Ã©pidermoÃ¯de poumon,Normal,07:50:00,21677508,Non,08:50:00,SÃ©nior,296
+5023/2025,2025-01-14 00:00:00,TRABELSI,FATMA,56,F,80,1.6,31.25,0.85,Non,Oui,Non,Non,17,froid,Hiver,Cancer du col,ADK col utÃ©rus,Normal,13:35:00,,Non,14:35:00,Adulte,296
+5863/2024,2025-03-19 00:00:00,TRABELSI,NESRINE,30,F,79,1.57,32.04998174,1,Non,Oui,Non,Non,16,froid,Printemps,Lymphome,Lymphome mÃ©diastinal B,Normal,09:45:00,,Non,10:45:00,Jeune adulte,292.3
+5302/2024,2025-01-09 00:00:00,WBIRI,FARID,44,H,53,1.71,18.12523512,0.7,Non,Oui,Non,Non,17,froid,Hiver,Lymphome,Lymphome MALT gastrique,Normal,11:00:00,,Non,12:00:00,Adulte,196.1
+5242/2025,2025-03-04 00:00:00,WECHTATI EP BARGHOUGUI,FETHET EZHOUR,66,F,68,1.57,27.58732606,0.6,Oui,Oui,Non,Non,16,froid,Printemps,Lymphome,LBDGC,Normal,07:50:00,,Non,08:50:00,SÃ©nior,251.6
+5102/2023,2023-02-16 00:00:00,YACCOUBI,HADDA,65,F,60,1.57,24.34175829,1.0782,Non,Non,Oui,Oui,17,froid,Hiver,Cancer endomÃ¨tre,AdÃ©nocarcinome endomÃ¨tre,Normal,07:45:00,,Non,08:45:00,SÃ©nior,222
+5509/2022,2022-10-12 00:00:00,YAZIDI,SAMIRA,42,F,55,1.57,22.31327843,0.86,Non,Non,Non,Non,29,chaud,Automne,Cancer oesophage,Bilan extension ADK Ã©pidermoÃ¯de oesophage T4bN0M0,Normal,08:40:00,,Non,09:40:00,Adulte,203.5
+5634/2022,2022-12-15 00:00:00,YOUNES,AMEL,51,F,86,1.57,34.88985354,1.16,Non,Oui,Non,Non,19,moyen,Hiver,Cancer ovaire,Ã‰valuation rÃ©cidive ganglionnaire cancer ovaire,Normal,11:14:00,,Non,12:14:00,Adulte,318.2
+5084/2025,2025-01-24 00:00:00,YOUNES,FAHD,29,H,71,1.71,24.28097534,1.02,Non,Oui,Oui,Oui,17,froid,Hiver,Cancer testicule,Tumeur testiculaire germinale,Normal,12:50:00,,Non,13:50:00,Jeune adulte,262.7
+5271/2023,2023-05-06 00:00:00,YOUSSEF,LEILA,53,F,87,1.57,35.29554952,1.05,Non,Non,Non,Non,23,moyen,Printemps,Autre,Suspicion rÃ©cidive tumeur GIST,Normal,10:30:00,,Non,11:30:00,Adulte,321.9
+5260/2025,2025-03-06 00:00:00,ZAHEK,OUMAYMA,19,F,82,1.75,26.7755102,1.06,Non,Oui,Non,Non,16,froid,Printemps,Cancer du poumon,Carcinome mucoepidermoÃ¯de poumon,Normal,11:21:00,,Non,12:21:00,Jeune adulte,303.4
+5132/2022,2024-12-12 00:00:00,ZAIBI,YOUSRA,36,F,76,1.57,30.83289383,0.99,Non,Oui,Non,Non,19,moyen,Hiver,Lymphome,Gray zone lymphoma,Normal,09:45:00,,Non,10:45:00,Jeune adulte,281.2
+47721/2015,2026-01-15 00:00:00,ZAOUALI,FATMA,47,F,72,1.57,29.21010994,1.04,Non,Oui,Oui,Non,17,froid,Hiver,Cancer du sein,Cancer mammaire mÃ©tastatique,Normal,10:30:00,,Non,11:30:00,Adulte,266.4
+5032/2023,2023-01-19 00:00:00,ZARBOUT,CHEDLY,68,H,71,1.71,24.28097534,1.11,Non,Non,Non,Non,17,froid,Hiver,MÃ©lanome,Bilan rÃ©cidive mÃ©lanome marge anale,Normal,07:40:00,,Non,08:40:00,SÃ©nior,262.7
+5653/2024,2024-10-08 00:00:00,ZAYANI,MOHAMED,64,H,48,1.71,16.41530727,1,Non,Oui,Non,Non,29,chaud,Automne,Cancer duodÃ©num,ADK duodÃ©nal,Normal,10:50:00,,Non,11:50:00,SÃ©nior,177.6
+2180/2021,2021-11-25 00:00:00,ZGUAM,MOHAMED,79,H,57,1.71,19.49317739,1.2294,Non,Non,Oui,Non,22,moyen,Automne,Cancer du poumon,Carcinome Ã©pidermoÃ¯de pulmonaire,Normal,10:30:00,,Non,11:30:00,SÃ©nior,210.9
+5878/2024,2024-12-20 00:00:00,ZITOUNI,BACHIR,30,H,67,1.72,22.64737696,0.96,Non,Oui,Non,Non,19,moyen,Hiver,UCNT cavum,Bilan extension initial UCNT cavum,Normal,09:10:00,,Non,10:10:00,Jeune adulte,247.9
+5116/2024,2024-04-24 00:00:00,ZITOUNI,NOUR,20,F,47,1.57,19.06771066,0.95,Non,Oui,Oui,Non,20,moyen,Printemps,Lymphome,LH stade III,Normal,09:20:00,,Non,10:20:00,Jeune adulte,173.9
