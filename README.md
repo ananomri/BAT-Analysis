@@ -5,11 +5,7 @@
 [![Statut](https://img.shields.io/badge/statut-actif-success)]()
 [![Vercel](https://img.shields.io/badge/deploy-Vercel-black)](https://bat-analysis-pfe-rouav2.vercel.app/)
 
-> **Étude observationnelle rétrospective cas-témoin** réalisée par **Anan Omri** pour aider son amie radiologue (**Roua Zarouk**) dans le cadre de son Projet de Fin d'Études (PFE).
-> les facteurs cliniques, biologiques et environnementaux associés à
-> l'**activation de la graisse brune (BAT)** lors des examens de TEP/TDM
-> au ¹⁸F-FDG, afin de **réduire les faux positifs diagnostiques** liés
-> aux hyperfixations physiologiques.
+> J'ai réalisé cette **étude observationnelle rétrospective cas-témoin** pour aider mon amie radiologue (**Roua Zarouk**) dans son PFE. Ce dashboard analyse les facteurs cliniques et biologiques associés à l'**activation de la graisse brune (BAT)** en TEP/TDM, afin d'aider à réduire les faux positifs diagnostiques.
 
 
 ## 🔗 Live Demo
