@@ -62,6 +62,7 @@ RENAME_MAP = {
     "Temps d’acquisition": "temps_acquisition",
     "Temps dacquisition": "temps_acquisition",
     "Temps d'acquisition": "temps_acquisition",
+    "Antécédant d'activation du BAT": "antecedent_bat",
 }
 
 # ============================================================
@@ -83,9 +84,7 @@ CATEGORICAL_VARS = ["sexe", "diabete", "chimio_recente", "classe_temp",
 #  - `imc` plutôt que poids+taille (dérivée, plus interprétable).
 #  - `cancer_grp_reduced` avec catégories ayant ≥ 15 observations
 #    pour stabilité numérique de la régression.
-MODEL_FEATURES = ["age", "sexe", "imc", "glycemie", "temp_ext",
-                  "diabete", "chimio_recente", "cancer_grp_reduced",
-                  "heure_injection_h"]
+MODEL_FEATURES = ["age", "glycemie", "cancer_hodgkin", "antecedent_bat"]
 
 # ============================================================
 # SEUILS & PARAMÈTRES STATISTIQUES

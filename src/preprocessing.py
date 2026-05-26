@@ -54,7 +54,7 @@ def encode_binary(df: pd.DataFrame) -> pd.DataFrame:
     """Convertit les colonnes Oui/Non en 0/1 (suffixées _bin)."""
     df = df.copy()
     binary_cols = ["diabete", "chimio_recente", "bat_activee",
-                   "insuffisance_renale"]
+                   "insuffisance_renale", "antecedent_bat"]
     for c in binary_cols:
         df[f"{c}_bin"] = df[c].map({"Oui": 1, "Non": 0})
     # Sexe → 1 si Femme, 0 si Homme
@@ -113,8 +113,11 @@ def impute_missing(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def group_cancers(df: pd.DataFrame) -> pd.DataFrame:
-    """Réduit la sparsité en regroupant les cancers en classes."""
+    """Réduit la sparsité en regroupant les cancers et crée la variable Hodgkin."""
     df = df.copy()
+    # Feature spécifique demandée
+    df["cancer_hodgkin"] = (df["cancer"] == "Lymphome Hodgkin").astype(int)
+    
     df["cancer_grp"] = df["cancer"].map(C.CANCER_GROUPING).fillna("Autre")
     # Pour la modélisation : regroupement plus agressif (≥15 obs/cat)
     small_groups = ["Génito-urinaire", "Endocrinien"]

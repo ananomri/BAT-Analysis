@@ -1,39 +1,39 @@
 {
-  "auc_test": 0.7679045092838197,
-  "auc_cv_mean": 0.7008732492997198,
-  "auc_cv_std": 0.07297066172965556,
+  "auc_test": 0.6735714285714286,
+  "auc_cv_mean": 0.6970662507427213,
+  "auc_cv_std": 0.08247501201913501,
   "kept_features_backward": [
     "age",
     "glycemie",
-    "cancer_grp_reduced_Sein"
+    "temp_ext"
   ],
-  "n_train": 249,
-  "n_test": 83,
+  "n_train": 243,
+  "n_test": 81,
   "report": {
     "0": {
-      "precision": 0.8648648648648649,
-      "recall": 0.5517241379310345,
-      "f1-score": 0.6736842105263158,
-      "support": 58.0
+      "precision": 0.7560975609756098,
+      "recall": 0.5535714285714286,
+      "f1-score": 0.6391752577319587,
+      "support": 56.0
     },
     "1": {
-      "precision": 0.44680851063829785,
-      "recall": 0.8076923076923077,
-      "f1-score": 0.5753424657534246,
-      "support": 26.0
+      "precision": 0.375,
+      "recall": 0.6,
+      "f1-score": 0.46153846153846156,
+      "support": 25.0
     },
-    "accuracy": 0.6309523809523809,
+    "accuracy": 0.5679012345679012,
     "macro avg": {
-      "precision": 0.6558366877515813,
-      "recall": 0.6797082228116711,
-      "f1-score": 0.6245133381398702,
-      "support": 84.0
+      "precision": 0.5655487804878049,
+      "recall": 0.5767857142857142,
+      "f1-score": 0.5503568596352102,
+      "support": 81.0
     },
     "weighted avg": {
-      "precision": 0.7354664695090227,
-      "recall": 0.6309523809523809,
-      "f1-score": 0.6432450990489924,
-      "support": 84.0
+      "precision": 0.638474856970792,
+      "recall": 0.5679012345679012,
+      "f1-score": 0.5843490860672992,
+      "support": 81.0
     }
   }
 }

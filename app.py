@@ -27,70 +27,109 @@ import src.viz_utils as V
 def local_css():
     st.markdown("""
         <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
         
         html, body, [class*="css"] {
-            font-family: 'Inter', sans-serif;
-            color: #1e293b;
+            font-family: 'Outfit', sans-serif;
+            color: #5d4037;
         }
 
         .main {
-            background-color: #f8fafc;
+            background: linear-gradient(135deg, #fff5f7 0%, #fef9ff 100%);
         }
 
-        /* Card-like containers */
+        /* Sidebar styling with soft colors */
+        section[data-testid="stSidebar"] {
+            background-color: #fff0f3 !important;
+            border-right: 2px solid #ffcad4;
+        }
+        
+        section[data-testid="stSidebar"] .css-1d391kg {
+            background-color: #fff0f3 !important;
+        }
+
+        /* Card-like containers with soft shadows and pink border */
         div.stMetric {
             background-color: #ffffff;
-            border: 1px solid #e2e8f0;
-            padding: 15px;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            border: 1px solid #ffcad4;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 0 10px 15px -3px rgba(255, 182, 193, 0.2);
+            transition: transform 0.2s;
         }
-
-        .reportview-container .main .block-container {
-            padding-top: 2rem;
+        
+        div.stMetric:hover {
+            transform: translateY(-5px);
         }
 
         .stButton>button {
-            border-radius: 8px;
-            background-color: #1e3a8a;
+            border-radius: 12px;
+            background: linear-gradient(45deg, #ff85a1, #fbb1bd);
             color: white;
             font-weight: 600;
+            border: none;
+            padding: 0.5rem 2rem;
+            box-shadow: 0 4px 6px rgba(255, 133, 161, 0.3);
         }
 
-        /* Section headers */
+        .stButton>button:hover {
+            background: linear-gradient(45deg, #fbb1bd, #ff85a1);
+            border: none;
+            color: white;
+        }
+
+        /* Section headers in soft pink/purple */
         h1, h2, h3 {
-            color: #1e3a8a !important;
+            color: #ff758c !important;
             font-weight: 700 !important;
         }
 
-        /* Sidebar styling */
-        .css-1d391kg {
-            background-color: #1e293b;
-        }
-        
         /* Custom clinical insight cards */
         .insight-card {
             background-color: #ffffff;
-            border-left: 5px solid #3b82f6;
-            padding: 1rem;
+            border-left: 5px solid #ff85a1;
+            padding: 1.5rem;
             margin-bottom: 1rem;
-            border-radius: 0 8px 8px 0;
-            box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
         }
         
         .recommendation-card {
-            background-color: #eff6ff;
-            border: 1px solid #bfdbfe;
+            background-color: #fff0f3;
+            border: 1px dashed #ff85a1;
             padding: 1rem;
-            border-radius: 8px;
+            border-radius: 15px;
             margin-bottom: 0.5rem;
+            color: #5d4037;
         }
         
-        .risk-high { color: #dc2626; font-weight: bold; }
-        .risk-moderate { color: #d97706; font-weight: bold; }
-        .risk-low { color: #16a34a; font-weight: bold; }
-        
+        .risk-high { font-size: 1.5rem; color: #ff4d6d; font-weight: bold; }
+        .risk-moderate { font-size: 1.5rem; color: #ff85a1; font-weight: bold; }
+        .risk-low { font-size: 1.5rem; color: #8ecae6; font-weight: bold; }
+
+        /* Floating Butterflies Animation */
+        @keyframes bfly {
+            0% { transform: translate(0,0) rotate(0deg); }
+            25% { transform: translate(10px, -15px) rotate(10deg); }
+            50% { transform: translate(0, -30px) rotate(0deg); }
+            75% { transform: translate(-10px, -15px) rotate(-10deg); }
+            100% { transform: translate(0,0) rotate(0deg); }
+        }
+
+        .butterfly {
+            display: inline-block;
+            animation: bfly 3s infinite ease-in-out;
+            font-size: 1.5rem;
+            margin: 0 10px;
+        }
+
+        /* Decorative header */
+        .header-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 2rem;
+        }
         </style>
     """, unsafe_allow_html=True)
 
@@ -117,7 +156,15 @@ scaler = eval_res['scaler']
 features = eval_res['feature_names']
 
 # --- SIDEBAR NAVIGATION ---
-st.sidebar.markdown("<h2 style='text-align: center; color: #1e3a8a;'>BAT Analysis</h2>", unsafe_allow_html=True)
+st.sidebar.markdown("<div style='text-align: center;'><span class='butterfly'>🦋</span></div>", unsafe_allow_html=True)
+st.sidebar.markdown("<h2 style='text-align: center; color: #ff758c;'>BAT Analysis</h2>", unsafe_allow_html=True)
+
+# Personal Branding
+st.sidebar.markdown("<br>", unsafe_allow_html=True)
+st.sidebar.image("public/radiologist_photo.png", use_container_width=True)
+st.sidebar.markdown("<p style='text-align: center; color: #ff758c; font-weight: 600; font-size: 1.2rem;'>Roua Zarouk</p>", unsafe_allow_html=True)
+st.sidebar.markdown("<br>", unsafe_allow_html=True)
+
 page = st.sidebar.radio("Navigation", ["Data Storytelling", "BAT Predictor", "Causal Inference"])
 
 def generate_recommendations(input_df, risk_prob):
@@ -125,12 +172,12 @@ def generate_recommendations(input_df, risk_prob):
     if risk_prob > 0.3:
         if input_df['age'].iloc[0] < 40:
             recs.append("**Age Adjustment**: Young patient (<40 years). Consider a pre-heated resting room (24-26°C) upon arrival.")
-        if input_df['temp_ext'].iloc[0] < 15:
-            recs.append("**Environmental Factor**: Cold outside temperature. Heating blanket use 30 min before injection strongly recommended.")
-        if "Sein" in input_df['cancer_grp_reduced'].iloc[0]:
-            recs.append("**Clinical Context**: Breast cancer. Increased monitoring for supraclavicular uptake to minimize diagnostic ambiguity.")
         if input_df['glycemie'].iloc[0] > 7.0:
             recs.append("**Metabolic Stress**: Elevated glycemia. Verify strict fasting (≥ 6h) and minimize physical activity pre-scan.")
+        if input_df['cancer_hodgkin'].iloc[0] == 1:
+            recs.append("**Clinical Context**: Hodgkin Lymphoma. Increased monitoring for supraclavicular uptake to minimize diagnostic ambiguity.")
+        if input_df['antecedent_bat'].iloc[0] == "Oui":
+            recs.append("**Patient History**: Positive history of BAT activation. Use passive warming (blankets) strongly recommended.")
         if not recs:
             recs.append("**General Recommendation**: Use passive warming (blankets) to limit non-specific BAT activation.")
     else:
@@ -139,7 +186,7 @@ def generate_recommendations(input_df, risk_prob):
 
 # --- PAGE: DATA STORYTELLING ---
 if page == "Data Storytelling":
-    st.title("Clinical Data Storytelling")
+    st.markdown("<h1 style='text-align: center;'><span class='butterfly'>🦋</span> Clinical Data Storytelling <span class='butterfly'>🦋</span></h1>", unsafe_allow_html=True)
     st.markdown(f"Exploratory analysis of the clinical cohort (n={len(df)} patients).")
     
     # Global Metrics
@@ -217,26 +264,22 @@ if page == "Data Storytelling":
 
 # --- PAGE: PREDICTOR ---
 elif page == "BAT Predictor":
-    st.title("BAT Activation Predictor")
+    st.markdown("<h1 style='text-align: center;'><span class='butterfly'>🦋</span> BAT Activation Predictor <span class='butterfly'>🦋</span></h1>", unsafe_allow_html=True)
     st.markdown("Estimate technical risk and optimize patient preparation protocols.")
     
     with st.sidebar.container():
         st.header("Patient Profile")
         age = st.slider("Age", 5, 95, 45)
-        sexe = st.selectbox("Sex", ["F", "H"])
-        imc = st.slider("BMI", 10.0, 50.0, 24.0)
         glycemie = st.number_input("Glycemia (mmol/L)", 0.5, 30.0, 5.0)
-        temp_ext = st.slider("Outside Temperature (°C)", -10.0, 40.0, 15.0)
-        diabete = st.selectbox("Diabetes", ["No", "Yes"])
-        chimio = st.selectbox("Recent Chemotherapy", ["No", "Yes"])
-        cancer = st.selectbox("Oncology Group", df['cancer_grp_reduced'].unique())
-        heure = st.slider("Injection Time", 7.0, 19.0, 10.0)
+        hodgkin = st.checkbox("Hodgkin Lymphoma", value=False)
+        hist_bat = st.selectbox("History of BAT Activation", ["No", "Yes"])
         
         mapping = {"Yes": "Oui", "No": "Non", "Oui": "Oui", "Non": "Non"}
         input_data = {
-            "age": age, "sexe": sexe, "imc": imc, "glycemie": glycemie,
-            "temp_ext": temp_ext, "diabete": mapping[diabete], "chimio_recente": mapping[chimio],
-            "cancer_grp_reduced": cancer, "heure_injection_h": heure
+            "age": age,
+            "glycemie": glycemie,
+            "cancer_hodgkin": 1 if hodgkin else 0,
+            "antecedent_bat": mapping[hist_bat]
         }
         input_df = pd.DataFrame([input_data])
 

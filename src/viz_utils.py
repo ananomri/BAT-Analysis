@@ -13,10 +13,10 @@ import pandas as pd
 from pathlib import Path
 from . import config as C
 
-# Charte graphique
-PALETTE = {"Oui": "#E63946", "Non": "#457B9D"}   # cas / témoins
-PALETTE_GROUP = ["#264653", "#2A9D8F", "#E9C46A", "#F4A261", "#E76F51",
-                 "#8338EC", "#3A86FF", "#FB5607"]
+# Charte graphique (Girly Theme)
+PALETTE = {"Oui": "#FF85A1", "Non": "#A2D2FF"}   # Soft Pink / Soft Blue
+PALETTE_GROUP = ["#FFC8DD", "#FFAFCC", "#BDE0FE", "#A2D2FF", "#CDB4DB",
+                 "#FADDE1", "#FFCAD4", "#F4ACB7"]
 
 sns.set_theme(style="whitegrid", context="notebook")
 plt.rcParams.update({

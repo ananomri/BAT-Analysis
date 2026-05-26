@@ -1,11 +1,11 @@
 variable,test,statistic,dof,p_value,n_groups,signif
-sexe,Chi²,4.076,1,0.0435,2,*
-diabete,Chi²,4.029,1,0.0447,2,*
-chimio_recente,Chi²,1.061,1,0.3029,2,ns
-classe_temp,Chi²,9.937,2,0.007,3,**
-saison,G-test (Likelihood ratio),6.216,3,0.0355,4,*
-cancer_grp,G-test (Likelihood ratio),27.284,9,0.0004,10,***
-etat_thyroidien,Fisher exact,0.0,1,0.6466,2,ns
-insuffisance_renale,Fisher exact,0.101,1,0.6703,2,ns
-imc_class,Chi²,8.85,3,0.0314,4,*
-age_class,Chi²,38.055,3,0.0,4,***
+sexe,Chi²,3.404,1,0.0651,2,ns
+diabete,Chi²,4.133,1,0.0421,2,*
+chimio_recente,Chi²,1.7,1,0.1922,2,ns
+classe_temp,Chi²,9.953,2,0.0069,3,**
+saison,G-test (Likelihood ratio),6.632,3,0.0291,4,*
+cancer_grp,G-test (Likelihood ratio),26.102,9,0.0008,10,***
+etat_thyroidien,Fisher exact,0.0,1,1.0,2,ns
+insuffisance_renale,Fisher exact,0.257,1,0.4678,2,ns
+imc_class,Chi²,14.922,3,0.0019,4,**
+age_class,Chi²,35.756,3,0.0,4,***
