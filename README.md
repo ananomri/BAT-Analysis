@@ -102,7 +102,7 @@ bat-analysis/
 
 ```bash
 # 1. Cloner le repo
-git clone https://github.com/<user>/bat-analysis.git
+git clone https://github.com/ananomri/BAT-Analysis.git
 cd bat-analysis
 
 # 2. Créer un environnement virtuel
@@ -292,9 +292,9 @@ Si vous utilisez ce code dans une publication :
 ```bibtex
 @misc{bat_activation_2026,
   title  = {BAT Activation Analysis: a case-control study of brown adipose tissue activation on 18F-FDG PET/CT},
-  author = {<Votre Nom>},
+  author = {Anan Omri},
   year   = {2026},
-  url    = {https://github.com/<user>/bat-analysis}
+  url    = {https://github.com/ananomri/BAT-Analysis.git}
 }
 ```
 
