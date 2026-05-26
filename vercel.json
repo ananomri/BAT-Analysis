@@ -15,7 +15,7 @@
             "use": "@vercel/static"
         },
         {
-            "src": "**/*.png",
+            "src": "radiologist_photo.png",
             "use": "@vercel/static"
         }
     ],
