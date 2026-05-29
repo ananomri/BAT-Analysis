@@ -161,9 +161,11 @@ st.sidebar.markdown("<h2 style='text-align: center; color: #ff758c;'>BAT Analysi
 
 # Personal Branding
 st.sidebar.markdown("<br>", unsafe_allow_html=True)
-st.sidebar.image("radiologist_photo.png", use_container_width=True)
-st.sidebar.markdown("<p style='text-align: center; color: #ff758c; font-weight: 600; font-size: 1.2rem;'>Roua Zarouk</p>", unsafe_allow_html=True)
+
+st.sidebar.markdown("<p style='text-align: center; color: #ff758c; font-weight: 600; font-size: 1.2rem;'>&nbsp;</p>", unsafe_allow_html=True)
 st.sidebar.markdown("<br>", unsafe_allow_html=True)
+
+
 
 page = st.sidebar.radio("Navigation", ["Data Storytelling", "BAT Predictor", "Causal Inference"])
 
